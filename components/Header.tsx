@@ -15,13 +15,13 @@ const Header = ({}: Props) => {
           style={{ objectFit: "contain", objectPosition: "left" }}
         />
       </div>
-      <div className="relative flex items-center justify-between py-2 px-3 border rounded-full shadow-sm hover:shadow-md transition-shadow duration-300">
-        <input className="flex items-start outline-none w-full pl-2" type="text" placeholder="Search" />
-        <MagnifyingGlassIcon className=" h-8 bg-red-400 text-white p-2 rounded-full" />
+      <div className="relative flex items-center justify-between py-2 px-2 border-2 rounded-full shadow-sm hover:shadow-md transition-shadow duration-300">
+        <input className="flex items-start outline-none w-full pl-4" type="text" placeholder="Search" />
+        <MagnifyingGlassIcon className=" h-9 bg-red-400 text-white p-2 rounded-full cursor-pointer" />
       </div>
       <div className="relative flex justify-end h-10">
         <GlobeAltIcon className="px-2 py-1 text-gray-500 cursor-pointer" />
-        <div className="flex border px-2 py-1 rounded-full ">
+        <div className="flex border-2 px-2 py-1 rounded-full space-x-2">
           <Bars3Icon className=" text-gray-500 cursor-pointer" />
           <UserCircleIcon className=" text-gray-500 cursor-pointer" />
         </div>
