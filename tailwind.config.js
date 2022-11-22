@@ -21,15 +21,17 @@ module.exports = {
       animation:{
         'ping-slow': 'ping 1.5s ease-out infinite',
         'ping-slow-delayed-1': 'ping 1.5s ease-out 250ms infinite',
-      }
+      },
     },
     colors: {
-      primary: colors.red[400],
+      primary: '#FF5A5F',
       current: "currentColor",
       textLight: colors.gray[500],
       textDark: colors.gray[800],
       ...colors,
     },
+    
   },
+  darkMode:'class',
   plugins: [],
 };
