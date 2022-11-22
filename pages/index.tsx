@@ -1,12 +1,12 @@
 import Head from "next/head";
-import Header from "../components/Header";
-import Hero from "../components/Hero";
+import Header from "@components/sections/Header";
+import Hero from "@components/sections/Hero";
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Airbnb 2.0</title>
+        {/* <title>Airbnb 2.0</title> */}
         <meta name="description" content="Airbnb Clone App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
