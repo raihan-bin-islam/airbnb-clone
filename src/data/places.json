@@ -1,0 +1,2047 @@
+{
+  "error": false,
+  "headers": {
+    "response_time": 1245,
+    "response_timestamp": "2022-11-23T09:24:59.493Z",
+    "response_id": 21399544
+  },
+  "results": [
+    {
+      "id": 45465864,
+      "url": "https://www.airbnb.com/rooms/45465864",
+      "deeplink": "https://www.airbnb.com/rooms/45465864?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 1,
+      "name": "Container Suite: suspended between land and sea",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Terrasini",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/3d966c94-4c87-479b-8eeb-4889e9fb6ac9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/eeffdea4-bbcf-4a05-bcb9-579a03bf41ab.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/9d4c4d58-b9e6-4a2d-9883-eb2df68c0ba0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/3c44f9fd-0a88-41dd-acb5-ebf58bde739f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/39cdf5aa-a5d6-4f55-893c-73bf310dd598.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/9f680175-524d-47f7-9814-a88b9bc42096.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/82b4c3a0-d592-4cc8-b12b-06969fbee837.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 38.12935,
+      "lng": 13.07521,
+      "persons": 2,
+      "reviewsCount": 36,
+      "rating": 4.94,
+      "type": "Earthen home",
+      "userId": 366898002,
+      "address": "Terrasini, Sicilia, Italy",
+      "amenityIds": [
+        129, 4, 5, 9, 73, 394, 77, 79, 657, 146, 85, 23, 280, 25, 665, 90, 91,
+        219, 30, 98, 611, 100, 101, 167, 40, 104, 232, 41, 44, 45, 113, 179, 57,
+        185, 61, 127
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 198,
+        "currency": "USD",
+        "total": 396,
+        "priceItems": [
+          {
+            "amount": 339
+          },
+          {
+            "amount": 57
+          }
+        ]
+      }
+    },
+    {
+      "id": 49458743,
+      "url": "https://www.airbnb.com/rooms/49458743",
+      "deeplink": "https://www.airbnb.com/rooms/49458743?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 2,
+      "name": "Nature Residence - Natural Reserve Valley of Bondo",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Tremosine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7765d806-c20f-485a-8de2-06563c1b2b60.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e5876a3a-5f57-4023-8032-4ec23911c29a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/669cd931-a2ad-4242-a014-e11de93d388f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/19c5a7f0-6baf-46d2-9917-76e15eda2379.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/409ad995-6c75-496e-8439-aa85ba189f18.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/246e2c4e-7074-49a1-adae-e8fca25487a2.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f8f6ecdd-c65a-4d0c-ace4-0f3f8c337209.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.80805,
+      "lng": 10.73731,
+      "persons": 4,
+      "reviewsCount": 1,
+      "type": "Farm stay",
+      "userId": 24518761,
+      "address": "Tremosine, Lombardy, Italy",
+      "amenityIds": [
+        1, 4, 8, 9, 137, 11, 12, 77, 79, 85, 86, 87, 88, 280, 89, 665, 90, 91,
+        667, 92, 93, 30, 94, 95, 671, 32, 96, 672, 35, 36, 100, 37, 101, 39,
+        103, 167, 40, 104, 44, 236, 45, 47, 625, 179, 308, 57, 185, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 384,
+        "currency": "USD",
+        "total": 768,
+        "priceItems": [
+          {
+            "amount": 658
+          },
+          {
+            "amount": 110
+          }
+        ]
+      }
+    },
+    {
+      "id": 30249747,
+      "url": "https://www.airbnb.com/rooms/30249747",
+      "deeplink": "https://www.airbnb.com/rooms/30249747?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 3,
+      "name": "ANTICA ROCCA",
+      "bathrooms": 0,
+      "bedrooms": 5,
+      "beds": 6,
+      "city": "Capodacqua",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e8062f49-357b-439d-85fb-10aea7a15e92.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e630f8dd-9417-4e00-a070-ebe810554603.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/944e0710-8310-45f2-9bca-d026cf84e977.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/53e24b28-fa4f-4075-9c43-30e50c3e3324.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9bf02b12-d245-48d3-9a0f-d6de2a0a0ac8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/655cc248-b77d-4710-9deb-e217b3dfb939.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8bf945b6-2076-4419-b308-c216700fdd76.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.01705,
+      "lng": 12.78245,
+      "persons": 12,
+      "reviewsCount": 0,
+      "type": "Castle",
+      "userId": 1974968,
+      "address": "Capodacqua, Italy",
+      "amenityIds": [
+        1, 2, 100, 5, 7, 8, 45, 179, 87, 280, 90, 27, 91, 92, 30, 31, 95
+      ],
+      "previewAmenities": ["Kitchen", "Air conditioning"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60",
+      "price": {
+        "rate": 2877,
+        "currency": "USD",
+        "total": 5754,
+        "priceItems": [
+          {
+            "amount": 5754
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 39691627,
+      "url": "https://www.airbnb.com/rooms/39691627",
+      "deeplink": "https://www.airbnb.com/rooms/39691627?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 4,
+      "name": "BOAT AND BREAKFAST LADY-Q",
+      "bathrooms": 4.5,
+      "bedrooms": 4,
+      "beds": 8,
+      "city": "Pescara",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7bd42789-da1c-4d3a-8a61-c489ac289f12.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ecb95903-6a58-436a-8563-d9f1aa967682.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/db2d66fb-3c14-41bc-b033-7ecab281db02.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/25eb159f-caa0-4486-9ffd-f9110b969ceb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/140e382b-641e-4596-88d3-ada8f13d2f4b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a62a32c1-69a1-4e6a-bf11-6973c69de2d0.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/3a111f0e-5a0d-423e-81e3-0f58137de00a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.46614,
+      "lng": 14.2335,
+      "persons": 10,
+      "reviewsCount": 5,
+      "rating": 5,
+      "type": "Private room in boat",
+      "userId": 305060056,
+      "address": "Pescara, Abruzzo, Italy",
+      "amenityIds": [
+        32, 1, 35, 611, 5, 37, 39, 8, 40, 41, 42, 11, 44, 45, 77, 79, 16, 86,
+        663, 56, 57, 185, 30
+      ],
+      "previewAmenities": [
+        "Hosted by a business",
+        "Kitchen",
+        "Air conditioning"
+      ],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 870,
+        "currency": "USD",
+        "total": 1740,
+        "priceItems": [
+          {
+            "amount": 1490
+          },
+          {
+            "amount": 250
+          }
+        ]
+      }
+    },
+    {
+      "id": 758454935073271700,
+      "url": "https://www.airbnb.com/rooms/758454935073271700",
+      "deeplink": "https://www.airbnb.com/rooms/758454935073271700?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 5,
+      "name": "Chalet L'Ange Des Neiges - Relax & SPA",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 4,
+      "city": "Valtournenche",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/ba3f49b8-2acf-4e05-934f-f0b656bb551d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/76e72213-eac0-488f-b6b9-bfdfedabe0b6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/62955fef-fa5d-4560-8ed1-0566f9c24c8f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/d595cc39-126a-43cb-b60e-417761257161.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/33d7e8ad-b91f-4c20-b644-72bf1bd6108d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/68276f0f-3067-4c88-9e8c-0fe96e44a109.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f973a3df-4c44-4847-ba97-869dbe4108ce.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.87028114340257,
+      "lng": 7.632913843482005,
+      "persons": 5,
+      "reviewsCount": 0,
+      "type": "Entire cabin",
+      "userId": 462179849,
+      "address": "Valtournenche, Aosta, Italy",
+      "amenityIds": [
+        1, 515, 4, 133, 7, 135, 8, 392, 9, 137, 10, 394, 12, 657, 23, 280, 153,
+        665, 27, 667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 39, 167, 40, 41,
+        44, 45, 51, 179, 52, 308, 185, 322, 69, 73, 77, 79, 85, 86, 89, 90, 91,
+        219, 92, 93, 94, 223, 96, 99, 227, 611, 100, 101, 103, 104, 236, 364,
+        625, 626, 248, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 214,
+        "currency": "USD",
+        "total": 427,
+        "priceItems": [
+          {
+            "amount": 534
+          },
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 36623054,
+      "url": "https://www.airbnb.com/rooms/36623054",
+      "deeplink": "https://www.airbnb.com/rooms/36623054?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 6,
+      "name": "Cottage beach villa de luxe",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Caprarola",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6c249bc7-840f-47c8-8576-cee9b5136ca4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8741a834-39dd-4c0d-9455-a06efa96d6d6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d0062c89-2f25-4f50-9870-e0f23e640c0b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e92f5ab3-e445-4a55-b6f7-74b594c764d6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a08df2b7-ab38-4d30-afb8-89a47c5e8819.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0d9b2047-df89-44e2-869e-e529a6c8922c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1701b53b-3d3b-4a7f-953d-15cd3758cbf3.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 42.32577,
+      "lng": 12.20044,
+      "persons": 4,
+      "reviewsCount": 14,
+      "rating": 4.64,
+      "type": "Entire cottage",
+      "userId": 138761982,
+      "address": "Caprarola, Viterbo, Italy",
+      "amenityIds": [
+        1, 65, 4, 132, 5, 133, 134, 8, 9, 77, 79, 85, 86, 280, 89, 90, 27, 91,
+        92, 93, 30, 94, 31, 95, 96, 33, 674, 99, 100, 101, 39, 103, 40, 104, 41,
+        44, 45, 46, 625, 626, 632, 57, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 206,
+        "currency": "USD",
+        "total": 411,
+        "priceItems": [
+          {
+            "amount": 401
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 22356769,
+      "url": "https://www.airbnb.com/rooms/22356769",
+      "deeplink": "https://www.airbnb.com/rooms/22356769?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 7,
+      "name": "Agriturismo Bonello : Pampering Suite",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Pienza",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/fb9e5521-e448-40eb-b64d-9b39994e59aa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/dfc910a5-d377-4d7d-9471-26c4a0caa209.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/1af1b776-1e81-48ab-bbe3-c71b9623aaeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/e3840a5f-159a-49ee-a43d-564a76dd995c.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/165a65e4-4eb6-419b-8185-f6f5aaeeca17.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/16e68637-bbe1-430b-a5ed-20d5747d0081.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/921a4f50-9f91-4880-bcee-081591708f7b.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.08417,
+      "lng": 11.63264,
+      "persons": 2,
+      "reviewsCount": 0,
+      "type": "Private room in farm stay",
+      "userId": 162697666,
+      "address": "Pienza, Toscana, Italy",
+      "amenityIds": [
+        64, 1, 2, 67, 131, 4, 69, 7, 9, 73, 137, 522, 77, 210, 211, 85, 86, 663,
+        280, 90, 27, 91, 667, 30, 31, 671, 672, 98, 99, 101, 103, 167, 40, 104,
+        232, 42, 44, 45, 46, 47, 179, 308, 56, 57
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 225,
+        "currency": "USD",
+        "total": 449,
+        "priceItems": [
+          {
+            "amount": 449
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 1522528,
+      "url": "https://www.airbnb.com/rooms/1522528",
+      "deeplink": "https://www.airbnb.com/rooms/1522528?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 8,
+      "name": "CHARMING RELAIS 15 'FROM VERONA",
+      "bathrooms": 10,
+      "bedrooms": 10,
+      "beds": 10,
+      "city": "Verona",
+      "images": [
+        "https://a0.muscache.com/im/pictures/22351898/96b5e3ef_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/68324573/ed24376e_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351766/e9275226_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351781/2b7f1630_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351901/60fae3c4_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351826/6ef27376_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/2226688/profile_pic/1336312433/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.48275,
+      "lng": 11.05353,
+      "persons": 16,
+      "reviewsCount": 1,
+      "type": "Private room in nature lodge",
+      "userId": 2226688,
+      "address": "Verona, Veneto, Italy",
+      "amenityIds": [
+        32, 1, 33, 34, 3, 4, 5, 101, 6, 40, 9, 41, 12, 16, 17, 18, 25, 27, 28,
+        30, 31
+      ],
+      "previewAmenities": ["Wifi", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 2640,
+        "currency": "USD",
+        "total": 5280,
+        "priceItems": [
+          {
+            "amount": 4521
+          },
+          {
+            "amount": 759
+          }
+        ]
+      }
+    },
+    {
+      "id": 4465605,
+      "url": "https://www.airbnb.com/rooms/4465605",
+      "deeplink": "https://www.airbnb.com/rooms/4465605?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 9,
+      "name": "The Aosta Valley is our home.",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Aosta",
+      "images": [
+        "https://a0.muscache.com/im/pictures/102a7269-346e-426a-837f-f53476e03c70.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ffef6312-7fb7-4585-b1e0-b788839b1066.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ff027706-18be-4356-ba17-92b5419521f6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/614136ee-28bc-4864-9acb-a4915da2c1a3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a5f19e18-b542-45b6-a960-36acf75e7b1f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5c3abc5e-ce11-4c0c-9b64-7cb33324cc83.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/23169912/profile_pic/1414740478/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.752935,
+      "lng": 7.306543,
+      "persons": 2,
+      "reviewsCount": 11,
+      "rating": 4.82,
+      "type": "Private room in bed and breakfast",
+      "userId": 23169912,
+      "address": "Aosta, Valle d'Aosta, Italy",
+      "amenityIds": [
+        1, 129, 3, 4, 6, 136, 9, 73, 137, 394, 12, 77, 79, 16, 657, 146, 85, 86,
+        663, 280, 667, 30, 31, 671, 98, 611, 100, 37, 101, 40, 41, 42, 44, 45,
+        110, 111, 112, 114, 179, 57, 125, 127
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 75,
+        "currency": "USD",
+        "total": 149,
+        "priceItems": [
+          {
+            "amount": 127
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 54274597,
+      "url": "https://www.airbnb.com/rooms/54274597",
+      "deeplink": "https://www.airbnb.com/rooms/54274597?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 10,
+      "name": "Bono Holiday House APARTMENTS 7 (double)",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Sciacca",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/cdaef12c-db7a-437f-96a9-55c0d2f253b9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/bd51a96f-e238-4960-85a6-488ea8196b68.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/6465f69c-63c5-4ec0-9e56-c30601806437.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/3057714a-89a5-4d7f-a32e-0cef6bbfb033.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/4ec3ab6a-4f86-40b1-970f-dffd6a79f305.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/6c823d98-6a3f-432c-9014-bcec0f9d9a19.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/40e2d041-b062-480c-b721-f5e1082175e7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 37.50255,
+      "lng": 13.03746,
+      "persons": 3,
+      "reviewsCount": 1,
+      "type": "Entire vacation home",
+      "userId": 439825148,
+      "address": "Sciacca, Sicilia, Italy",
+      "amenityIds": [
+        1, 33, 35, 99, 4, 36, 5, 37, 7, 39, 71, 8, 9, 42, 12, 45, 210, 179, 30,
+        94
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 65,
+        "currency": "USD",
+        "total": 130,
+        "priceItems": [
+          {
+            "amount": 130
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 50276027,
+      "url": "https://www.airbnb.com/rooms/50276027",
+      "deeplink": "https://www.airbnb.com/rooms/50276027?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 11,
+      "name": "Verdeacqua Suite - Trullo with Indoor Pool",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Locorotondo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/361a3a98-f697-4429-aeb7-3b3939d74bef.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/df121a35-c679-42f2-a59f-0df1fa77ff8d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2966df31-267d-41a0-a34a-471cfb870b64.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/930fdeb5-4747-4b12-b99c-a790872f2f4d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e413e83-5b39-44eb-b589-8b368e297786.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e33c3e4-5ac3-4c53-af92-aee1e2b7f689.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/804abd48-c0cd-4027-a8ee-ee1b6a6b0cfa.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.74486,
+      "lng": 17.3159,
+      "persons": 5,
+      "reviewsCount": 26,
+      "rating": 4.85,
+      "type": "Trullo",
+      "userId": 405940923,
+      "address": "Locorotondo, Puglia, Italy",
+      "amenityIds": [
+        1, 2, 4, 5, 7, 8, 392, 9, 137, 280, 25, 665, 27, 667, 30, 671, 672, 33,
+        37, 39, 167, 40, 41, 44, 45, 46, 179, 308, 57, 60, 63, 64, 65, 66, 68,
+        69, 70, 71, 73, 201, 74, 331, 77, 79, 211, 85, 87, 89, 90, 91, 92, 476,
+        93, 94, 95, 96, 98, 99, 101, 232, 236, 113, 625, 626, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 407,
+        "currency": "USD",
+        "total": 813,
+        "priceItems": [
+          {
+            "amount": 813
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 601402937647040800,
+      "url": "https://www.airbnb.com/rooms/601402937647040800",
+      "deeplink": "https://www.airbnb.com/rooms/601402937647040800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 12,
+      "name": "History and gardens at the castle's Rectory",
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "beds": 5,
+      "city": "Camerino",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/b516ebb9-25b5-4c1e-b8cb-b3caa4e90ffe.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/d6ef465d-b0eb-4894-a43f-197d9e6b49a8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/749b9a05-eb71-4a0a-a02e-2becb62bd22e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/3b68d3cd-eee1-4cde-9659-6f3fc7448e1c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/81266780-f6c7-43d3-9b37-a603a93eb52a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/e2dfbd1f-e935-4a7b-98a2-bdada5fd4fcc.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8ff5e9a8-eb50-4b6a-99a1-6910556df465.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 43.18745,
+      "lng": 13.06487,
+      "persons": 8,
+      "reviewsCount": 15,
+      "rating": 4.93,
+      "type": "Entire home",
+      "userId": 438210739,
+      "address": "Camerino, Marche, Italy",
+      "amenityIds": [
+        1, 4, 8, 9, 137, 394, 12, 657, 23, 665, 27, 667, 30, 415, 671, 672, 33,
+        35, 36, 37, 39, 167, 40, 41, 44, 45, 46, 47, 308, 57, 61, 322, 71, 77,
+        79, 85, 86, 87, 89, 90, 91, 93, 94, 95, 96, 236, 625, 114, 626, 251, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 105,
+        "currency": "USD",
+        "total": 208,
+        "priceItems": [
+          {
+            "amount": 185
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 30
+          }
+        ]
+      }
+    },
+    {
+      "id": 8378994,
+      "url": "https://www.airbnb.com/rooms/8378994",
+      "deeplink": "https://www.airbnb.com/rooms/8378994?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 13,
+      "name": "\"Corleone Drink\"... Nature, Pool, Good Food",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Campofiorito",
+      "images": [
+        "https://a0.muscache.com/im/pictures/106640961/a3e075ee_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106641040/b3a6895d_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106641311/af8011cb_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642470/188b9cc5_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642541/c459dded_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642613/f6bc0722_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/674e09ab-0aa5-40d4-b6db-52676b7ed3fe.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 37.76449,
+      "lng": 13.29183,
+      "persons": 4,
+      "reviewsCount": 189,
+      "rating": 4.61,
+      "type": "Farm stay",
+      "userId": 44157916,
+      "address": "Campofiorito, Sicilia, Italy",
+      "amenityIds": [
+        66, 5, 7, 72, 9, 73, 12, 77, 16, 85, 86, 88, 89, 91, 30, 31, 33, 34, 98,
+        99, 100, 101, 103, 40, 104, 41, 44, 45
+      ],
+      "previewAmenities": ["Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 154
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
+    },
+    {
+      "id": 9611320,
+      "url": "https://www.airbnb.com/rooms/9611320",
+      "deeplink": "https://www.airbnb.com/rooms/9611320?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 14,
+      "name": "Tower house Gombola",
+      "bathrooms": 0,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Gombola",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/7c1a3f39-e97c-4692-a26b-558b7d0810c8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/4cf8f984-a28a-4e89-8f82-7bcc1ab85ea0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/08353147-caee-423b-a389-377b664b45df.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/9be590f3-b27f-4ad2-8ebe-58fc06d13bb6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/06d83982-2ba0-492e-ae67-06840aa4efbb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/d7117260-c85f-4f1f-b4b3-dd195f4e5a7b.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/fdbe49b3-cffc-4a09-bc46-5b73befe786d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 44.37367,
+      "lng": 10.72683,
+      "persons": 5,
+      "reviewsCount": 37,
+      "rating": 4.92,
+      "type": "Tower",
+      "userId": 49729230,
+      "address": "Gombola, Emilia-Romagna, Italy",
+      "amenityIds": [
+        4, 71, 8, 394, 12, 210, 85, 86, 23, 88, 27, 91, 93, 94, 31, 415, 96, 99,
+        37, 101, 39, 40, 44, 236, 626
+      ],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 183,
+        "currency": "USD",
+        "total": 366,
+        "priceItems": [
+          {
+            "amount": 277
+          },
+          {
+            "amount": 36
+          },
+          {
+            "amount": 53
+          }
+        ]
+      }
+    },
+    {
+      "id": 52291682,
+      "url": "https://www.airbnb.com/rooms/52291682",
+      "deeplink": "https://www.airbnb.com/rooms/52291682?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 15,
+      "name": "A home with a comfortable and material antique flavour",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Alpago",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/6bad5009-6e9e-452a-ad2d-e86d1aa2b2e2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/d8f00626-0953-4991-8808-9c0ccb071392.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/9bff6b28-0ebc-4ff0-aeed-00763759d302.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/99052cb2-af20-48c8-b7a2-1588ff6b7f6a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/de5411df-5720-48ea-905b-f3fd43e80e56.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/a6fddea9-a1de-4591-ae8c-0748c4fb3bd7.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ab2878e3-5dc9-4b6a-869b-16975aab2a5a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.147568,
+      "lng": 12.375193,
+      "persons": 2,
+      "reviewsCount": 19,
+      "rating": 5,
+      "type": "Private room in bed and breakfast",
+      "userId": 9785971,
+      "address": "Alpago, Veneto, Italy",
+      "amenityIds": [
+        64, 1, 227, 4, 100, 101, 71, 167, 40, 232, 9, 394, 11, 45, 77, 46, 47,
+        51, 53, 663, 280, 90, 30, 671
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 129,
+        "currency": "USD",
+        "total": 257,
+        "priceItems": [
+          {
+            "amount": 257
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 13028870,
+      "url": "https://www.airbnb.com/rooms/13028870",
+      "deeplink": "https://www.airbnb.com/rooms/13028870?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 16,
+      "name": "SARA VILLA WITH HEATED POOL",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "beds": 5,
+      "city": "Lotzorai",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7c541e92-efef-4794-a3e0-cabbd3eee15f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7058f35e-8319-407c-8e25-978044317143.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b45f9cd1-6a28-4742-a556-ef66fbcae981.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7f4ea027-2215-4f3b-9117-619f38a101ab.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/97609487-3e5c-445e-8a49-7ae5006869c2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7dfba40b-62f4-4adf-97f6-3facb8fc2a3e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5d07d4b8-c4b3-4999-8a20-d9bfab1fbce7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.00536,
+      "lng": 9.57654,
+      "persons": 9,
+      "reviewsCount": 70,
+      "rating": 4.88,
+      "type": "Entire villa",
+      "userId": 71980548,
+      "address": "Lotzorai, Sardegna, Italy",
+      "amenityIds": [
+        1, 515, 4, 5, 7, 8, 392, 9, 137, 521, 522, 139, 12, 146, 280, 25, 665,
+        27, 667, 30, 31, 671, 32, 672, 33, 34, 167, 40, 41, 42, 44, 45, 46, 51,
+        179, 52, 308, 56, 184, 57, 185, 62, 64, 66, 322, 71, 72, 73, 74, 331,
+        77, 210, 211, 85, 86, 87, 88, 89, 90, 91, 92, 476, 93, 94, 95, 96, 97,
+        98, 99, 100, 101, 103, 104, 232, 236, 625, 626, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 294,
+        "currency": "USD",
+        "total": 588,
+        "priceItems": [
+          {
+            "amount": 308
+          },
+          {
+            "amount": 195
+          },
+          {
+            "amount": 85
+          }
+        ]
+      }
+    },
+    {
+      "id": 679598244113053800,
+      "url": "https://www.airbnb.com/rooms/679598244113053800",
+      "deeplink": "https://www.airbnb.com/rooms/679598244113053800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 17,
+      "name": "3070 Masseria Macchia- Suite Matrimoniale 3 by BarbarHouse",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ceglie Messapica",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/57fae3da-9eed-407a-b8b6-076d6862fc88.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/98070cd0-3e17-4b9f-9578-a9ace304d52b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/9395e39f-5f0f-4007-9073-934800c33ed3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/a3a91c83-2cd8-4698-b8de-b707c4de1dcf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/de27b79e-b583-40bd-88db-468e045bf098.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/20be45e3-513f-4019-b661-ec1ce270b267.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/63a39914-ded6-44ac-a86b-ab62dc275e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.67901,
+      "lng": 17.49709,
+      "persons": 2,
+      "reviewsCount": 4,
+      "rating": 5,
+      "type": "Private room in bed and breakfast",
+      "userId": 9632167,
+      "address": "Ceglie Messapica, Apulia, Italy",
+      "amenityIds": [5, 57, 90, 91, 92, 45, 95],
+      "previewAmenities": ["Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 44485429,
+      "url": "https://www.airbnb.com/rooms/44485429",
+      "deeplink": "https://www.airbnb.com/rooms/44485429?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 18,
+      "name": "Baita Vrei (2)\"Titta\" - Hut Lago Maggiore",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Miazzina",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c655192a-7599-4e77-a2ee-a42f4365d7b4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/34aebe97-4f5c-4215-b4ef-74668e32384b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/c5ed383f-b9a3-4ed4-8145-0de3e8d3bb85.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/eaa03a4f-3933-4418-bebd-15712d6a4441.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/69090a60-fa82-4f23-8eb0-c751c2a5c6d8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/fb96ba3b-23ef-4485-a0a3-3d16c3eecd35.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0e1b8a08-142f-47ac-9bdb-2949ea88bb13.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.97699,
+      "lng": 8.51783,
+      "persons": 2,
+      "reviewsCount": 44,
+      "rating": 4.93,
+      "type": "Entire home",
+      "userId": 33590624,
+      "address": "Miazzina, Piemonte, Italy",
+      "amenityIds": [
+        515, 133, 8, 392, 137, 394, 12, 23, 280, 153, 665, 667, 30, 31, 415,
+        671, 37, 39, 40, 42, 47, 51, 179, 55, 184, 57, 61, 62, 66, 70, 71, 77,
+        79, 210, 85, 86, 87, 90, 219, 93, 94, 95, 96, 98, 99, 227, 100, 101,
+        103, 236, 625, 626
+      ],
+      "previewAmenities": ["Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 1852,
+        "currency": "USD",
+        "total": 3704,
+        "priceItems": [
+          {
+            "amount": 3694
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 618762460039703400,
+      "url": "https://www.airbnb.com/rooms/618762460039703400",
+      "deeplink": "https://www.airbnb.com/rooms/618762460039703400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 19,
+      "name": "TrivignoLife \nCheerful mountain chalet",
+      "bathrooms": 2,
+      "bedrooms": 4,
+      "beds": 9,
+      "city": "Tirano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/dbad0c32-86ce-449b-9e5d-79d58b649cce.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/b961e251-5632-472f-84ff-1a755441a0ae.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/d5cbb489-1be4-45a6-a5ef-9eb5da63b41e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/a7e2bb22-3f77-4610-ba0e-78828d1fdcb9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/a5703fe6-91af-4cd9-b3ee-29ca3344488f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/88bace0c-7a75-455b-9873-4fa8643f2cc2.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/65ac7cfe-80db-4e46-be95-e9346829e8de.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 46.18752,
+      "lng": 10.1878,
+      "persons": 15,
+      "reviewsCount": 7,
+      "rating": 4.43,
+      "type": "Entire cabin",
+      "userId": 457274264,
+      "address": "Tirano, Lombardia, Italy",
+      "amenityIds": [
+        1, 2, 4, 8, 75, 77, 79, 85, 86, 89, 665, 27, 219, 667, 93, 30, 94, 223,
+        415, 671, 96, 33, 99, 611, 167, 40, 104, 41, 45, 47, 625, 626, 179, 308,
+        185, 61, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 162,
+        "currency": "USD",
+        "total": 324,
+        "priceItems": [
+          {
+            "amount": 226
+          },
+          {
+            "amount": 51
+          },
+          {
+            "amount": 47
+          }
+        ]
+      }
+    },
+    {
+      "id": 35201156,
+      "url": "https://www.airbnb.com/rooms/35201156",
+      "deeplink": "https://www.airbnb.com/rooms/35201156?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 20,
+      "name": "Nice home in Torchiara with 9 Bedrooms, Private",
+      "bathrooms": 9,
+      "bedrooms": 9,
+      "beds": 10,
+      "city": "Torchiara",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/406055bc-ff30-4f50-892e-bce1c576f2cc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/4fa374a3-b3b8-47fb-ac53-b7a3d525c1ad.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/ac761692-afa5-4248-99ae-76c107868ab3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/8cda5aca-51bd-4a92-83e1-309815c98257.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/45520a8f-cda9-44e0-9f9b-11430dd3d793.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/ee253e3b-295c-4121-aa48-8f0ca4fecc79.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0fb4c2d3-a0fe-44ce-aedc-9586e8b6a899.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.32758,
+      "lng": 15.04589,
+      "persons": 16,
+      "reviewsCount": 2,
+      "type": "Entire home",
+      "userId": 159965815,
+      "address": "Torchiara, Italy",
+      "amenityIds": [
+        96, 1, 33, 34, 35, 99, 4, 5, 101, 7, 8, 44, 47, 51, 55, 57, 89, 90, 27,
+        91, 92, 93
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60_NEW",
+      "price": {
+        "rate": 1455,
+        "currency": "USD",
+        "total": 2909,
+        "priceItems": [
+          {
+            "amount": 1805
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 565
+          },
+          {
+            "amount": 539
+          }
+        ]
+      }
+    },
+    {
+      "id": 39353576,
+      "url": "https://www.airbnb.com/rooms/39353576",
+      "deeplink": "https://www.airbnb.com/rooms/39353576?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 21,
+      "name": "Castle in Crete",
+      "bathrooms": 22,
+      "bedrooms": 20,
+      "beds": 30,
+      "city": "Siena",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d81d8086-bf71-4de9-969c-6d88f7e3cb99.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/339ab403-3683-4dbc-b007-e0883e8cce89.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8f829113-4bcf-443c-be40-f443404f5cf8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c8e225cd-158b-4f0b-88dd-cbdaf43b4a62.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/31f9ae5d-8bb2-4774-a100-43d3168bdfcf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/65cb64ec-39a9-4d44-99d2-dbcf0baa1e7f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/892cf0ae-2624-4b9a-bead-fe27c69477c6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.28854,
+      "lng": 11.45478,
+      "persons": 16,
+      "reviewsCount": 0,
+      "type": "Castle",
+      "userId": 301492547,
+      "address": "Siena, Italy",
+      "amenityIds": [
+        64, 1, 2, 4, 5, 7, 71, 9, 12, 77, 16, 21, 85, 86, 91, 30, 31, 32, 35,
+        36, 100, 37, 39, 103, 40, 41, 44, 45
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60",
+      "price": {
+        "rate": 6501,
+        "currency": "USD",
+        "total": 13001,
+        "priceItems": [
+          {
+            "amount": 12997
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 35788784,
+      "url": "https://www.airbnb.com/rooms/35788784",
+      "deeplink": "https://www.airbnb.com/rooms/35788784?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 22,
+      "name": "Panoramic views on organic farm - room 4",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Tuscania",
+      "images": [
+        "https://a0.muscache.com/im/pictures/baacaf43-5926-4da0-b094-d4d604c36b75.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/95875787/4e22ce03_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44114411/d1284a19_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44116104/f0540909_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44116921/aa54dae3_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44114089/9d15c0bf_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/15638362/profile_pic/1404403366/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.40212,
+      "lng": 11.8808,
+      "persons": 2,
+      "reviewsCount": 21,
+      "rating": 4.71,
+      "type": "Private room in farm stay",
+      "userId": 15638362,
+      "address": "Tuscania, Lazio, Italy",
+      "amenityIds": [
+        33, 4, 6, 40, 9, 41, 42, 11, 12, 44, 45, 46, 16, 17, 18, 19, 20, 56, 57,
+        27, 30, 31
+      ],
+      "previewAmenities": ["Wifi", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 96,
+        "currency": "USD",
+        "total": 192,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          }
+        ]
+      }
+    },
+    {
+      "id": 26343390,
+      "url": "https://www.airbnb.com/rooms/26343390",
+      "deeplink": "https://www.airbnb.com/rooms/26343390?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 23,
+      "name": "The Guest House of the Tavignano Estate",
+      "bathrooms": 4,
+      "bedrooms": 4,
+      "beds": 8,
+      "city": "Cingoli",
+      "images": [
+        "https://a0.muscache.com/im/pictures/651b3988-ffba-4a93-808e-45cc681dbed5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0ae45376-bcf4-499a-b174-690b8ae4def2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ae624e2d-17fa-4c6c-825a-9fc8199f1c4f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/280d01da-811e-492e-bb12-867c6b218257.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/93e6199a-972f-402f-a826-72c041294c8f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c94ef0e9-2979-4352-9588-ac4150033dfd.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/fb44f127-8c70-49c0-b77d-841641dbd7bb.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.45287,
+      "lng": 13.24741,
+      "persons": 8,
+      "reviewsCount": 33,
+      "rating": 4.97,
+      "type": "Farm stay",
+      "userId": 198125430,
+      "address": "Cingoli, Marche, Italy",
+      "amenityIds": [
+        1, 129, 4, 8, 9, 77, 79, 85, 280, 90, 27, 91, 93, 30, 95, 671, 33, 35,
+        99, 100, 37, 101, 38, 39, 167, 40, 41, 42, 44, 45
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 216,
+        "currency": "USD",
+        "total": 432,
+        "priceItems": [
+          {
+            "amount": 329
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 62
+          }
+        ]
+      }
+    },
+    {
+      "id": 51364470,
+      "url": "https://www.airbnb.com/rooms/51364470",
+      "deeplink": "https://www.airbnb.com/rooms/51364470?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 24,
+      "name": "Pitch to place your tent - B&B",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 8,
+      "city": "Ostra Vetere",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d8000941-ce09-481c-84de-7922077207f4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5d2a4c34-7f9c-42f6-afbc-f89c34374c15.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b70b4ba4-bb2e-4490-804e-abb04c9c0d71.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7353bb88-bc8a-4c5a-9d63-5cde21d38069.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1872211b-6aaa-4988-92a2-ef62dc5ad7d9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0d0e2f44-7c9a-4ab8-9ca8-3023dc35dcc4.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/99294b16-c2ee-4c2b-85fd-d501f003e66f.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.5977,
+      "lng": 13.05383,
+      "persons": 8,
+      "reviewsCount": 5,
+      "rating": 5,
+      "type": "Private room in tent",
+      "userId": 413538706,
+      "address": "Ostra Vetere, Marche, Italy",
+      "amenityIds": [4, 101, 7, 40, 9, 41, 11, 12, 45, 77, 63],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 18,
+        "currency": "USD",
+        "total": 36,
+        "priceItems": [
+          {
+            "amount": 31
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 4385948,
+      "url": "https://www.airbnb.com/rooms/4385948",
+      "deeplink": "https://www.airbnb.com/rooms/4385948?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 25,
+      "name": "Macco Macco House Trulli",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Locorotondo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/55336853/04a7c19c_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55087775/f86a1b09_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55336951/fdefe96b_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55336976/f113a227_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55337057/59965f4e_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55337280/8ab6099b_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/16909601/profile_pic/1409819506/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.77584,
+      "lng": 17.33168,
+      "persons": 5,
+      "reviewsCount": 175,
+      "rating": 4.95,
+      "type": "Trullo",
+      "userId": 16909601,
+      "address": "Locorotondo, Bari, Italy",
+      "amenityIds": [
+        64, 1, 129, 4, 71, 8, 9, 77, 17, 18, 19, 85, 86, 23, 90, 27, 91, 93, 30,
+        94, 31, 95, 96, 33, 100, 37, 101, 40, 104, 44, 45, 46, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 108,
+        "currency": "USD",
+        "total": 216,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 31
+          }
+        ]
+      }
+    },
+    {
+      "id": 13797755,
+      "url": "https://www.airbnb.com/rooms/13797755",
+      "deeplink": "https://www.airbnb.com/rooms/13797755?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 26,
+      "name": "Skylinemilan com",
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Milano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/721b53c0-506e-4e29-ab74-52c6702fa2e5?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/da8bc354-64e3-4620-b044-35c5b9df964d?im_w=1200",
+        "https://a0.muscache.com/im/pictures/df7bec7e-755c-4715-84f8-cd9990019a86.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/8469cbc8-dae0-4434-aea6-df2fe115fa7d.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/8e11424a-f58b-47a0-8d5e-f38e854614c9?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/cb9f6ff2-c563-45e8-8f95-80ed3e2bdda3?im_w=1200"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/997045c0-a741-4f15-9f78-fc714db8bfb1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.48376,
+      "lng": 9.20304,
+      "persons": 6,
+      "reviewsCount": 136,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 18371495,
+      "address": "Milano, Lombardia, Italy",
+      "amenityIds": [
+        1, 129, 2, 4, 260, 5, 262, 7, 8, 136, 264, 137, 268, 269, 270, 143, 273,
+        274, 275, 21, 278, 151, 280, 25, 153, 281, 283, 285, 30, 287, 33, 161,
+        34, 35, 36, 164, 292, 37, 293, 166, 39, 167, 40, 41, 44, 45, 46, 47,
+        179, 180, 181, 185, 61, 189, 64, 67, 73, 77, 79, 81, 83, 85, 86, 89, 90,
+        91, 92, 93, 94, 95, 96, 227, 100, 234, 235, 117, 248, 249
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 678,
+        "currency": "USD",
+        "total": 1356,
+        "priceItems": [
+          {
+            "amount": 982
+          },
+          {
+            "amount": 174
+          },
+          {
+            "amount": 194
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 30493434,
+      "url": "https://www.airbnb.com/rooms/30493434",
+      "deeplink": "https://www.airbnb.com/rooms/30493434?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 27,
+      "name": "Magical Trullo in Ostuni Cis BR0740129000012213",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 3,
+      "city": "Ostuni",
+      "images": [
+        "https://a0.muscache.com/im/pictures/30d6cf52-d303-4026-8d8c-5cc8ac03444e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/47c31e5b-f7af-4f66-ae07-5f878ad67344.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/40359020-f6d9-4122-a349-f440443e3107.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2abbbb94-77ed-48a0-bc3d-173368d133e1.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/42d109ca-2308-4dcf-9df9-1779c245d380.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6f286862-8f28-47d8-8044-8d34dadea9cd.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7e5a3d64-257c-474f-b177-0e45ffe9d8b2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.70135,
+      "lng": 17.62055,
+      "persons": 3,
+      "reviewsCount": 79,
+      "rating": 4.86,
+      "type": "Trullo",
+      "userId": 228574643,
+      "address": "Ostuni, Puglia, Italy",
+      "amenityIds": [
+        1, 5, 71, 72, 9, 11, 12, 77, 79, 210, 89, 90, 91, 93, 30, 94, 96, 99,
+        100, 101, 39, 167, 40, 41, 44, 45, 57
+      ],
+      "previewAmenities": ["Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 96,
+        "currency": "USD",
+        "total": 192,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          }
+        ]
+      }
+    },
+    {
+      "id": 27803297,
+      "url": "https://www.airbnb.com/rooms/27803297",
+      "deeplink": "https://www.airbnb.com/rooms/27803297?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 28,
+      "name": "Trulli Chiafele",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Martina Franca",
+      "images": [
+        "https://a0.muscache.com/im/pictures/525f16b7-e690-4bb7-bad8-02366cdac01d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/24de0aaa-4889-4ed4-ae8d-1aaa1fdcfb1d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5bdbb9fc-2204-4a5a-a10a-fbd63f4afcfd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/17b97370-8da7-478b-97b3-a626ee567ddd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6be3a2c3-9d64-46ed-926a-5105ed3a8c78.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6a267a1c-0ca8-4f03-8ba4-03e9761d33a3.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/2ad5e919-9867-490f-aa13-cdc56f2ce3b8.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.73243,
+      "lng": 17.27821,
+      "persons": 4,
+      "reviewsCount": 119,
+      "rating": 4.98,
+      "type": "Trullo",
+      "userId": 209945320,
+      "address": "Martina Franca, Puglia, Italy",
+      "amenityIds": [
+        1, 2, 4, 5, 8, 9, 23, 280, 153, 30, 33, 35, 36, 37, 38, 40, 41, 44, 45,
+        46, 47, 51, 179, 55, 56, 57, 60, 63, 64, 67, 71, 72, 73, 74, 77, 85, 86,
+        87, 89, 90, 91, 219, 93, 94, 96, 98, 99, 227, 611, 100, 101, 102, 109,
+        113, 626, 627, 127
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 110,
+        "currency": "USD",
+        "total": 220,
+        "priceItems": [
+          {
+            "amount": 162
+          },
+          {
+            "amount": 26
+          },
+          {
+            "amount": 32
+          }
+        ]
+      }
+    },
+    {
+      "id": 51341383,
+      "url": "https://www.airbnb.com/rooms/51341383",
+      "deeplink": "https://www.airbnb.com/rooms/51341383?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 29,
+      "name": "VILLA ROSETO-TODI",
+      "bathrooms": 6,
+      "bedrooms": 5,
+      "beds": 5,
+      "city": "Collazzone",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/d24cb55a-8d3c-408c-9047-509e31ca5f7e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/0b5124d4-0577-47d5-94b4-852706060494.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/ddd1be71-b627-40f6-bf1e-d6e79100766a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/7b4043e6-cc59-46de-8087-329d335440de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/f7a3f703-de67-47ae-beaa-3830fd553d97.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/102e3874-94d0-41a0-aa22-ba49ab64e831.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/04be4edd-cf3b-43f6-8ad0-07f220ce54d6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 42.87968,
+      "lng": 12.42746,
+      "persons": 10,
+      "reviewsCount": 1,
+      "type": "Entire villa",
+      "userId": 65059955,
+      "address": "Collazzone, Umbria, Italy",
+      "amenityIds": [
+        1, 4, 5, 7, 8, 392, 9, 137, 394, 15, 16, 657, 146, 661, 280, 25, 153,
+        665, 27, 667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 39, 167, 40, 41,
+        44, 45, 46, 47, 51, 179, 308, 55, 57, 185, 60, 62, 63, 64, 65, 66, 322,
+        68, 69, 71, 72, 73, 201, 74, 75, 77, 79, 210, 211, 85, 86, 89, 90, 91,
+        219, 347, 92, 93, 94, 95, 223, 96, 97, 99, 227, 611, 100, 101, 103, 104,
+        107, 236, 625, 626, 632, 251, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 930,
+        "currency": "USD",
+        "total": 1860,
+        "priceItems": [
+          {
+            "amount": 1438
+          },
+          {
+            "amount": 154
+          },
+          {
+            "amount": 268
+          }
+        ]
+      }
+    },
+    {
+      "id": 49891158,
+      "url": "https://www.airbnb.com/rooms/49891158",
+      "deeplink": "https://www.airbnb.com/rooms/49891158?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 30,
+      "name": "Schnitzers Ferienheisl",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "beds": 4,
+      "city": "San Leonardo in Passiria",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/f4eec5a1-59ad-4a25-894c-ca297b76a43b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/01ace38f-9159-47d7-a1c0-e2c8bc6ce00c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/0de7a44b-ea13-4715-bc40-95cb2ba86aab.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/0f7a8aba-6ed5-4cb6-b291-45ae5cd3c7ff.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/413ea6f4-4bee-47ee-bada-a3b398052abe.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/56c7bbbf-1a2e-4202-b26f-9e6df25cdd81.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f0b880ef-a23b-47a8-b8c4-c6e72bfdc014.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 46.80933930730663,
+      "lng": 11.253032975226006,
+      "persons": 10,
+      "reviewsCount": 9,
+      "rating": 5,
+      "type": "Entire chalet",
+      "userId": 205435091,
+      "address": "San Leonardo in Passiria, Trentino-Alto Adige, Italy",
+      "amenityIds": [
+        64, 1, 66, 131, 4, 71, 8, 392, 9, 137, 12, 85, 90, 27, 91, 92, 93, 30,
+        95, 96, 33, 99, 100, 37, 101, 40, 232, 45, 308, 61
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 514,
+        "currency": "USD",
+        "total": 1027,
+        "priceItems": [
+          {
+            "amount": 1027
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 735316262209943000,
+      "url": "https://www.airbnb.com/rooms/735316262209943000",
+      "deeplink": "https://www.airbnb.com/rooms/735316262209943000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 31,
+      "name": "Farmhouse I Frati - Lake Trasimeno view",
+      "bathrooms": 11.5,
+      "bedrooms": 14,
+      "beds": 19,
+      "city": "Paciano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/8a25dc79-db31-446e-b98d-55fbcc3f25d8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/209c5d2b-1242-4ad5-b66a-d08148e7a2ed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/9aaa5b7b-e734-4377-99e5-983ce8807d43.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/c6d3d1bd-51ef-4dfb-87b3-820606ffd488.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/61cb5149-9371-461b-afc0-9fe2372d9de7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/5ea06a30-38b1-4c3e-ab7c-6a34f954f02e.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1cf2eaaf-ec96-4bca-98fb-b5b288fde111.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.02327872858985,
+      "lng": 12.083549653967282,
+      "persons": 16,
+      "reviewsCount": 0,
+      "type": "Entire villa",
+      "userId": 407461929,
+      "address": "Paciano, Umbria, Italy",
+      "amenityIds": [32, 1, 33, 179, 4, 5, 7, 8, 9, 27, 12, 510],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 4200,
+        "currency": "USD",
+        "total": 8400,
+        "priceItems": [
+          {
+            "amount": 7192
+          },
+          {
+            "amount": 1208
+          }
+        ]
+      }
+    },
+    {
+      "id": 48940639,
+      "url": "https://www.airbnb.com/rooms/48940639",
+      "deeplink": "https://www.airbnb.com/rooms/48940639?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 32,
+      "name": "Luxury trulli Sabotino",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 3,
+      "city": "Alberobello",
+      "images": [
+        "https://a0.muscache.com/im/pictures/3cc485b3-baa4-476c-85d2-923a77adc22e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/bde1c496-2963-4fb7-ae4e-68670fe97b80.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e79b2ef1-0ce7-4de6-a333-17eb833235a1.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9b418278-794a-47f6-a628-0bde488d79fa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/128b6934-ecb9-46b3-b2c9-788219821e43.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8f97adb6-cfe0-41fa-bd18-44470b9f292e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/11193755-2217-403a-8c54-997d910017ee.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.7827,
+      "lng": 17.23607,
+      "persons": 5,
+      "reviewsCount": 40,
+      "rating": 4.93,
+      "type": "Trullo",
+      "userId": 358998354,
+      "address": "Alberobello, Puglia, Italy",
+      "amenityIds": [
+        1, 4, 5, 71, 137, 10, 331, 77, 79, 80, 81, 146, 83, 85, 86, 23, 663,
+        280, 665, 90, 91, 93, 30, 415, 671, 96, 672, 611, 100, 101, 293, 103,
+        167, 40, 41, 42, 44, 236, 45, 47, 57
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 168,
+        "currency": "USD",
+        "total": 336,
+        "priceItems": [
+          {
+            "amount": 288
+          },
+          {
+            "amount": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": 679560117730255400,
+      "url": "https://www.airbnb.com/rooms/679560117730255400",
+      "deeplink": "https://www.airbnb.com/rooms/679560117730255400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 33,
+      "name": "3067 Masseria Macchia - Suite Matrimoniale 1 by BarbarHouse",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ceglie Messapica",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/d04441ab-af3a-4926-8060-348ceb5893fc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/7c38a45b-cba0-42c7-8af7-1310fb883bdf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/bda822d5-ae0a-41c0-be54-98db1dd5990d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/b571fcd4-0b65-4dad-8940-d2cc1fe91285.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/eb9744fe-f911-4ea3-9b42-24291d242316.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/8934b5a5-a3ed-4e36-9f87-a1602708e95a.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/63a39914-ded6-44ac-a86b-ab62dc275e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.68005,
+      "lng": 17.49852,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in bed and breakfast",
+      "userId": 9632167,
+      "address": "Ceglie Messapica, Apulia, Italy",
+      "amenityIds": [1, 4, 5, 57, 90, 91, 44, 92, 45, 95],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 27479788,
+      "url": "https://www.airbnb.com/rooms/27479788",
+      "deeplink": "https://www.airbnb.com/rooms/27479788?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 34,
+      "name": "\"Villa al Mok\" by Mario",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Lecco",
+      "images": [
+        "https://a0.muscache.com/im/pictures/9a4c35f7-424a-443e-a9d3-46c9ea6a361b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/0a0267ac-f5d3-4de2-bc81-2c6bda08c322.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/8a932e57-7cfc-4553-aede-30ec86a5904e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/b68ba15a-7072-49a0-8bd7-0e91edaf3f20.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/c4966a1f-2823-4b3f-944c-69f4ae6189a4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/15e3e9b7-ee28-4a4e-8ada-9415a43fec9b.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1b3ca2ff-e3ad-485d-9f48-d74ac926a3d0.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.05728,
+      "lng": 9.31301,
+      "persons": 2,
+      "reviewsCount": 251,
+      "rating": 4.85,
+      "type": "Private room in villa",
+      "userId": 206870336,
+      "address": "Lecco, Lombardia, Italy",
+      "amenityIds": [
+        4, 132, 5, 133, 137, 201, 394, 331, 12, 77, 79, 146, 211, 85, 86, 23,
+        90, 91, 30, 674, 99, 227, 611, 100, 37, 101, 167, 40, 104, 42, 172, 236,
+        45, 51, 179, 500, 54, 56, 57, 61
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 102,
+        "currency": "USD",
+        "total": 204,
+        "priceItems": [
+          {
+            "amount": 175
+          },
+          {
+            "amount": 29
+          }
+        ]
+      }
+    },
+    {
+      "id": 49848024,
+      "url": "https://www.airbnb.com/rooms/49848024",
+      "deeplink": "https://www.airbnb.com/rooms/49848024?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 35,
+      "name": "Fienile: an old Barn just for you  (hosts 10)",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "beds": 3,
+      "city": "Vicchio",
+      "images": [
+        "https://a0.muscache.com/im/pictures/ac1d7918-3ee4-494e-9163-50f9ed6b86d8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8cae6588-37e5-4a7a-a0c8-21e380c584a6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d54309d2-d791-4e15-95df-96e67d6045a5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/05d80374-db9d-4399-b918-ea4f310ad024.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/dde7790f-f4c0-42bb-9fc3-80f7d9cdcfb3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ef5923c0-62c1-40bd-b983-b0f559abc32e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/880a301b-686b-4cf3-bbc2-2c668baa19a1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.90606,
+      "lng": 11.43077,
+      "persons": 10,
+      "reviewsCount": 0,
+      "type": "Farm stay",
+      "userId": 391773751,
+      "address": "Vicchio, Toscana, Italy",
+      "amenityIds": [
+        32, 1, 4, 36, 5, 7, 39, 40, 72, 9, 41, 42, 12, 45, 47, 16, 25, 57, 30,
+        94
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 1017,
+        "currency": "USD",
+        "total": 2034,
+        "priceItems": [
+          {
+            "amount": 2034
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 19035338,
+      "url": "https://www.airbnb.com/rooms/19035338",
+      "deeplink": "https://www.airbnb.com/rooms/19035338?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 36,
+      "name": "The Great Beauty",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Perledo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/ed0fb1c1-9100-46ea-996e-f24913b253d4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5887cb7d-9be9-4bbc-a705-612f9c0787b6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/feae8c99-d02c-4502-84dd-dd35a586d5db.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/eaf2b04c-6a90-4e1e-ac19-6231519904c1.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/98437381-200b-4524-9dd5-a99542821bd4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/2664bdcf-807d-4930-8d69-7f8977ba06e0.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/be80eac7-c9a6-42ff-87a3-802ed23efca4.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.01778,
+      "lng": 9.29643,
+      "persons": 4,
+      "reviewsCount": 125,
+      "rating": 4.83,
+      "type": "Entire rental unit",
+      "userId": 132837585,
+      "address": "Perledo, Lombardia, Italy",
+      "amenityIds": [
+        1, 129, 4, 5, 7, 8, 9, 12, 15, 23, 25, 30, 31, 33, 35, 36, 37, 40, 41,
+        42, 44, 45, 46, 56, 57, 64, 71, 72, 73, 74, 77, 85, 86, 89, 90, 91, 92,
+        93, 94, 95, 96, 98, 99, 611, 100, 101, 104, 625, 626, 627
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 258,
+        "currency": "USD",
+        "total": 516,
+        "priceItems": [
+          {
+            "amount": 319
+          },
+          {
+            "amount": 123
+          },
+          {
+            "amount": 74
+          }
+        ]
+      }
+    },
+    {
+      "id": 16668363,
+      "url": "https://www.airbnb.com/rooms/16668363",
+      "deeplink": "https://www.airbnb.com/rooms/16668363?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 37,
+      "name": "Podere Torricella amazing romantic villa in Narni",
+      "bathrooms": 12,
+      "bedrooms": 8,
+      "beds": 16,
+      "city": "Narni",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c156fd4f-9f48-42ed-b004-21648eb20848.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b05d159f-8db6-49f7-b2a3-05f47dc2d7dd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/93360b08-b744-41be-90c0-9f0c058ccad3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4b436fae-af9b-47f0-8388-ead201302a17.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a164fe7d-13bc-4aa2-8f5a-e5cc5ce69f1c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/39bcddc1-1b77-4407-96d9-9c81a80a5a8f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9b1423cb-6dec-4dd7-99ed-73c442a2dafa.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.47481,
+      "lng": 12.45656,
+      "persons": 16,
+      "reviewsCount": 18,
+      "rating": 4.78,
+      "type": "Entire villa",
+      "userId": 110254292,
+      "address": "Narni, Terni, Italy",
+      "amenityIds": [
+        64, 1, 129, 3, 67, 4, 5, 6, 7, 8, 72, 9, 73, 11, 75, 12, 77, 86, 89, 90,
+        27, 91, 28, 92, 93, 30, 94, 31, 95, 32, 96, 33, 99, 100, 37, 101, 39,
+        40, 44, 45, 46, 47, 49, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 768,
+        "currency": "USD",
+        "total": 1536,
+        "priceItems": [
+          {
+            "amount": 1233
+          },
+          {
+            "amount": 82
+          },
+          {
+            "amount": 221
+          }
+        ]
+      }
+    },
+    {
+      "id": 13406845,
+      "url": "https://www.airbnb.com/rooms/13406845",
+      "deeplink": "https://www.airbnb.com/rooms/13406845?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 38,
+      "name": "Agriturismo IL PODERUCCIO STUDIO",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Castiglione d'Orcia",
+      "images": [
+        "https://a0.muscache.com/im/pictures/491fe2f1-8fd4-4212-bd2e-0c89b4ec62c7.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/692337fb-238a-4245-8560-cbbe5bdb87ef.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a629e97e-d101-4ea4-8a88-290953e34da4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2ea3889d-0eec-40f6-8082-6aba187265bd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c81cc2ed-6b7b-4f89-bb21-b598923c8d50.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/81da5e97-dc5b-42a9-a71c-a08bc85fb439.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1508eaf0-6b25-4abf-9997-9b073eef70dc.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 43.02535,
+      "lng": 11.58572,
+      "persons": 2,
+      "reviewsCount": 160,
+      "rating": 4.88,
+      "type": "Farm stay",
+      "userId": 58701627,
+      "address": "Castiglione d'Orcia, Toscana, Italy",
+      "amenityIds": [
+        1, 129, 3, 4, 8, 9, 137, 522, 11, 12, 17, 657, 18, 146, 19, 280, 665,
+        30, 31, 415, 671, 32, 672, 33, 37, 39, 167, 40, 41, 44, 45, 179, 57, 73,
+        77, 79, 210, 211, 85, 86, 90, 91, 93, 94, 96, 99, 611, 100, 101, 103,
+        104, 236, 626
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 154
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
+    },
+    {
+      "id": 31635099,
+      "url": "https://www.airbnb.com/rooms/31635099",
+      "deeplink": "https://www.airbnb.com/rooms/31635099?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 39,
+      "name": "Streda Vinci tra Firenze e Pisa Piscina Jacuzzi 01",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Vinci",
+      "images": [
+        "https://a0.muscache.com/im/pictures/80434957-acbd-4697-a20c-6ee15d8f0b0a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ff6b54c2-6cd7-4911-b860-9cfcab54d80f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9a8f517b-3a98-456b-b492-2ba615509c22.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/985e7823-98ec-4287-a0c8-105cb3646126.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2e3ca7e1-65fd-407d-b328-e645fa71882b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1dc68359-08cd-42aa-9113-f58d3c0c929e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/33499893/profile_pic/1431897701/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.76727,
+      "lng": 10.90912,
+      "persons": 6,
+      "reviewsCount": 29,
+      "rating": 4.62,
+      "type": "Farm stay",
+      "userId": 33499893,
+      "address": "Vinci, Toscana, Italy",
+      "amenityIds": [
+        1, 515, 4, 5, 7, 8, 9, 137, 394, 23, 280, 25, 30, 31, 415, 671, 32, 672,
+        33, 34, 35, 39, 167, 40, 42, 44, 45, 46, 179, 308, 56, 60, 64, 67, 70,
+        71, 73, 77, 210, 211, 85, 86, 90, 91, 219, 92, 93, 96, 99, 100, 101,
+        103, 104, 236, 364, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60_NEW",
+      "price": {
+        "rate": 191,
+        "currency": "USD",
+        "total": 381,
+        "priceItems": [
+          {
+            "amount": 448
+          },
+          {
+            "amount": 67
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 607047618780467100,
+      "url": "https://www.airbnb.com/rooms/607047618780467100",
+      "deeplink": "https://www.airbnb.com/rooms/607047618780467100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 40,
+      "name": "Pierino’s house with lake view - Bellagio",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Bellagio",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/277f6bbf-df9e-4d05-97cd-aca8214fba60.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/56de8029-b87f-4d0d-883f-4ed2566be6a5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/9a9eb7f1-c13b-4242-a498-692c6695851d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/23912aec-e20c-43f2-b3a9-d0df95a5e20b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/10104a8f-a71f-4f14-a1bb-86350caa8afd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/675bf078-8bb8-4277-86ed-4b2383473f6c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/967c4789-a8d7-4089-99b0-f2d4b9c597d5.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.98199,
+      "lng": 9.26217,
+      "persons": 4,
+      "reviewsCount": 30,
+      "rating": 4.83,
+      "type": "Entire condo",
+      "userId": 240693991,
+      "address": "Bellagio, Lombardia, Italy",
+      "amenityIds": [
+        1, 4, 5, 133, 134, 71, 8, 9, 137, 11, 77, 85, 86, 280, 89, 665, 91, 667,
+        92, 93, 30, 94, 95, 415, 671, 96, 672, 33, 98, 674, 36, 100, 101, 39,
+        167, 40, 104, 44, 236, 45, 47, 625, 179, 308, 57, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 420,
+        "currency": "USD",
+        "total": 840,
+        "priceItems": [
+          {
+            "amount": 719
+          },
+          {
+            "amount": 121
+          }
+        ]
+      }
+    }
+  ]
+}

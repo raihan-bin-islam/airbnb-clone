@@ -9,14 +9,14 @@ type Props = {};
 
 const Header = ({}: Props) => {
   return (
-    <header className="sticky top-0 z-50 grid items-center justify-between grid-cols-3 p-4 bg-white border-b-2 shadow-md">
+    <header className="sticky top-0 z-[100] grid items-center justify-between grid-cols-3 py-4 px-8 bg-white border-b-2 shadow-md">
       <div className="relative w-full h-10">
-        {/* <Image
+        <Image
           src="https://images2.imgbox.com/42/7a/EDq2kZBV_o.png"
           alt="airbnb-logo"
           fill
           style={{ objectFit: "contain", objectPosition: "left" }}
-        /> */}
+        />
       </div>
       <div className="relative flex items-center justify-between px-2 py-2 transition-shadow duration-300 border-2 rounded-full shadow-sm hover:shadow-md ">
         <input
@@ -24,7 +24,7 @@ const Header = ({}: Props) => {
           type="text"
           placeholder="Search"
         />
-        <MagnifyingGlassIcon className="hidden p-2 text-white rounded-full cursor-pointer md:inline-flex h-9 bg-primary" />
+        <MagnifyingGlassIcon className="hidden p-2 text-white rounded-full cursor-pointer md:inline-flex h-9 aspect-square bg-primary" />
       </div>
       <div className="relative flex justify-end h-10 space-x-4">
         <GlobeAltIcon className="p-2 cursor-pointer text-textDark" />

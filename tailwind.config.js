@@ -28,6 +28,7 @@ module.exports = {
       current: "currentColor",
       textLight: colors.gray[500],
       textDark: colors.gray[800],
+      textDarkWithOpacity: 'rgba(31, 41, 55,0.6)',
       ...colors,
     },
     

@@ -1,0 +1,4112 @@
+{
+  "error": false,
+  "headers": {
+    "response_time": 1245,
+    "response_timestamp": "2022-11-23T09:24:59.493Z",
+    "response_id": 21399544
+  },
+  "results": [
+    {
+      "id": 45465864,
+      "url": "https://www.airbnb.com/rooms/45465864",
+      "deeplink": "https://www.airbnb.com/rooms/45465864?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 1,
+      "name": "Container Suite: suspended between land and sea",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Terrasini",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/3d966c94-4c87-479b-8eeb-4889e9fb6ac9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/eeffdea4-bbcf-4a05-bcb9-579a03bf41ab.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/9d4c4d58-b9e6-4a2d-9883-eb2df68c0ba0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/3c44f9fd-0a88-41dd-acb5-ebf58bde739f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/39cdf5aa-a5d6-4f55-893c-73bf310dd598.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45465864/original/9f680175-524d-47f7-9814-a88b9bc42096.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/82b4c3a0-d592-4cc8-b12b-06969fbee837.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 38.12935,
+      "lng": 13.07521,
+      "persons": 2,
+      "reviewsCount": 36,
+      "rating": 4.94,
+      "type": "Earthen home",
+      "userId": 366898002,
+      "address": "Terrasini, Sicilia, Italy",
+      "amenityIds": [
+        129, 4, 5, 9, 73, 394, 77, 79, 657, 146, 85, 23, 280, 25, 665, 90, 91,
+        219, 30, 98, 611, 100, 101, 167, 40, 104, 232, 41, 44, 45, 113, 179, 57,
+        185, 61, 127
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 198,
+        "currency": "USD",
+        "total": 396,
+        "priceItems": [
+          {
+            "amount": 339
+          },
+          {
+            "amount": 57
+          }
+        ]
+      }
+    },
+    {
+      "id": 49458743,
+      "url": "https://www.airbnb.com/rooms/49458743",
+      "deeplink": "https://www.airbnb.com/rooms/49458743?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 2,
+      "name": "Nature Residence - Natural Reserve Valley of Bondo",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Tremosine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7765d806-c20f-485a-8de2-06563c1b2b60.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e5876a3a-5f57-4023-8032-4ec23911c29a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/669cd931-a2ad-4242-a014-e11de93d388f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/19c5a7f0-6baf-46d2-9917-76e15eda2379.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/409ad995-6c75-496e-8439-aa85ba189f18.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/246e2c4e-7074-49a1-adae-e8fca25487a2.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f8f6ecdd-c65a-4d0c-ace4-0f3f8c337209.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.80805,
+      "lng": 10.73731,
+      "persons": 4,
+      "reviewsCount": 1,
+      "type": "Farm stay",
+      "userId": 24518761,
+      "address": "Tremosine, Lombardy, Italy",
+      "amenityIds": [
+        1, 4, 8, 9, 137, 11, 12, 77, 79, 85, 86, 87, 88, 280, 89, 665, 90, 91,
+        667, 92, 93, 30, 94, 95, 671, 32, 96, 672, 35, 36, 100, 37, 101, 39,
+        103, 167, 40, 104, 44, 236, 45, 47, 625, 179, 308, 57, 185, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 384,
+        "currency": "USD",
+        "total": 768,
+        "priceItems": [
+          {
+            "amount": 658
+          },
+          {
+            "amount": 110
+          }
+        ]
+      }
+    },
+    {
+      "id": 30249747,
+      "url": "https://www.airbnb.com/rooms/30249747",
+      "deeplink": "https://www.airbnb.com/rooms/30249747?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 3,
+      "name": "ANTICA ROCCA",
+      "bathrooms": 0,
+      "bedrooms": 5,
+      "beds": 6,
+      "city": "Capodacqua",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e8062f49-357b-439d-85fb-10aea7a15e92.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e630f8dd-9417-4e00-a070-ebe810554603.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/944e0710-8310-45f2-9bca-d026cf84e977.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/53e24b28-fa4f-4075-9c43-30e50c3e3324.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9bf02b12-d245-48d3-9a0f-d6de2a0a0ac8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/655cc248-b77d-4710-9deb-e217b3dfb939.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8bf945b6-2076-4419-b308-c216700fdd76.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.01705,
+      "lng": 12.78245,
+      "persons": 12,
+      "reviewsCount": 0,
+      "type": "Castle",
+      "userId": 1974968,
+      "address": "Capodacqua, Italy",
+      "amenityIds": [
+        1, 2, 100, 5, 7, 8, 45, 179, 87, 280, 90, 27, 91, 92, 30, 31, 95
+      ],
+      "previewAmenities": ["Kitchen", "Air conditioning"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60",
+      "price": {
+        "rate": 2877,
+        "currency": "USD",
+        "total": 5754,
+        "priceItems": [
+          {
+            "amount": 5754
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 39691627,
+      "url": "https://www.airbnb.com/rooms/39691627",
+      "deeplink": "https://www.airbnb.com/rooms/39691627?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 4,
+      "name": "BOAT AND BREAKFAST LADY-Q",
+      "bathrooms": 4.5,
+      "bedrooms": 4,
+      "beds": 8,
+      "city": "Pescara",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7bd42789-da1c-4d3a-8a61-c489ac289f12.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ecb95903-6a58-436a-8563-d9f1aa967682.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/db2d66fb-3c14-41bc-b033-7ecab281db02.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/25eb159f-caa0-4486-9ffd-f9110b969ceb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/140e382b-641e-4596-88d3-ada8f13d2f4b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a62a32c1-69a1-4e6a-bf11-6973c69de2d0.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/3a111f0e-5a0d-423e-81e3-0f58137de00a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.46614,
+      "lng": 14.2335,
+      "persons": 10,
+      "reviewsCount": 5,
+      "rating": 5,
+      "type": "Private room in boat",
+      "userId": 305060056,
+      "address": "Pescara, Abruzzo, Italy",
+      "amenityIds": [
+        32, 1, 35, 611, 5, 37, 39, 8, 40, 41, 42, 11, 44, 45, 77, 79, 16, 86,
+        663, 56, 57, 185, 30
+      ],
+      "previewAmenities": [
+        "Hosted by a business",
+        "Kitchen",
+        "Air conditioning"
+      ],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 870,
+        "currency": "USD",
+        "total": 1740,
+        "priceItems": [
+          {
+            "amount": 1490
+          },
+          {
+            "amount": 250
+          }
+        ]
+      }
+    },
+    {
+      "id": 758454935073271700,
+      "url": "https://www.airbnb.com/rooms/758454935073271700",
+      "deeplink": "https://www.airbnb.com/rooms/758454935073271700?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 5,
+      "name": "Chalet L'Ange Des Neiges - Relax & SPA",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 4,
+      "city": "Valtournenche",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/ba3f49b8-2acf-4e05-934f-f0b656bb551d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/76e72213-eac0-488f-b6b9-bfdfedabe0b6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/62955fef-fa5d-4560-8ed1-0566f9c24c8f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/d595cc39-126a-43cb-b60e-417761257161.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/33d7e8ad-b91f-4c20-b644-72bf1bd6108d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-758454935073271698/original/68276f0f-3067-4c88-9e8c-0fe96e44a109.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f973a3df-4c44-4847-ba97-869dbe4108ce.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.87028114340257,
+      "lng": 7.632913843482005,
+      "persons": 5,
+      "reviewsCount": 0,
+      "type": "Entire cabin",
+      "userId": 462179849,
+      "address": "Valtournenche, Aosta, Italy",
+      "amenityIds": [
+        1, 515, 4, 133, 7, 135, 8, 392, 9, 137, 10, 394, 12, 657, 23, 280, 153,
+        665, 27, 667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 39, 167, 40, 41,
+        44, 45, 51, 179, 52, 308, 185, 322, 69, 73, 77, 79, 85, 86, 89, 90, 91,
+        219, 92, 93, 94, 223, 96, 99, 227, 611, 100, 101, 103, 104, 236, 364,
+        625, 626, 248, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 214,
+        "currency": "USD",
+        "total": 427,
+        "priceItems": [
+          {
+            "amount": 534
+          },
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 36623054,
+      "url": "https://www.airbnb.com/rooms/36623054",
+      "deeplink": "https://www.airbnb.com/rooms/36623054?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 6,
+      "name": "Cottage beach villa de luxe",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Caprarola",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6c249bc7-840f-47c8-8576-cee9b5136ca4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8741a834-39dd-4c0d-9455-a06efa96d6d6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d0062c89-2f25-4f50-9870-e0f23e640c0b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e92f5ab3-e445-4a55-b6f7-74b594c764d6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a08df2b7-ab38-4d30-afb8-89a47c5e8819.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0d9b2047-df89-44e2-869e-e529a6c8922c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1701b53b-3d3b-4a7f-953d-15cd3758cbf3.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 42.32577,
+      "lng": 12.20044,
+      "persons": 4,
+      "reviewsCount": 14,
+      "rating": 4.64,
+      "type": "Entire cottage",
+      "userId": 138761982,
+      "address": "Caprarola, Viterbo, Italy",
+      "amenityIds": [
+        1, 65, 4, 132, 5, 133, 134, 8, 9, 77, 79, 85, 86, 280, 89, 90, 27, 91,
+        92, 93, 30, 94, 31, 95, 96, 33, 674, 99, 100, 101, 39, 103, 40, 104, 41,
+        44, 45, 46, 625, 626, 632, 57, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 206,
+        "currency": "USD",
+        "total": 411,
+        "priceItems": [
+          {
+            "amount": 401
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 22356769,
+      "url": "https://www.airbnb.com/rooms/22356769",
+      "deeplink": "https://www.airbnb.com/rooms/22356769?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 7,
+      "name": "Agriturismo Bonello : Pampering Suite",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Pienza",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/fb9e5521-e448-40eb-b64d-9b39994e59aa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/dfc910a5-d377-4d7d-9471-26c4a0caa209.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/1af1b776-1e81-48ab-bbe3-c71b9623aaeb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/e3840a5f-159a-49ee-a43d-564a76dd995c.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/165a65e4-4eb6-419b-8185-f6f5aaeeca17.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-22356769/original/16e68637-bbe1-430b-a5ed-20d5747d0081.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/921a4f50-9f91-4880-bcee-081591708f7b.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.08417,
+      "lng": 11.63264,
+      "persons": 2,
+      "reviewsCount": 0,
+      "type": "Private room in farm stay",
+      "userId": 162697666,
+      "address": "Pienza, Toscana, Italy",
+      "amenityIds": [
+        64, 1, 2, 67, 131, 4, 69, 7, 9, 73, 137, 522, 77, 210, 211, 85, 86, 663,
+        280, 90, 27, 91, 667, 30, 31, 671, 672, 98, 99, 101, 103, 167, 40, 104,
+        232, 42, 44, 45, 46, 47, 179, 308, 56, 57
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 225,
+        "currency": "USD",
+        "total": 449,
+        "priceItems": [
+          {
+            "amount": 449
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 1522528,
+      "url": "https://www.airbnb.com/rooms/1522528",
+      "deeplink": "https://www.airbnb.com/rooms/1522528?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 8,
+      "name": "CHARMING RELAIS 15 'FROM VERONA",
+      "bathrooms": 10,
+      "bedrooms": 10,
+      "beds": 10,
+      "city": "Verona",
+      "images": [
+        "https://a0.muscache.com/im/pictures/22351898/96b5e3ef_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/68324573/ed24376e_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351766/e9275226_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351781/2b7f1630_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351901/60fae3c4_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22351826/6ef27376_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/2226688/profile_pic/1336312433/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.48275,
+      "lng": 11.05353,
+      "persons": 16,
+      "reviewsCount": 1,
+      "type": "Private room in nature lodge",
+      "userId": 2226688,
+      "address": "Verona, Veneto, Italy",
+      "amenityIds": [
+        32, 1, 33, 34, 3, 4, 5, 101, 6, 40, 9, 41, 12, 16, 17, 18, 25, 27, 28,
+        30, 31
+      ],
+      "previewAmenities": ["Wifi", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 2640,
+        "currency": "USD",
+        "total": 5280,
+        "priceItems": [
+          {
+            "amount": 4521
+          },
+          {
+            "amount": 759
+          }
+        ]
+      }
+    },
+    {
+      "id": 4465605,
+      "url": "https://www.airbnb.com/rooms/4465605",
+      "deeplink": "https://www.airbnb.com/rooms/4465605?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 9,
+      "name": "The Aosta Valley is our home.",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Aosta",
+      "images": [
+        "https://a0.muscache.com/im/pictures/102a7269-346e-426a-837f-f53476e03c70.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ffef6312-7fb7-4585-b1e0-b788839b1066.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ff027706-18be-4356-ba17-92b5419521f6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/614136ee-28bc-4864-9acb-a4915da2c1a3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a5f19e18-b542-45b6-a960-36acf75e7b1f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5c3abc5e-ce11-4c0c-9b64-7cb33324cc83.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/23169912/profile_pic/1414740478/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.752935,
+      "lng": 7.306543,
+      "persons": 2,
+      "reviewsCount": 11,
+      "rating": 4.82,
+      "type": "Private room in bed and breakfast",
+      "userId": 23169912,
+      "address": "Aosta, Valle d'Aosta, Italy",
+      "amenityIds": [
+        1, 129, 3, 4, 6, 136, 9, 73, 137, 394, 12, 77, 79, 16, 657, 146, 85, 86,
+        663, 280, 667, 30, 31, 671, 98, 611, 100, 37, 101, 40, 41, 42, 44, 45,
+        110, 111, 112, 114, 179, 57, 125, 127
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 75,
+        "currency": "USD",
+        "total": 149,
+        "priceItems": [
+          {
+            "amount": 127
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 54274597,
+      "url": "https://www.airbnb.com/rooms/54274597",
+      "deeplink": "https://www.airbnb.com/rooms/54274597?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 10,
+      "name": "Bono Holiday House APARTMENTS 7 (double)",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Sciacca",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/cdaef12c-db7a-437f-96a9-55c0d2f253b9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/bd51a96f-e238-4960-85a6-488ea8196b68.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/6465f69c-63c5-4ec0-9e56-c30601806437.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/3057714a-89a5-4d7f-a32e-0cef6bbfb033.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/4ec3ab6a-4f86-40b1-970f-dffd6a79f305.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-54274597/original/6c823d98-6a3f-432c-9014-bcec0f9d9a19.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/40e2d041-b062-480c-b721-f5e1082175e7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 37.50255,
+      "lng": 13.03746,
+      "persons": 3,
+      "reviewsCount": 1,
+      "type": "Entire vacation home",
+      "userId": 439825148,
+      "address": "Sciacca, Sicilia, Italy",
+      "amenityIds": [
+        1, 33, 35, 99, 4, 36, 5, 37, 7, 39, 71, 8, 9, 42, 12, 45, 210, 179, 30,
+        94
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 65,
+        "currency": "USD",
+        "total": 130,
+        "priceItems": [
+          {
+            "amount": 130
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 50276027,
+      "url": "https://www.airbnb.com/rooms/50276027",
+      "deeplink": "https://www.airbnb.com/rooms/50276027?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 11,
+      "name": "Verdeacqua Suite - Trullo with Indoor Pool",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Locorotondo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/361a3a98-f697-4429-aeb7-3b3939d74bef.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/df121a35-c679-42f2-a59f-0df1fa77ff8d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2966df31-267d-41a0-a34a-471cfb870b64.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/930fdeb5-4747-4b12-b99c-a790872f2f4d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e413e83-5b39-44eb-b589-8b368e297786.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e33c3e4-5ac3-4c53-af92-aee1e2b7f689.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/804abd48-c0cd-4027-a8ee-ee1b6a6b0cfa.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.74486,
+      "lng": 17.3159,
+      "persons": 5,
+      "reviewsCount": 26,
+      "rating": 4.85,
+      "type": "Trullo",
+      "userId": 405940923,
+      "address": "Locorotondo, Puglia, Italy",
+      "amenityIds": [
+        1, 2, 4, 5, 7, 8, 392, 9, 137, 280, 25, 665, 27, 667, 30, 671, 672, 33,
+        37, 39, 167, 40, 41, 44, 45, 46, 179, 308, 57, 60, 63, 64, 65, 66, 68,
+        69, 70, 71, 73, 201, 74, 331, 77, 79, 211, 85, 87, 89, 90, 91, 92, 476,
+        93, 94, 95, 96, 98, 99, 101, 232, 236, 113, 625, 626, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 407,
+        "currency": "USD",
+        "total": 813,
+        "priceItems": [
+          {
+            "amount": 813
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 601402937647040800,
+      "url": "https://www.airbnb.com/rooms/601402937647040800",
+      "deeplink": "https://www.airbnb.com/rooms/601402937647040800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 12,
+      "name": "History and gardens at the castle's Rectory",
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "beds": 5,
+      "city": "Camerino",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/b516ebb9-25b5-4c1e-b8cb-b3caa4e90ffe.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/d6ef465d-b0eb-4894-a43f-197d9e6b49a8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/749b9a05-eb71-4a0a-a02e-2becb62bd22e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/3b68d3cd-eee1-4cde-9659-6f3fc7448e1c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/81266780-f6c7-43d3-9b37-a603a93eb52a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-601402937647040717/original/e2dfbd1f-e935-4a7b-98a2-bdada5fd4fcc.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8ff5e9a8-eb50-4b6a-99a1-6910556df465.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 43.18745,
+      "lng": 13.06487,
+      "persons": 8,
+      "reviewsCount": 15,
+      "rating": 4.93,
+      "type": "Entire home",
+      "userId": 438210739,
+      "address": "Camerino, Marche, Italy",
+      "amenityIds": [
+        1, 4, 8, 9, 137, 394, 12, 657, 23, 665, 27, 667, 30, 415, 671, 672, 33,
+        35, 36, 37, 39, 167, 40, 41, 44, 45, 46, 47, 308, 57, 61, 322, 71, 77,
+        79, 85, 86, 87, 89, 90, 91, 93, 94, 95, 96, 236, 625, 114, 626, 251, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 105,
+        "currency": "USD",
+        "total": 208,
+        "priceItems": [
+          {
+            "amount": 185
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 30
+          }
+        ]
+      }
+    },
+    {
+      "id": 8378994,
+      "url": "https://www.airbnb.com/rooms/8378994",
+      "deeplink": "https://www.airbnb.com/rooms/8378994?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 13,
+      "name": "\"Corleone Drink\"... Nature, Pool, Good Food",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Campofiorito",
+      "images": [
+        "https://a0.muscache.com/im/pictures/106640961/a3e075ee_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106641040/b3a6895d_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106641311/af8011cb_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642470/188b9cc5_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642541/c459dded_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/106642613/f6bc0722_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/674e09ab-0aa5-40d4-b6db-52676b7ed3fe.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 37.76449,
+      "lng": 13.29183,
+      "persons": 4,
+      "reviewsCount": 189,
+      "rating": 4.61,
+      "type": "Farm stay",
+      "userId": 44157916,
+      "address": "Campofiorito, Sicilia, Italy",
+      "amenityIds": [
+        66, 5, 7, 72, 9, 73, 12, 77, 16, 85, 86, 88, 89, 91, 30, 31, 33, 34, 98,
+        99, 100, 101, 103, 40, 104, 41, 44, 45
+      ],
+      "previewAmenities": ["Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 154
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
+    },
+    {
+      "id": 9611320,
+      "url": "https://www.airbnb.com/rooms/9611320",
+      "deeplink": "https://www.airbnb.com/rooms/9611320?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 14,
+      "name": "Tower house Gombola",
+      "bathrooms": 0,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Gombola",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/7c1a3f39-e97c-4692-a26b-558b7d0810c8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/4cf8f984-a28a-4e89-8f82-7bcc1ab85ea0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/08353147-caee-423b-a389-377b664b45df.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/9be590f3-b27f-4ad2-8ebe-58fc06d13bb6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/06d83982-2ba0-492e-ae67-06840aa4efbb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-9611320/original/d7117260-c85f-4f1f-b4b3-dd195f4e5a7b.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/fdbe49b3-cffc-4a09-bc46-5b73befe786d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 44.37367,
+      "lng": 10.72683,
+      "persons": 5,
+      "reviewsCount": 37,
+      "rating": 4.92,
+      "type": "Tower",
+      "userId": 49729230,
+      "address": "Gombola, Emilia-Romagna, Italy",
+      "amenityIds": [
+        4, 71, 8, 394, 12, 210, 85, 86, 23, 88, 27, 91, 93, 94, 31, 415, 96, 99,
+        37, 101, 39, 40, 44, 236, 626
+      ],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 183,
+        "currency": "USD",
+        "total": 366,
+        "priceItems": [
+          {
+            "amount": 277
+          },
+          {
+            "amount": 36
+          },
+          {
+            "amount": 53
+          }
+        ]
+      }
+    },
+    {
+      "id": 52291682,
+      "url": "https://www.airbnb.com/rooms/52291682",
+      "deeplink": "https://www.airbnb.com/rooms/52291682?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 15,
+      "name": "A home with a comfortable and material antique flavour",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Alpago",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/6bad5009-6e9e-452a-ad2d-e86d1aa2b2e2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/d8f00626-0953-4991-8808-9c0ccb071392.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/9bff6b28-0ebc-4ff0-aeed-00763759d302.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/99052cb2-af20-48c8-b7a2-1588ff6b7f6a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/de5411df-5720-48ea-905b-f3fd43e80e56.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52291682/original/a6fddea9-a1de-4591-ae8c-0748c4fb3bd7.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ab2878e3-5dc9-4b6a-869b-16975aab2a5a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.147568,
+      "lng": 12.375193,
+      "persons": 2,
+      "reviewsCount": 19,
+      "rating": 5,
+      "type": "Private room in bed and breakfast",
+      "userId": 9785971,
+      "address": "Alpago, Veneto, Italy",
+      "amenityIds": [
+        64, 1, 227, 4, 100, 101, 71, 167, 40, 232, 9, 394, 11, 45, 77, 46, 47,
+        51, 53, 663, 280, 90, 30, 671
+      ],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 129,
+        "currency": "USD",
+        "total": 257,
+        "priceItems": [
+          {
+            "amount": 257
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 13028870,
+      "url": "https://www.airbnb.com/rooms/13028870",
+      "deeplink": "https://www.airbnb.com/rooms/13028870?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 16,
+      "name": "SARA VILLA WITH HEATED POOL",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "beds": 5,
+      "city": "Lotzorai",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7c541e92-efef-4794-a3e0-cabbd3eee15f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7058f35e-8319-407c-8e25-978044317143.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b45f9cd1-6a28-4742-a556-ef66fbcae981.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7f4ea027-2215-4f3b-9117-619f38a101ab.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/97609487-3e5c-445e-8a49-7ae5006869c2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7dfba40b-62f4-4adf-97f6-3facb8fc2a3e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5d07d4b8-c4b3-4999-8a20-d9bfab1fbce7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.00536,
+      "lng": 9.57654,
+      "persons": 9,
+      "reviewsCount": 70,
+      "rating": 4.88,
+      "type": "Entire villa",
+      "userId": 71980548,
+      "address": "Lotzorai, Sardegna, Italy",
+      "amenityIds": [
+        1, 515, 4, 5, 7, 8, 392, 9, 137, 521, 522, 139, 12, 146, 280, 25, 665,
+        27, 667, 30, 31, 671, 32, 672, 33, 34, 167, 40, 41, 42, 44, 45, 46, 51,
+        179, 52, 308, 56, 184, 57, 185, 62, 64, 66, 322, 71, 72, 73, 74, 331,
+        77, 210, 211, 85, 86, 87, 88, 89, 90, 91, 92, 476, 93, 94, 95, 96, 97,
+        98, 99, 100, 101, 103, 104, 232, 236, 625, 626, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 294,
+        "currency": "USD",
+        "total": 588,
+        "priceItems": [
+          {
+            "amount": 308
+          },
+          {
+            "amount": 195
+          },
+          {
+            "amount": 85
+          }
+        ]
+      }
+    },
+    {
+      "id": 679598244113053800,
+      "url": "https://www.airbnb.com/rooms/679598244113053800",
+      "deeplink": "https://www.airbnb.com/rooms/679598244113053800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 17,
+      "name": "3070 Masseria Macchia- Suite Matrimoniale 3 by BarbarHouse",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ceglie Messapica",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/57fae3da-9eed-407a-b8b6-076d6862fc88.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/98070cd0-3e17-4b9f-9578-a9ace304d52b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/9395e39f-5f0f-4007-9073-934800c33ed3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/a3a91c83-2cd8-4698-b8de-b707c4de1dcf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/de27b79e-b583-40bd-88db-468e045bf098.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679598244113053853/original/20be45e3-513f-4019-b661-ec1ce270b267.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/63a39914-ded6-44ac-a86b-ab62dc275e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.67901,
+      "lng": 17.49709,
+      "persons": 2,
+      "reviewsCount": 4,
+      "rating": 5,
+      "type": "Private room in bed and breakfast",
+      "userId": 9632167,
+      "address": "Ceglie Messapica, Apulia, Italy",
+      "amenityIds": [5, 57, 90, 91, 92, 45, 95],
+      "previewAmenities": ["Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 44485429,
+      "url": "https://www.airbnb.com/rooms/44485429",
+      "deeplink": "https://www.airbnb.com/rooms/44485429?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 18,
+      "name": "Baita Vrei (2)\"Titta\" - Hut Lago Maggiore",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Miazzina",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c655192a-7599-4e77-a2ee-a42f4365d7b4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/34aebe97-4f5c-4215-b4ef-74668e32384b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/c5ed383f-b9a3-4ed4-8145-0de3e8d3bb85.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/eaa03a4f-3933-4418-bebd-15712d6a4441.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/69090a60-fa82-4f23-8eb0-c751c2a5c6d8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-44485429/original/fb96ba3b-23ef-4485-a0a3-3d16c3eecd35.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0e1b8a08-142f-47ac-9bdb-2949ea88bb13.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.97699,
+      "lng": 8.51783,
+      "persons": 2,
+      "reviewsCount": 44,
+      "rating": 4.93,
+      "type": "Entire home",
+      "userId": 33590624,
+      "address": "Miazzina, Piemonte, Italy",
+      "amenityIds": [
+        515, 133, 8, 392, 137, 394, 12, 23, 280, 153, 665, 667, 30, 31, 415,
+        671, 37, 39, 40, 42, 47, 51, 179, 55, 184, 57, 61, 62, 66, 70, 71, 77,
+        79, 210, 85, 86, 87, 90, 219, 93, 94, 95, 96, 98, 99, 227, 100, 101,
+        103, 236, 625, 626
+      ],
+      "previewAmenities": ["Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 1852,
+        "currency": "USD",
+        "total": 3704,
+        "priceItems": [
+          {
+            "amount": 3694
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 618762460039703400,
+      "url": "https://www.airbnb.com/rooms/618762460039703400",
+      "deeplink": "https://www.airbnb.com/rooms/618762460039703400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 19,
+      "name": "TrivignoLife \nCheerful mountain chalet",
+      "bathrooms": 2,
+      "bedrooms": 4,
+      "beds": 9,
+      "city": "Tirano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/dbad0c32-86ce-449b-9e5d-79d58b649cce.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/b961e251-5632-472f-84ff-1a755441a0ae.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/d5cbb489-1be4-45a6-a5ef-9eb5da63b41e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/a7e2bb22-3f77-4610-ba0e-78828d1fdcb9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/a5703fe6-91af-4cd9-b3ee-29ca3344488f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-618762460039703474/original/88bace0c-7a75-455b-9873-4fa8643f2cc2.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/65ac7cfe-80db-4e46-be95-e9346829e8de.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 46.18752,
+      "lng": 10.1878,
+      "persons": 15,
+      "reviewsCount": 7,
+      "rating": 4.43,
+      "type": "Entire cabin",
+      "userId": 457274264,
+      "address": "Tirano, Lombardia, Italy",
+      "amenityIds": [
+        1, 2, 4, 8, 75, 77, 79, 85, 86, 89, 665, 27, 219, 667, 93, 30, 94, 223,
+        415, 671, 96, 33, 99, 611, 167, 40, 104, 41, 45, 47, 625, 626, 179, 308,
+        185, 61, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 162,
+        "currency": "USD",
+        "total": 324,
+        "priceItems": [
+          {
+            "amount": 226
+          },
+          {
+            "amount": 51
+          },
+          {
+            "amount": 47
+          }
+        ]
+      }
+    },
+    {
+      "id": 35201156,
+      "url": "https://www.airbnb.com/rooms/35201156",
+      "deeplink": "https://www.airbnb.com/rooms/35201156?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 20,
+      "name": "Nice home in Torchiara with 9 Bedrooms, Private",
+      "bathrooms": 9,
+      "bedrooms": 9,
+      "beds": 10,
+      "city": "Torchiara",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/406055bc-ff30-4f50-892e-bce1c576f2cc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/4fa374a3-b3b8-47fb-ac53-b7a3d525c1ad.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/ac761692-afa5-4248-99ae-76c107868ab3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/8cda5aca-51bd-4a92-83e1-309815c98257.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/45520a8f-cda9-44e0-9f9b-11430dd3d793.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-35201156/original/ee253e3b-295c-4121-aa48-8f0ca4fecc79.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0fb4c2d3-a0fe-44ce-aedc-9586e8b6a899.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.32758,
+      "lng": 15.04589,
+      "persons": 16,
+      "reviewsCount": 2,
+      "type": "Entire home",
+      "userId": 159965815,
+      "address": "Torchiara, Italy",
+      "amenityIds": [
+        96, 1, 33, 34, 35, 99, 4, 5, 101, 7, 8, 44, 47, 51, 55, 57, 89, 90, 27,
+        91, 92, 93
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60_NEW",
+      "price": {
+        "rate": 1455,
+        "currency": "USD",
+        "total": 2909,
+        "priceItems": [
+          {
+            "amount": 1805
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 565
+          },
+          {
+            "amount": 539
+          }
+        ]
+      }
+    },
+    {
+      "id": 39353576,
+      "url": "https://www.airbnb.com/rooms/39353576",
+      "deeplink": "https://www.airbnb.com/rooms/39353576?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 21,
+      "name": "Castle in Crete",
+      "bathrooms": 22,
+      "bedrooms": 20,
+      "beds": 30,
+      "city": "Siena",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d81d8086-bf71-4de9-969c-6d88f7e3cb99.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/339ab403-3683-4dbc-b007-e0883e8cce89.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8f829113-4bcf-443c-be40-f443404f5cf8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c8e225cd-158b-4f0b-88dd-cbdaf43b4a62.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/31f9ae5d-8bb2-4774-a100-43d3168bdfcf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/65cb64ec-39a9-4d44-99d2-dbcf0baa1e7f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/892cf0ae-2624-4b9a-bead-fe27c69477c6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.28854,
+      "lng": 11.45478,
+      "persons": 16,
+      "reviewsCount": 0,
+      "type": "Castle",
+      "userId": 301492547,
+      "address": "Siena, Italy",
+      "amenityIds": [
+        64, 1, 2, 4, 5, 7, 71, 9, 12, 77, 16, 21, 85, 86, 91, 30, 31, 32, 35,
+        36, 100, 37, 39, 103, 40, 41, 44, 45
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60",
+      "price": {
+        "rate": 6501,
+        "currency": "USD",
+        "total": 13001,
+        "priceItems": [
+          {
+            "amount": 12997
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 35788784,
+      "url": "https://www.airbnb.com/rooms/35788784",
+      "deeplink": "https://www.airbnb.com/rooms/35788784?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 22,
+      "name": "Panoramic views on organic farm - room 4",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Tuscania",
+      "images": [
+        "https://a0.muscache.com/im/pictures/baacaf43-5926-4da0-b094-d4d604c36b75.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/95875787/4e22ce03_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44114411/d1284a19_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44116104/f0540909_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44116921/aa54dae3_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/44114089/9d15c0bf_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/15638362/profile_pic/1404403366/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.40212,
+      "lng": 11.8808,
+      "persons": 2,
+      "reviewsCount": 21,
+      "rating": 4.71,
+      "type": "Private room in farm stay",
+      "userId": 15638362,
+      "address": "Tuscania, Lazio, Italy",
+      "amenityIds": [
+        33, 4, 6, 40, 9, 41, 42, 11, 12, 44, 45, 46, 16, 17, 18, 19, 20, 56, 57,
+        27, 30, 31
+      ],
+      "previewAmenities": ["Wifi", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 96,
+        "currency": "USD",
+        "total": 192,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          }
+        ]
+      }
+    },
+    {
+      "id": 26343390,
+      "url": "https://www.airbnb.com/rooms/26343390",
+      "deeplink": "https://www.airbnb.com/rooms/26343390?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 23,
+      "name": "The Guest House of the Tavignano Estate",
+      "bathrooms": 4,
+      "bedrooms": 4,
+      "beds": 8,
+      "city": "Cingoli",
+      "images": [
+        "https://a0.muscache.com/im/pictures/651b3988-ffba-4a93-808e-45cc681dbed5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0ae45376-bcf4-499a-b174-690b8ae4def2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ae624e2d-17fa-4c6c-825a-9fc8199f1c4f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/280d01da-811e-492e-bb12-867c6b218257.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/93e6199a-972f-402f-a826-72c041294c8f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c94ef0e9-2979-4352-9588-ac4150033dfd.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/fb44f127-8c70-49c0-b77d-841641dbd7bb.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.45287,
+      "lng": 13.24741,
+      "persons": 8,
+      "reviewsCount": 33,
+      "rating": 4.97,
+      "type": "Farm stay",
+      "userId": 198125430,
+      "address": "Cingoli, Marche, Italy",
+      "amenityIds": [
+        1, 129, 4, 8, 9, 77, 79, 85, 280, 90, 27, 91, 93, 30, 95, 671, 33, 35,
+        99, 100, 37, 101, 38, 39, 167, 40, 41, 42, 44, 45
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 216,
+        "currency": "USD",
+        "total": 432,
+        "priceItems": [
+          {
+            "amount": 329
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 62
+          }
+        ]
+      }
+    },
+    {
+      "id": 51364470,
+      "url": "https://www.airbnb.com/rooms/51364470",
+      "deeplink": "https://www.airbnb.com/rooms/51364470?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 24,
+      "name": "Pitch to place your tent - B&B",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 8,
+      "city": "Ostra Vetere",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d8000941-ce09-481c-84de-7922077207f4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5d2a4c34-7f9c-42f6-afbc-f89c34374c15.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b70b4ba4-bb2e-4490-804e-abb04c9c0d71.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7353bb88-bc8a-4c5a-9d63-5cde21d38069.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1872211b-6aaa-4988-92a2-ef62dc5ad7d9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0d0e2f44-7c9a-4ab8-9ca8-3023dc35dcc4.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/99294b16-c2ee-4c2b-85fd-d501f003e66f.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.5977,
+      "lng": 13.05383,
+      "persons": 8,
+      "reviewsCount": 5,
+      "rating": 5,
+      "type": "Private room in tent",
+      "userId": 413538706,
+      "address": "Ostra Vetere, Marche, Italy",
+      "amenityIds": [4, 101, 7, 40, 9, 41, 11, 12, 45, 77, 63],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 18,
+        "currency": "USD",
+        "total": 36,
+        "priceItems": [
+          {
+            "amount": 31
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 4385948,
+      "url": "https://www.airbnb.com/rooms/4385948",
+      "deeplink": "https://www.airbnb.com/rooms/4385948?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 25,
+      "name": "Macco Macco House Trulli",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Locorotondo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/55336853/04a7c19c_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55087775/f86a1b09_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55336951/fdefe96b_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55336976/f113a227_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55337057/59965f4e_original.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/55337280/8ab6099b_original.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/16909601/profile_pic/1409819506/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.77584,
+      "lng": 17.33168,
+      "persons": 5,
+      "reviewsCount": 175,
+      "rating": 4.95,
+      "type": "Trullo",
+      "userId": 16909601,
+      "address": "Locorotondo, Bari, Italy",
+      "amenityIds": [
+        64, 1, 129, 4, 71, 8, 9, 77, 17, 18, 19, 85, 86, 23, 90, 27, 91, 93, 30,
+        94, 31, 95, 96, 33, 100, 37, 101, 40, 104, 44, 45, 46, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 108,
+        "currency": "USD",
+        "total": 216,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 31
+          }
+        ]
+      }
+    },
+    {
+      "id": 13797755,
+      "url": "https://www.airbnb.com/rooms/13797755",
+      "deeplink": "https://www.airbnb.com/rooms/13797755?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 26,
+      "name": "Skylinemilan com",
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Milano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/721b53c0-506e-4e29-ab74-52c6702fa2e5?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/da8bc354-64e3-4620-b044-35c5b9df964d?im_w=1200",
+        "https://a0.muscache.com/im/pictures/df7bec7e-755c-4715-84f8-cd9990019a86.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/8469cbc8-dae0-4434-aea6-df2fe115fa7d.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/8e11424a-f58b-47a0-8d5e-f38e854614c9?im_w=1200",
+        "https://a0.muscache.com/im/pictures/monet/Select-13797755/original/cb9f6ff2-c563-45e8-8f95-80ed3e2bdda3?im_w=1200"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/997045c0-a741-4f15-9f78-fc714db8bfb1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 45.48376,
+      "lng": 9.20304,
+      "persons": 6,
+      "reviewsCount": 136,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 18371495,
+      "address": "Milano, Lombardia, Italy",
+      "amenityIds": [
+        1, 129, 2, 4, 260, 5, 262, 7, 8, 136, 264, 137, 268, 269, 270, 143, 273,
+        274, 275, 21, 278, 151, 280, 25, 153, 281, 283, 285, 30, 287, 33, 161,
+        34, 35, 36, 164, 292, 37, 293, 166, 39, 167, 40, 41, 44, 45, 46, 47,
+        179, 180, 181, 185, 61, 189, 64, 67, 73, 77, 79, 81, 83, 85, 86, 89, 90,
+        91, 92, 93, 94, 95, 96, 227, 100, 234, 235, 117, 248, 249
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 678,
+        "currency": "USD",
+        "total": 1356,
+        "priceItems": [
+          {
+            "amount": 982
+          },
+          {
+            "amount": 174
+          },
+          {
+            "amount": 194
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 30493434,
+      "url": "https://www.airbnb.com/rooms/30493434",
+      "deeplink": "https://www.airbnb.com/rooms/30493434?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 27,
+      "name": "Magical Trullo in Ostuni Cis BR0740129000012213",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 3,
+      "city": "Ostuni",
+      "images": [
+        "https://a0.muscache.com/im/pictures/30d6cf52-d303-4026-8d8c-5cc8ac03444e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/47c31e5b-f7af-4f66-ae07-5f878ad67344.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/40359020-f6d9-4122-a349-f440443e3107.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2abbbb94-77ed-48a0-bc3d-173368d133e1.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/42d109ca-2308-4dcf-9df9-1779c245d380.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6f286862-8f28-47d8-8044-8d34dadea9cd.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7e5a3d64-257c-474f-b177-0e45ffe9d8b2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.70135,
+      "lng": 17.62055,
+      "persons": 3,
+      "reviewsCount": 79,
+      "rating": 4.86,
+      "type": "Trullo",
+      "userId": 228574643,
+      "address": "Ostuni, Puglia, Italy",
+      "amenityIds": [
+        1, 5, 71, 72, 9, 11, 12, 77, 79, 210, 89, 90, 91, 93, 30, 94, 96, 99,
+        100, 101, 39, 167, 40, 41, 44, 45, 57
+      ],
+      "previewAmenities": ["Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 96,
+        "currency": "USD",
+        "total": 192,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          }
+        ]
+      }
+    },
+    {
+      "id": 27803297,
+      "url": "https://www.airbnb.com/rooms/27803297",
+      "deeplink": "https://www.airbnb.com/rooms/27803297?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 28,
+      "name": "Trulli Chiafele",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Martina Franca",
+      "images": [
+        "https://a0.muscache.com/im/pictures/525f16b7-e690-4bb7-bad8-02366cdac01d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/24de0aaa-4889-4ed4-ae8d-1aaa1fdcfb1d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5bdbb9fc-2204-4a5a-a10a-fbd63f4afcfd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/17b97370-8da7-478b-97b3-a626ee567ddd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6be3a2c3-9d64-46ed-926a-5105ed3a8c78.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6a267a1c-0ca8-4f03-8ba4-03e9761d33a3.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/2ad5e919-9867-490f-aa13-cdc56f2ce3b8.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.73243,
+      "lng": 17.27821,
+      "persons": 4,
+      "reviewsCount": 119,
+      "rating": 4.98,
+      "type": "Trullo",
+      "userId": 209945320,
+      "address": "Martina Franca, Puglia, Italy",
+      "amenityIds": [
+        1, 2, 4, 5, 8, 9, 23, 280, 153, 30, 33, 35, 36, 37, 38, 40, 41, 44, 45,
+        46, 47, 51, 179, 55, 56, 57, 60, 63, 64, 67, 71, 72, 73, 74, 77, 85, 86,
+        87, 89, 90, 91, 219, 93, 94, 96, 98, 99, 227, 611, 100, 101, 102, 109,
+        113, 626, 627, 127
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 110,
+        "currency": "USD",
+        "total": 220,
+        "priceItems": [
+          {
+            "amount": 162
+          },
+          {
+            "amount": 26
+          },
+          {
+            "amount": 32
+          }
+        ]
+      }
+    },
+    {
+      "id": 51341383,
+      "url": "https://www.airbnb.com/rooms/51341383",
+      "deeplink": "https://www.airbnb.com/rooms/51341383?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 29,
+      "name": "VILLA ROSETO-TODI",
+      "bathrooms": 6,
+      "bedrooms": 5,
+      "beds": 5,
+      "city": "Collazzone",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/d24cb55a-8d3c-408c-9047-509e31ca5f7e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/0b5124d4-0577-47d5-94b4-852706060494.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/ddd1be71-b627-40f6-bf1e-d6e79100766a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/7b4043e6-cc59-46de-8087-329d335440de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/f7a3f703-de67-47ae-beaa-3830fd553d97.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-51341383/original/102e3874-94d0-41a0-aa22-ba49ab64e831.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/04be4edd-cf3b-43f6-8ad0-07f220ce54d6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 42.87968,
+      "lng": 12.42746,
+      "persons": 10,
+      "reviewsCount": 1,
+      "type": "Entire villa",
+      "userId": 65059955,
+      "address": "Collazzone, Umbria, Italy",
+      "amenityIds": [
+        1, 4, 5, 7, 8, 392, 9, 137, 394, 15, 16, 657, 146, 661, 280, 25, 153,
+        665, 27, 667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 39, 167, 40, 41,
+        44, 45, 46, 47, 51, 179, 308, 55, 57, 185, 60, 62, 63, 64, 65, 66, 322,
+        68, 69, 71, 72, 73, 201, 74, 75, 77, 79, 210, 211, 85, 86, 89, 90, 91,
+        219, 347, 92, 93, 94, 95, 223, 96, 97, 99, 227, 611, 100, 101, 103, 104,
+        107, 236, 625, 626, 632, 251, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 930,
+        "currency": "USD",
+        "total": 1860,
+        "priceItems": [
+          {
+            "amount": 1438
+          },
+          {
+            "amount": 154
+          },
+          {
+            "amount": 268
+          }
+        ]
+      }
+    },
+    {
+      "id": 49891158,
+      "url": "https://www.airbnb.com/rooms/49891158",
+      "deeplink": "https://www.airbnb.com/rooms/49891158?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 30,
+      "name": "Schnitzers Ferienheisl",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "beds": 4,
+      "city": "San Leonardo in Passiria",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/f4eec5a1-59ad-4a25-894c-ca297b76a43b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/01ace38f-9159-47d7-a1c0-e2c8bc6ce00c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/0de7a44b-ea13-4715-bc40-95cb2ba86aab.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/0f7a8aba-6ed5-4cb6-b291-45ae5cd3c7ff.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/413ea6f4-4bee-47ee-bada-a3b398052abe.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49891158/original/56c7bbbf-1a2e-4202-b26f-9e6df25cdd81.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f0b880ef-a23b-47a8-b8c4-c6e72bfdc014.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 46.80933930730663,
+      "lng": 11.253032975226006,
+      "persons": 10,
+      "reviewsCount": 9,
+      "rating": 5,
+      "type": "Entire chalet",
+      "userId": 205435091,
+      "address": "San Leonardo in Passiria, Trentino-Alto Adige, Italy",
+      "amenityIds": [
+        64, 1, 66, 131, 4, 71, 8, 392, 9, 137, 12, 85, 90, 27, 91, 92, 93, 30,
+        95, 96, 33, 99, 100, 37, 101, 40, 232, 45, 308, 61
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 514,
+        "currency": "USD",
+        "total": 1027,
+        "priceItems": [
+          {
+            "amount": 1027
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 735316262209943000,
+      "url": "https://www.airbnb.com/rooms/735316262209943000",
+      "deeplink": "https://www.airbnb.com/rooms/735316262209943000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 31,
+      "name": "Farmhouse I Frati - Lake Trasimeno view",
+      "bathrooms": 11.5,
+      "bedrooms": 14,
+      "beds": 19,
+      "city": "Paciano",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/8a25dc79-db31-446e-b98d-55fbcc3f25d8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/209c5d2b-1242-4ad5-b66a-d08148e7a2ed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/9aaa5b7b-e734-4377-99e5-983ce8807d43.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/c6d3d1bd-51ef-4dfb-87b3-820606ffd488.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/61cb5149-9371-461b-afc0-9fe2372d9de7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-735316262209943045/original/5ea06a30-38b1-4c3e-ab7c-6a34f954f02e.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1cf2eaaf-ec96-4bca-98fb-b5b288fde111.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.02327872858985,
+      "lng": 12.083549653967282,
+      "persons": 16,
+      "reviewsCount": 0,
+      "type": "Entire villa",
+      "userId": 407461929,
+      "address": "Paciano, Umbria, Italy",
+      "amenityIds": [32, 1, 33, 179, 4, 5, 7, 8, 9, 27, 12, 510],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 4200,
+        "currency": "USD",
+        "total": 8400,
+        "priceItems": [
+          {
+            "amount": 7192
+          },
+          {
+            "amount": 1208
+          }
+        ]
+      }
+    },
+    {
+      "id": 48940639,
+      "url": "https://www.airbnb.com/rooms/48940639",
+      "deeplink": "https://www.airbnb.com/rooms/48940639?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 32,
+      "name": "Luxury trulli Sabotino",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 3,
+      "city": "Alberobello",
+      "images": [
+        "https://a0.muscache.com/im/pictures/3cc485b3-baa4-476c-85d2-923a77adc22e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/bde1c496-2963-4fb7-ae4e-68670fe97b80.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e79b2ef1-0ce7-4de6-a333-17eb833235a1.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9b418278-794a-47f6-a628-0bde488d79fa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/128b6934-ecb9-46b3-b2c9-788219821e43.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8f97adb6-cfe0-41fa-bd18-44470b9f292e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/11193755-2217-403a-8c54-997d910017ee.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 40.7827,
+      "lng": 17.23607,
+      "persons": 5,
+      "reviewsCount": 40,
+      "rating": 4.93,
+      "type": "Trullo",
+      "userId": 358998354,
+      "address": "Alberobello, Puglia, Italy",
+      "amenityIds": [
+        1, 4, 5, 71, 137, 10, 331, 77, 79, 80, 81, 146, 83, 85, 86, 23, 663,
+        280, 665, 90, 91, 93, 30, 415, 671, 96, 672, 611, 100, 101, 293, 103,
+        167, 40, 41, 42, 44, 236, 45, 47, 57
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 168,
+        "currency": "USD",
+        "total": 336,
+        "priceItems": [
+          {
+            "amount": 288
+          },
+          {
+            "amount": 48
+          }
+        ]
+      }
+    },
+    {
+      "id": 679560117730255400,
+      "url": "https://www.airbnb.com/rooms/679560117730255400",
+      "deeplink": "https://www.airbnb.com/rooms/679560117730255400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 33,
+      "name": "3067 Masseria Macchia - Suite Matrimoniale 1 by BarbarHouse",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ceglie Messapica",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/d04441ab-af3a-4926-8060-348ceb5893fc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/7c38a45b-cba0-42c7-8af7-1310fb883bdf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/bda822d5-ae0a-41c0-be54-98db1dd5990d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/b571fcd4-0b65-4dad-8940-d2cc1fe91285.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/eb9744fe-f911-4ea3-9b42-24291d242316.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-679560117730255372/original/8934b5a5-a3ed-4e36-9f87-a1602708e95a.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/63a39914-ded6-44ac-a86b-ab62dc275e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 40.68005,
+      "lng": 17.49852,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in bed and breakfast",
+      "userId": 9632167,
+      "address": "Ceglie Messapica, Apulia, Italy",
+      "amenityIds": [1, 4, 5, 57, 90, 91, 44, 92, 45, 95],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 107
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 27479788,
+      "url": "https://www.airbnb.com/rooms/27479788",
+      "deeplink": "https://www.airbnb.com/rooms/27479788?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 34,
+      "name": "\"Villa al Mok\" by Mario",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Lecco",
+      "images": [
+        "https://a0.muscache.com/im/pictures/9a4c35f7-424a-443e-a9d3-46c9ea6a361b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/0a0267ac-f5d3-4de2-bc81-2c6bda08c322.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/8a932e57-7cfc-4553-aede-30ec86a5904e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/b68ba15a-7072-49a0-8bd7-0e91edaf3f20.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/c4966a1f-2823-4b3f-944c-69f4ae6189a4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-27479788/original/15e3e9b7-ee28-4a4e-8ada-9415a43fec9b.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1b3ca2ff-e3ad-485d-9f48-d74ac926a3d0.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.05728,
+      "lng": 9.31301,
+      "persons": 2,
+      "reviewsCount": 251,
+      "rating": 4.85,
+      "type": "Private room in villa",
+      "userId": 206870336,
+      "address": "Lecco, Lombardia, Italy",
+      "amenityIds": [
+        4, 132, 5, 133, 137, 201, 394, 331, 12, 77, 79, 146, 211, 85, 86, 23,
+        90, 91, 30, 674, 99, 227, 611, 100, 37, 101, 167, 40, 104, 42, 172, 236,
+        45, 51, 179, 500, 54, 56, 57, 61
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 102,
+        "currency": "USD",
+        "total": 204,
+        "priceItems": [
+          {
+            "amount": 175
+          },
+          {
+            "amount": 29
+          }
+        ]
+      }
+    },
+    {
+      "id": 49848024,
+      "url": "https://www.airbnb.com/rooms/49848024",
+      "deeplink": "https://www.airbnb.com/rooms/49848024?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 35,
+      "name": "Fienile: an old Barn just for you  (hosts 10)",
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "beds": 3,
+      "city": "Vicchio",
+      "images": [
+        "https://a0.muscache.com/im/pictures/ac1d7918-3ee4-494e-9163-50f9ed6b86d8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8cae6588-37e5-4a7a-a0c8-21e380c584a6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d54309d2-d791-4e15-95df-96e67d6045a5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/05d80374-db9d-4399-b918-ea4f310ad024.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/dde7790f-f4c0-42bb-9fc3-80f7d9cdcfb3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ef5923c0-62c1-40bd-b983-b0f559abc32e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/880a301b-686b-4cf3-bbc2-2c668baa19a1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.90606,
+      "lng": 11.43077,
+      "persons": 10,
+      "reviewsCount": 0,
+      "type": "Farm stay",
+      "userId": 391773751,
+      "address": "Vicchio, Toscana, Italy",
+      "amenityIds": [
+        32, 1, 4, 36, 5, 7, 39, 40, 72, 9, 41, 42, 12, 45, 47, 16, 25, 57, 30,
+        94
+      ],
+      "previewAmenities": ["Wifi", "Air conditioning"],
+      "cancelPolicy": "CANCEL_STRICT_NEW",
+      "price": {
+        "rate": 1017,
+        "currency": "USD",
+        "total": 2034,
+        "priceItems": [
+          {
+            "amount": 2034
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 19035338,
+      "url": "https://www.airbnb.com/rooms/19035338",
+      "deeplink": "https://www.airbnb.com/rooms/19035338?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 36,
+      "name": "The Great Beauty",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Perledo",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/ed0fb1c1-9100-46ea-996e-f24913b253d4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5887cb7d-9be9-4bbc-a705-612f9c0787b6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/feae8c99-d02c-4502-84dd-dd35a586d5db.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/eaf2b04c-6a90-4e1e-ac19-6231519904c1.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/98437381-200b-4524-9dd5-a99542821bd4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-19035338/original/2664bdcf-807d-4930-8d69-7f8977ba06e0.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/be80eac7-c9a6-42ff-87a3-802ed23efca4.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 46.01778,
+      "lng": 9.29643,
+      "persons": 4,
+      "reviewsCount": 125,
+      "rating": 4.83,
+      "type": "Entire rental unit",
+      "userId": 132837585,
+      "address": "Perledo, Lombardia, Italy",
+      "amenityIds": [
+        1, 129, 4, 5, 7, 8, 9, 12, 15, 23, 25, 30, 31, 33, 35, 36, 37, 40, 41,
+        42, 44, 45, 46, 56, 57, 64, 71, 72, 73, 74, 77, 85, 86, 89, 90, 91, 92,
+        93, 94, 95, 96, 98, 99, 611, 100, 101, 104, 625, 626, 627
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 258,
+        "currency": "USD",
+        "total": 516,
+        "priceItems": [
+          {
+            "amount": 319
+          },
+          {
+            "amount": 123
+          },
+          {
+            "amount": 74
+          }
+        ]
+      }
+    },
+    {
+      "id": 16668363,
+      "url": "https://www.airbnb.com/rooms/16668363",
+      "deeplink": "https://www.airbnb.com/rooms/16668363?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 37,
+      "name": "Podere Torricella amazing romantic villa in Narni",
+      "bathrooms": 12,
+      "bedrooms": 8,
+      "beds": 16,
+      "city": "Narni",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c156fd4f-9f48-42ed-b004-21648eb20848.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b05d159f-8db6-49f7-b2a3-05f47dc2d7dd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/93360b08-b744-41be-90c0-9f0c058ccad3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4b436fae-af9b-47f0-8388-ead201302a17.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a164fe7d-13bc-4aa2-8f5a-e5cc5ce69f1c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/39bcddc1-1b77-4407-96d9-9c81a80a5a8f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9b1423cb-6dec-4dd7-99ed-73c442a2dafa.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 42.47481,
+      "lng": 12.45656,
+      "persons": 16,
+      "reviewsCount": 18,
+      "rating": 4.78,
+      "type": "Entire villa",
+      "userId": 110254292,
+      "address": "Narni, Terni, Italy",
+      "amenityIds": [
+        64, 1, 129, 3, 67, 4, 5, 6, 7, 8, 72, 9, 73, 11, 75, 12, 77, 86, 89, 90,
+        27, 91, 28, 92, 93, 30, 94, 31, 95, 32, 96, 33, 99, 100, 37, 101, 39,
+        40, 44, 45, 46, 47, 49, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 768,
+        "currency": "USD",
+        "total": 1536,
+        "priceItems": [
+          {
+            "amount": 1233
+          },
+          {
+            "amount": 82
+          },
+          {
+            "amount": 221
+          }
+        ]
+      }
+    },
+    {
+      "id": 13406845,
+      "url": "https://www.airbnb.com/rooms/13406845",
+      "deeplink": "https://www.airbnb.com/rooms/13406845?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 38,
+      "name": "Agriturismo IL PODERUCCIO STUDIO",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Castiglione d'Orcia",
+      "images": [
+        "https://a0.muscache.com/im/pictures/491fe2f1-8fd4-4212-bd2e-0c89b4ec62c7.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/692337fb-238a-4245-8560-cbbe5bdb87ef.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a629e97e-d101-4ea4-8a88-290953e34da4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2ea3889d-0eec-40f6-8082-6aba187265bd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c81cc2ed-6b7b-4f89-bb21-b598923c8d50.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/81da5e97-dc5b-42a9-a71c-a08bc85fb439.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1508eaf0-6b25-4abf-9997-9b073eef70dc.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 43.02535,
+      "lng": 11.58572,
+      "persons": 2,
+      "reviewsCount": 160,
+      "rating": 4.88,
+      "type": "Farm stay",
+      "userId": 58701627,
+      "address": "Castiglione d'Orcia, Toscana, Italy",
+      "amenityIds": [
+        1, 129, 3, 4, 8, 9, 137, 522, 11, 12, 17, 657, 18, 146, 19, 280, 665,
+        30, 31, 415, 671, 32, 672, 33, 37, 39, 167, 40, 41, 44, 45, 179, 57, 73,
+        77, 79, 210, 211, 85, 86, 90, 91, 93, 94, 96, 99, 611, 100, 101, 103,
+        104, 236, 626
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_MODERATE_NEW",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 154
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
+    },
+    {
+      "id": 31635099,
+      "url": "https://www.airbnb.com/rooms/31635099",
+      "deeplink": "https://www.airbnb.com/rooms/31635099?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 39,
+      "name": "Streda Vinci tra Firenze e Pisa Piscina Jacuzzi 01",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "beds": 3,
+      "city": "Vinci",
+      "images": [
+        "https://a0.muscache.com/im/pictures/80434957-acbd-4697-a20c-6ee15d8f0b0a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ff6b54c2-6cd7-4911-b860-9cfcab54d80f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9a8f517b-3a98-456b-b492-2ba615509c22.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/985e7823-98ec-4287-a0c8-105cb3646126.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2e3ca7e1-65fd-407d-b328-e645fa71882b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1dc68359-08cd-42aa-9113-f58d3c0c929e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/33499893/profile_pic/1431897701/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 43.76727,
+      "lng": 10.90912,
+      "persons": 6,
+      "reviewsCount": 29,
+      "rating": 4.62,
+      "type": "Farm stay",
+      "userId": 33499893,
+      "address": "Vinci, Toscana, Italy",
+      "amenityIds": [
+        1, 515, 4, 5, 7, 8, 9, 137, 394, 23, 280, 25, 30, 31, 415, 671, 32, 672,
+        33, 34, 35, 39, 167, 40, 42, 44, 45, 46, 179, 308, 56, 60, 64, 67, 70,
+        71, 73, 77, 210, 211, 85, 86, 90, 91, 219, 92, 93, 96, 99, 100, 101,
+        103, 104, 236, 364, 251
+      ],
+      "previewAmenities": ["Hosted by a business", "Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_SUPER_STRICT_60_NEW",
+      "price": {
+        "rate": 191,
+        "currency": "USD",
+        "total": 381,
+        "priceItems": [
+          {
+            "amount": 448
+          },
+          {
+            "amount": 67
+          },
+          {
+            "amount": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 607047618780467100,
+      "url": "https://www.airbnb.com/rooms/607047618780467100",
+      "deeplink": "https://www.airbnb.com/rooms/607047618780467100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 40,
+      "name": "Pierino’s house with lake view - Bellagio",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 2,
+      "city": "Bellagio",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/277f6bbf-df9e-4d05-97cd-aca8214fba60.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/56de8029-b87f-4d0d-883f-4ed2566be6a5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/9a9eb7f1-c13b-4242-a498-692c6695851d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/23912aec-e20c-43f2-b3a9-d0df95a5e20b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/10104a8f-a71f-4f14-a1bb-86350caa8afd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-607047618780467115/original/675bf078-8bb8-4277-86ed-4b2383473f6c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/967c4789-a8d7-4089-99b0-f2d4b9c597d5.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 45.98199,
+      "lng": 9.26217,
+      "persons": 4,
+      "reviewsCount": 30,
+      "rating": 4.83,
+      "type": "Entire condo",
+      "userId": 240693991,
+      "address": "Bellagio, Lombardia, Italy",
+      "amenityIds": [
+        1, 4, 5, 133, 134, 71, 8, 9, 137, 11, 77, 85, 86, 280, 89, 665, 91, 667,
+        92, 93, 30, 94, 95, 415, 671, 96, 672, 33, 98, 674, 36, 100, 101, 39,
+        167, 40, 104, 44, 236, 45, 47, 625, 179, 308, 57, 510
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Air conditioning"],
+      "cancelPolicy": "CANCEL_FLEXIBLE_NEW",
+      "price": {
+        "rate": 420,
+        "currency": "USD",
+        "total": 840,
+        "priceItems": [
+          {
+            "amount": 719
+          },
+          {
+            "amount": 121
+          }
+        ]
+      }
+    },
+    {
+      "id": 749319632636862100,
+      "url": "https://www.airbnb.com/rooms/749319632636862100",
+      "deeplink": "https://www.airbnb.com/rooms/749319632636862100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 1,
+      "name": "Lit mezzanine au coeur de Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/40127610-f564-41c3-aa86-e6ba6d0cc22e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/52c6b439-4892-477d-b967-3328b349a4f4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/e4395450-a4bf-4b7e-a688-726a1e51ec0f.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/71464836-463e-43e0-900f-28149872516f.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8720624,
+      "lng": 2.3436204,
+      "persons": 1,
+      "reviewsCount": 0,
+      "type": "Private room in rental unit",
+      "userId": 13947286,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 137, 77, 79, 145, 85, 86, 87, 89, 665, 90, 91, 667, 92, 93, 30,
+        94, 95, 415, 671, 33, 227, 611, 40, 41, 44, 236, 47, 625, 308
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 101,
+        "currency": "USD",
+        "total": 202,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 32204591,
+      "url": "https://www.airbnb.com/rooms/32204591",
+      "deeplink": "https://www.airbnb.com/rooms/32204591?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 2,
+      "name": "JO&JOE - Cabin - Queen size bed - 5m²",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gentilly",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-32204591/original/5126df64-bee9-4abd-b974-3ca515bff9c8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/16551ca5-3fa1-4bca-9809-0040999f4560.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ef077cde-3d31-445a-a8db-5c291805680f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d05f8fe9-ac5b-40ea-99fb-543ac5928907.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/88e050b6-de4e-4a19-8ff7-bb0c551cbb27.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/266f2e84-2955-437e-93c9-8b98148b911b.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f924fcb1-aa6e-4b1c-afb0-6ce7b4c250f2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": true,
+      "lat": 48.81633,
+      "lng": 2.33817,
+      "persons": 1,
+      "reviewsCount": 991,
+      "rating": 4.42,
+      "type": "Room in hostel",
+      "userId": 240196971,
+      "address": "Gentilly, Île-de-France Region, France",
+      "amenityIds": [
+        128, 35, 4, 5, 37, 101, 39, 103, 72, 42, 77, 46, 51, 21, 85, 55, 87, 30,
+        127, 287
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 105
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 36063785,
+      "url": "https://www.airbnb.com/rooms/36063785",
+      "deeplink": "https://www.airbnb.com/rooms/36063785?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 3,
+      "name": "Generator - 1 Bed in 8 Bed Dormitory",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-36063785/original/e641b30f-83ca-4e44-ba00-51155de89acd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/87c0d7ff-3c89-4491-8815-28d59c31ece4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-36063785/original/fc1c4804-1544-4fd9-93c3-1d3cbb864f50.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c934431b-a088-40c0-8207-4696689c3928.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a8f84f2c-bea2-4a0c-a644-1b02779575ba.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d835b4f9-46d4-4ab6-bba8-7a76ce70cb10.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1fb8f37e-4fc7-4d8d-a13d-6b895cd2f766.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": true,
+      "lat": 48.87809,
+      "lng": 2.36816,
+      "persons": 1,
+      "reviewsCount": 557,
+      "rating": 4.35,
+      "type": "Shared room in hostel",
+      "userId": 269738613,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 34, 35, 515, 4, 5, 38, 39, 103, 104, 73, 201, 10, 43, 44, 77, 21,
+        85, 86, 88, 280, 30
+      ],
+      "previewAmenities": ["Wifi", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 44,
+        "currency": "USD",
+        "total": 88,
+        "priceItems": [
+          {
+            "amount": 86
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 35643676,
+      "url": "https://www.airbnb.com/rooms/35643676",
+      "deeplink": "https://www.airbnb.com/rooms/35643676?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 4,
+      "name": "Hotel Korner Eiffel - Single Room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/9915231c-e6a0-47e5-bc54-092389343959.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/03a81bbc-4cbc-4bae-a562-209e1ad9a5eb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b5d3498-555f-4f43-933e-2f60c96abcab.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c3ba3280-4f38-4f86-918e-66e769fc31c4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c47afef0-b3b6-43fa-8178-373f1d9bdcc6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/726d705e-50aa-48ae-9105-184929b60d67.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c2b2b0e0-0ded-4543-a64c-5ebfeac20826.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.84656,
+      "lng": 2.28856,
+      "persons": 1,
+      "reviewsCount": 331,
+      "rating": 4.82,
+      "type": "Room in boutique hotel",
+      "userId": 264964652,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 128, 1, 4, 72, 10, 12, 77, 90, 91, 93, 30, 35, 100, 37, 39, 103, 40,
+        41, 42, 44, 45, 46, 47, 51, 55, 56
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 169,
+        "currency": "USD",
+        "total": 337,
+        "priceItems": [
+          {
+            "amount": 333
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 605441455877656700,
+      "url": "https://www.airbnb.com/rooms/605441455877656700",
+      "deeplink": "https://www.airbnb.com/rooms/605441455877656700?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 5,
+      "name": "GuestReady - Superb Studio near Quais Grands",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/338bafcc-b1fe-4f20-a4dd-82afda03ff8a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/6eb9ce72-8fd6-45f6-acc5-6e082790b82f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/c04de7fd-5889-4a61-afbb-b3bf781019b1.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/5911f047-ed64-4c21-87fa-5fc027849c8c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/c3fe0c03-2811-41db-a4cd-a941ca5b68b5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/78fab77c-5070-4cff-89e2-cdc2347749de.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4f46261f-aecf-4ccb-8a46-552ef7bd13b1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.85331,
+      "lng": 2.3418,
+      "persons": 4,
+      "reviewsCount": 50,
+      "rating": 4.78,
+      "type": "Entire rental unit",
+      "userId": 454125083,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 35, 4, 71, 8, 40, 41, 45, 77, 46, 85, 56, 89, 90, 91, 92, 61, 93,
+        30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 269,
+        "currency": "USD",
+        "total": 538,
+        "priceItems": [
+          {
+            "amount": 437
+          },
+          {
+            "amount": 91
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 740424130726649100,
+      "url": "https://www.airbnb.com/rooms/740424130726649100",
+      "deeplink": "https://www.airbnb.com/rooms/740424130726649100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 6,
+      "name": "Chambre douche partagée - Sans Clim / Ascenseur",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/f9d0c7be-e89d-497f-b291-f0c44b75f87b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/3164c8d2-bc1e-4637-a3a9-bc7dfa643c71.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/d33fba43-6e5b-407c-a07d-7ee48c810238.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/f947fe22-c40f-46ce-949c-845fae70cfef.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/9242b9f9-d027-46e5-95a7-6ecea0581c07.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/d0ae6d79-5b3a-4352-a41e-dfc92ddb71fa.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/39807b6f-b5a3-4ade-a3f7-4aa24c2367a4.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8263139,
+      "lng": 2.3603044,
+      "persons": 1,
+      "reviewsCount": 0,
+      "type": "Room in hotel",
+      "userId": 484093217,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 4, 36, 37, 39, 40, 42, 45, 77, 47, 85, 671],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 61,
+        "currency": "USD",
+        "total": 121,
+        "priceItems": [
+          {
+            "amount": 114
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": 554636318561813400,
+      "url": "https://www.airbnb.com/rooms/554636318561813400",
+      "deeplink": "https://www.airbnb.com/rooms/554636318561813400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 7,
+      "name": "Amazing Apartement Martel",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-554636318561813401/original/f987ec6d-754e-49c5-aed3-ea528102f3b7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/553e7e57-636d-48ad-be5a-0eff3cb1a35d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1cf0763e-a2a2-46e5-b198-760c984de3f2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5cd91269-9b77-4065-a4b7-844da879afac.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4dfc1253-bfc8-450d-8fb8-448910a6ca73.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-554636318561813401/original/ebeaee12-bb73-4637-afec-67c67e1d4b59.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6d06b005-407f-4888-96d5-f352ed796bec.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.87453,
+      "lng": 2.35373,
+      "persons": 2,
+      "reviewsCount": 26,
+      "rating": 4.65,
+      "type": "Entire rental unit",
+      "userId": 4245845,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 1, 4, 71, 8, 72, 73, 137, 394, 522, 77, 79, 85, 86, 87, 663, 89,
+        665, 90, 27, 91, 667, 92, 93, 30, 94, 415, 671, 672, 33, 34, 35, 611,
+        36, 37, 40, 41, 44, 236, 45, 46, 308, 185, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 305,
+        "currency": "USD",
+        "total": 610,
+        "priceItems": [
+          {
+            "amount": 452
+          },
+          {
+            "amount": 62
+          },
+          {
+            "amount": 86
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 20085753,
+      "url": "https://www.airbnb.com/rooms/20085753",
+      "deeplink": "https://www.airbnb.com/rooms/20085753?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 8,
+      "name": "Charming new studio for 2, Palais des Congrès !",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d2b31fd9-3089-4778-9aa4-a94862f119d2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5aaf71f6-41d8-4d05-9c07-0e491fc62baf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a9ff6ab0-790d-4f75-a91c-7615860d2e19.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f8525acc-a4b3-45ba-9d09-a53d2cd5af5e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/81dd9fe1-2ccb-419f-a87a-225598ba8aea.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c14e4f5d-a717-4a0b-9e86-5e78d94bc20c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9cd9a4cb-7a53-42ca-9571-72b9329c8972.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.87978,
+      "lng": 2.28624,
+      "persons": 2,
+      "reviewsCount": 136,
+      "rating": 4.96,
+      "type": "Private room in bed and breakfast",
+      "userId": 66880377,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 35, 4, 36, 71, 8, 40, 41, 44, 45, 77, 46, 47, 51, 21, 85, 55, 89,
+        90, 91, 93, 30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 194,
+        "currency": "USD",
+        "total": 387,
+        "priceItems": [
+          {
+            "amount": 277
+          },
+          {
+            "amount": 46
+          },
+          {
+            "amount": 54
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 38900347,
+      "url": "https://www.airbnb.com/rooms/38900347",
+      "deeplink": "https://www.airbnb.com/rooms/38900347?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 9,
+      "name": "Hotel 34B*** Superior Double room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/022dccc8-df78-4f0a-a264-d749ac331e67.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/88d052c3-92d5-4880-94a2-5b222bb26cad.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/cfceaffe-e446-4c44-9129-02452eeed3ae.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8c718e06-c972-4ef2-93b4-1dcaed6a30d8.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/436dc486-c802-425f-adad-e510e6500bd5.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.87356,
+      "lng": 2.34298,
+      "persons": 2,
+      "reviewsCount": 115,
+      "rating": 4.7,
+      "type": "Room in boutique hotel",
+      "userId": 293720140,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 45, 15, 21, 30, 223],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 189,
+        "currency": "USD",
+        "total": 377,
+        "priceItems": [
+          {
+            "amount": 373
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 50631576,
+      "url": "https://www.airbnb.com/rooms/50631576",
+      "deeplink": "https://www.airbnb.com/rooms/50631576?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 10,
+      "name": "Paris centre : Private room: apartment 20th",
+      "bathrooms": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/fea9a902-4aa4-4530-9bf3-c97ad67d5b74.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/8404858c-5e28-447c-b669-8a2affd6d4b4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/2852f23a-e1e8-49ad-9aa9-b563fc39f601.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/3d3cbac0-5945-4989-a795-68aebc338efd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/d83d891d-f561-46a9-a6e0-f83dbd3146fa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/6f1e92f1-f7aa-445f-a08a-c71422bd2b96.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d08bdb7c-c498-4b24-ba88-5c0b40019efd.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86676,
+      "lng": 2.39851,
+      "persons": 2,
+      "reviewsCount": 19,
+      "rating": 4.79,
+      "type": "Private room in rental unit",
+      "userId": 124525913,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        322, 4, 8, 392, 73, 137, 394, 11, 12, 77, 79, 21, 85, 89, 665, 90, 91,
+        667, 92, 93, 30, 94, 95, 415, 96, 672, 33, 34, 35, 37, 101, 103, 40, 45,
+        46, 47, 308, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 101,
+        "currency": "USD",
+        "total": 201,
+        "priceItems": [
+          {
+            "amount": 134
+          },
+          {
+            "amount": 31
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 45479061,
+      "url": "https://www.airbnb.com/rooms/45479061",
+      "deeplink": "https://www.airbnb.com/rooms/45479061?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 11,
+      "name": "★ Beautiful, comfortable single room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7066368f-f097-40c3-85af-fba493963f73.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c8c26915-ea3a-4064-a2d5-fba693b87a9e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f12f3386-05a1-44f3-8ee2-7648a5b65036.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e334ebd-b9dd-4c61-85ba-cfe16ea3377f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/57474198-a003-434e-8636-cd37cef2deeb.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.83146,
+      "lng": 2.31981,
+      "persons": 1,
+      "reviewsCount": 171,
+      "rating": 4.22,
+      "type": "Room in hotel",
+      "userId": 367980677,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 4, 36, 5, 37, 39, 40, 41, 42, 45, 46, 51, 55, 30],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 137,
+        "currency": "USD",
+        "total": 273,
+        "priceItems": [
+          {
+            "amount": 271
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 45343617,
+      "url": "https://www.airbnb.com/rooms/45343617",
+      "deeplink": "https://www.airbnb.com/rooms/45343617?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 12,
+      "name": "JO&JOE - 1 Bed in a 6-8 people mixed shared room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/3fa4c77e-8e16-4d8e-b914-ff7f6003e2ed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/67b0386b-7dcc-46d6-96fc-cb73698ca4f6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/d0ff4235-cc04-475d-830c-1988b42088b4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/d65ba1b9-da47-4de7-89a3-15209ca95028.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/4dab8ba1-97b7-4cc4-8126-7cd63cb3e372.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/87aa4e69-97c0-4722-b391-c39fa45f35d6.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/b7a18546-c3a2-4ad8-8146-de0a8c874e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.85269,
+      "lng": 2.40086,
+      "persons": 1,
+      "reviewsCount": 241,
+      "rating": 4.5,
+      "type": "Shared room in hostel",
+      "userId": 365421815,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [35, 611, 4, 5, 37, 39, 8, 42, 79, 51, 85, 55, 56, 57, 30],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 52,
+        "currency": "USD",
+        "total": 104,
+        "priceItems": [
+          {
+            "amount": 98
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 49721986,
+      "url": "https://www.airbnb.com/rooms/49721986",
+      "deeplink": "https://www.airbnb.com/rooms/49721986?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 13,
+      "name": "One bed in a 8-Bed Dorm - Shared Bathroom in Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/7a97de2e-2ecc-4890-bd83-9444572376f7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/e895dc1f-60a0-472c-8e6b-73e1ae5e17fc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/3a7719f0-9de9-475f-89aa-1b8d4a3da152.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/572e1b9d-8db6-4fda-a22d-06ad7fd04706.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/8fd0ed13-50a2-47e8-b8d5-5d8500e5b54a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/a18392d6-6f25-4b9d-bd93-64ba3470a445.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1da2775c-653f-42d6-9a30-2c71c83491ca.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84643,
+      "lng": 2.39508,
+      "persons": 1,
+      "reviewsCount": 184,
+      "rating": 4.57,
+      "type": "Shared room in hostel",
+      "userId": 400104205,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [4, 36, 21, 37, 85, 39, 77, 46],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 49,
+        "currency": "USD",
+        "total": 98,
+        "priceItems": [
+          {
+            "amount": 92
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 23993416,
+      "url": "https://www.airbnb.com/rooms/23993416",
+      "deeplink": "https://www.airbnb.com/rooms/23993416?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 14,
+      "name": "Bright studio, Denfert-Rochereau Paris XIVè",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/a8fdd027-6461-4e61-badd-ea117ad8196d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/081492ad-023c-4d1e-a5aa-d0f84eb5c74a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/4f03c230-4505-4fa8-81ac-03ff36e0702d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/ec7495be-d553-4c0b-8da1-6ac9dd876a23.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/bee05482-556d-4e91-9d7e-ec58c4c0e976.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/bfeaad21-306c-4d20-a6b1-eedd058b1af4.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a9dd2435-e3ed-40d3-ba46-841044f22811.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.82973,
+      "lng": 2.33194,
+      "persons": 2,
+      "reviewsCount": 24,
+      "rating": 4.92,
+      "type": "Entire rental unit",
+      "userId": 180522843,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 129, 2, 35, 4, 8, 40, 41, 44, 45, 77, 46, 47, 85, 86, 57, 90, 91,
+        92, 93, 30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 149,
+        "currency": "USD",
+        "total": 298,
+        "priceItems": [
+          {
+            "amount": 247
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 36742146,
+      "url": "https://www.airbnb.com/rooms/36742146",
+      "deeplink": "https://www.airbnb.com/rooms/36742146?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 15,
+      "name": "Private room 20 minutes from Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Deuil-la-Barre",
+      "images": [
+        "https://a0.muscache.com/im/pictures/57d3e409-a34c-4c36-bbfd-2c0df0220660.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/49a92a79-c891-4a49-a808-b55cb16752d3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f6e9dcfa-6da5-4030-b2ae-66dcfda73cb3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/af4eba06-b67d-44ee-b2f3-1ff4c82d56fd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6490fcf3-5fb9-485b-815c-f0914b46d0aa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/29ddbdba-848a-4231-9db0-aa20983e4393.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/551f4f5c-4343-4872-8cee-970f6a51d330.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.97073,
+      "lng": 2.3191,
+      "persons": 1,
+      "reviewsCount": 106,
+      "rating": 4.96,
+      "type": "Private room in condo",
+      "userId": 36030265,
+      "address": "Deuil-la-Barre, Île-de-France, France",
+      "amenityIds": [
+        4, 133, 8, 9, 137, 77, 85, 86, 23, 663, 89, 90, 91, 667, 93, 30, 94, 95,
+        415, 671, 96, 33, 35, 36, 37, 101, 40, 41, 44, 236, 45, 46, 47, 625,
+        308, 56
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 66,
+        "priceItems": [
+          {
+            "amount": 49
+          },
+          {
+            "amount": 5
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 673018294431605000,
+      "url": "https://www.airbnb.com/rooms/673018294431605000",
+      "deeplink": "https://www.airbnb.com/rooms/673018294431605000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 16,
+      "name": "Simple Central Flat close to Eiffel Tower",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/32df83df-d52a-4fda-9959-219739d50629.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/3ab610ff-8ffb-4dfe-9db0-5436b269ae3f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/d0af02e7-f31e-4877-b362-5d7c8ee1bcfb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/bc9f287b-797f-4cc2-a350-f8e967de6738.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/67e99215-9022-4f48-b8cc-558974e9f6c6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/5fb6093e-e7fe-4132-8eff-4c4f2b22a98d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e9837578-010f-4838-919d-ebfa4d1da334.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8444333,
+      "lng": 2.2943365,
+      "persons": 1,
+      "reviewsCount": 3,
+      "rating": 3.67,
+      "type": "Entire rental unit",
+      "userId": 184109326,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [8],
+      "previewAmenities": ["Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 76,
+        "currency": "USD",
+        "total": 152,
+        "priceItems": [
+          {
+            "amount": 104
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 710773939399621500,
+      "url": "https://www.airbnb.com/rooms/710773939399621500",
+      "deeplink": "https://www.airbnb.com/rooms/710773939399621500?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 17,
+      "name": "Spacious and Comfortable Men’s Shared Room 5-1",
+      "bathrooms": 3,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ivry-sur-Seine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/9d64e52e-de85-446c-8cad-b282b99dfe46.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/a7cd7682-da0d-4dfe-ac93-cdaf33206882.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/d04682d8-0c2d-40ab-92bd-5fec8ca895de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/b7c91c67-ef7e-44d5-aaca-a2bbd5dc1380.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/71fe5d01-1c4f-4326-9f64-3496fe23cb94.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/8873efea-b876-473c-aa78-d4d670c18464.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f43f7d52-0de8-455c-864f-a9da9de4971a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.81582,
+      "lng": 2.37588,
+      "persons": 1,
+      "reviewsCount": 7,
+      "rating": 4.86,
+      "type": "Shared room in home",
+      "userId": 477193898,
+      "address": "Ivry-sur-Seine, Île-de-France, France",
+      "amenityIds": [
+        129, 4, 8, 73, 137, 649, 10, 650, 651, 77, 80, 656, 86, 89, 665, 90, 91,
+        93, 669, 30, 287, 611, 676, 37, 101, 39, 103, 40, 104, 41, 42, 682, 107,
+        299, 683, 44, 236, 45, 46, 47, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 65,
+        "priceItems": [
+          {
+            "amount": 47
+          },
+          {
+            "amount": 6
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 690684496602879100,
+      "url": "https://www.airbnb.com/rooms/690684496602879100",
+      "deeplink": "https://www.airbnb.com/rooms/690684496602879100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 18,
+      "name": "☆ Cosy studio @ Montparnasse ☆",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c71c120d-947d-4f72-9a87-3156c5100747.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d3d09617-1599-4e98-93dd-931c69c68598.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/fb4b7696-5663-40ab-afc4-c19c79d9ec1b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b80d86c-e109-41a6-807b-c72d07b5d048.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6f374c67-8685-4c5c-ab16-112f48e60b91.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/dcb48cae-c7cb-47a4-8447-043a2f3b1fa0.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/27027565-ca3b-42ca-acbd-ce4b52e13242.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.83509,
+      "lng": 2.32169,
+      "persons": 3,
+      "reviewsCount": 8,
+      "rating": 4.13,
+      "type": "Entire rental unit",
+      "userId": 2503671,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        96, 1, 33, 2, 4, 8, 40, 44, 77, 46, 85, 90, 91, 93, 30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 160,
+        "currency": "USD",
+        "total": 320,
+        "priceItems": [
+          {
+            "amount": 203
+          },
+          {
+            "amount": 62
+          },
+          {
+            "amount": 45
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 45498563,
+      "url": "https://www.airbnb.com/rooms/45498563",
+      "deeplink": "https://www.airbnb.com/rooms/45498563?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 19,
+      "name": "Paris La Défense private room - Parking - Metro 1",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Courbevoie",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/d877f546-1332-4ac3-8fcc-c6948f0a0140.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/6e39c25f-345b-497d-9cd6-78db101c7a04.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/7e452762-bd68-4add-94fc-6918adf33808.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/0a27af1e-16f5-4a62-8828-da3c294e2d2c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/322a2ba2-e8d8-4559-8d2a-640da707ba22.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/1e809363-df41-44cb-aff8-8c570eb4e491.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c62b6766-b58a-459f-a790-37551c55e0bc.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.88923,
+      "lng": 2.24891,
+      "persons": 2,
+      "reviewsCount": 64,
+      "rating": 4.95,
+      "type": "Private room in condo",
+      "userId": 40825844,
+      "address": "Courbevoie, Île-de-France, France",
+      "amenityIds": [
+        1, 2, 4, 8, 9, 75, 77, 21, 85, 86, 87, 88, 89, 90, 91, 92, 93, 30, 95,
+        96, 33, 34, 98, 35, 36, 100, 37, 103, 104, 41, 44, 45, 46, 47, 51, 52,
+        56, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 107,
+        "currency": "USD",
+        "total": 214,
+        "priceItems": [
+          {
+            "amount": 185
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 52099352,
+      "url": "https://www.airbnb.com/rooms/52099352",
+      "deeplink": "https://www.airbnb.com/rooms/52099352?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 20,
+      "name": "823 -  Buttes Chaumont - Spacious apartment",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/eb8e2cc4-afae-4bff-948d-c76d4f8a8c13.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/78bbcd0e-a913-4d2d-bf59-54642ab09e1d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/d4bb2d4b-d715-479d-8db9-e9615f096db0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/d1c8b6dc-8983-4dc6-849e-53090126fa91.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/858d0b5d-0c43-4576-bae8-57d630a6f930.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/927162d9-06e4-4a64-9c44-a4d71bdc686a.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/cb900785-2545-4dcd-9bde-0320e585ab50.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8765,
+      "lng": 2.38696,
+      "persons": 4,
+      "reviewsCount": 34,
+      "rating": 4,
+      "type": "Entire rental unit",
+      "userId": 415596168,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 1, 129, 2, 4, 71, 8, 72, 10, 77, 85, 89, 90, 91, 93, 30, 94, 96, 33,
+        35, 103, 40, 104, 41, 44, 45, 46, 47
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 175,
+        "currency": "USD",
+        "total": 349,
+        "priceItems": [
+          {
+            "amount": 249
+          },
+          {
+            "amount": 98
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 744798374890110800,
+      "url": "https://www.airbnb.com/rooms/744798374890110800",
+      "deeplink": "https://www.airbnb.com/rooms/744798374890110800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 21,
+      "name": "Beautiful and large 36m2 studio with bedroom area",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/ea86090c-c997-4aca-b365-d6aee14d2e97.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/27c8df2f-185a-43a5-b755-d8670df6fd3b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/2993bb52-7e1c-461b-ac83-5808312e636b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/3be313b0-33b4-43c4-b489-65185507d852.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/21c1e210-c4f6-4829-b865-477e2dfa3486.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/12f74b75-d29f-4a7b-a592-1ec904234f6c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e4afd67b-c998-4525-8f0e-afdbe8def2ab.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.88396,
+      "lng": 2.36452,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Entire rental unit",
+      "userId": 30833305,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 73, 77, 79, 85, 86, 663, 89, 90, 91, 92, 93, 30, 94, 95, 287,
+        415, 671, 672, 33, 34, 35, 611, 39, 40, 104, 41, 44, 236, 45, 46, 47,
+        625, 51, 308, 54, 185, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 173,
+        "currency": "USD",
+        "total": 345,
+        "priceItems": [
+          {
+            "amount": 226
+          },
+          {
+            "amount": 61
+          },
+          {
+            "amount": 48
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 710789640591523000,
+      "url": "https://www.airbnb.com/rooms/710789640591523000",
+      "deeplink": "https://www.airbnb.com/rooms/710789640591523000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 22,
+      "name": "Spacious and Comfortable Men’s Shared Room 5-3",
+      "bathrooms": 3,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ivry-sur-Seine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/9d64e52e-de85-446c-8cad-b282b99dfe46.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/a7cd7682-da0d-4dfe-ac93-cdaf33206882.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/d04682d8-0c2d-40ab-92bd-5fec8ca895de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/b7c91c67-ef7e-44d5-aaca-a2bbd5dc1380.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/71fe5d01-1c4f-4326-9f64-3496fe23cb94.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/8873efea-b876-473c-aa78-d4d670c18464.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f43f7d52-0de8-455c-864f-a9da9de4971a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.81555,
+      "lng": 2.37434,
+      "persons": 1,
+      "reviewsCount": 8,
+      "rating": 4.63,
+      "type": "Shared room in home",
+      "userId": 477193898,
+      "address": "Ivry-sur-Seine, Île-de-France, France",
+      "amenityIds": [
+        129, 4, 8, 73, 137, 649, 10, 650, 651, 77, 80, 656, 86, 89, 665, 90, 91,
+        93, 669, 30, 287, 611, 676, 37, 101, 39, 103, 40, 104, 41, 42, 682, 107,
+        299, 683, 44, 236, 45, 46, 47, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 65,
+        "priceItems": [
+          {
+            "amount": 47
+          },
+          {
+            "amount": 6
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 592381747954363100,
+      "url": "https://www.airbnb.com/rooms/592381747954363100",
+      "deeplink": "https://www.airbnb.com/rooms/592381747954363100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 23,
+      "name": "Sofa Bed in a Cozy Apartment in Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/eeace965-4c47-4c61-930a-d89c8d2a545b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/b521b6e8-ec6c-4e8e-a6ce-4d8b2776f097.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/28fbcbe7-0913-4388-a187-b68ee12eded3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/74e8add8-8048-43f1-ab7d-3df8f77ce422.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/0263eca5-799a-4fcf-849d-615e8ce17380.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/53330114-c1e2-4767-a1e4-e0cc8b83c0a7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.863602,
+      "lng": 2.408511,
+      "persons": 1,
+      "reviewsCount": 12,
+      "rating": 4.92,
+      "type": "Shared room in rental unit",
+      "userId": 41606862,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 4, 8, 40, 91, 12, 45, 77, 93, 46],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 81,
+        "currency": "USD",
+        "total": 161,
+        "priceItems": [
+          {
+            "amount": 122
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 22
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 52468537,
+      "url": "https://www.airbnb.com/rooms/52468537",
+      "deeplink": "https://www.airbnb.com/rooms/52468537?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 24,
+      "name": "Bedroom 1\nSacré ❤️",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/a05210c3-b672-4cf8-a056-3a6a40c8f2c3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/86432cf2-1758-45e1-a841-e889cbf778ed.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/4c8113c7-4925-4351-8c1a-44f3d3e2b798.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/26a29d8e-a66c-4901-8c59-56b2df391db7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/441d86d7-764f-4e89-9724-76da09e643bb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cad045ba-cc6f-4dad-a462-f19a2874b18e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ffd53991-7b4e-43b5-a4d8-a9189f987da2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.89699,
+      "lng": 2.35934,
+      "persons": 2,
+      "reviewsCount": 39,
+      "rating": 4.51,
+      "type": "Private room in condo",
+      "userId": 241521744,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        4, 137, 10, 77, 79, 21, 85, 86, 665, 30, 287, 415, 671, 98, 35, 611, 36,
+        103, 40, 42, 44, 45, 46, 47, 61
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 59,
+        "currency": "USD",
+        "total": 118,
+        "priceItems": [
+          {
+            "amount": 84
+          },
+          {
+            "amount": 13
+          },
+          {
+            "amount": 16
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 25285443,
+      "url": "https://www.airbnb.com/rooms/25285443",
+      "deeplink": "https://www.airbnb.com/rooms/25285443?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 25,
+      "name": "Room for Rent 15 minutes from Saint Cloud Gateway",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Suresnes",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e2bea27b-c589-472c-afa1-0d9903302e4c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d48bbd2c-2b33-4dc8-81ce-b7d224f2c562.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9ad3d95c-6e1a-48d5-b103-dddc2a05f075.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/98b79eab-1b67-4721-a63e-e8c2c57f5e8d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2555f70e-7d56-4426-b62b-27186de73fa3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8b26d0b0-01b9-474f-a110-837cdf90e52c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/39e9b048-846f-4dad-bf50-61f40bfd8e20.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86383,
+      "lng": 2.20593,
+      "persons": 1,
+      "reviewsCount": 137,
+      "rating": 4.47,
+      "type": "Private room in rental unit",
+      "userId": 79238365,
+      "address": "Suresnes, Île-de-France, France",
+      "amenityIds": [
+        96, 35, 131, 4, 8, 40, 10, 42, 44, 45, 77, 46, 47, 89, 90, 91, 92, 93,
+        30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 34,
+        "currency": "USD",
+        "total": 68,
+        "priceItems": [
+          {
+            "amount": 51
+          },
+          {
+            "amount": 5
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 14905942,
+      "url": "https://www.airbnb.com/rooms/14905942",
+      "deeplink": "https://www.airbnb.com/rooms/14905942?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 26,
+      "name": "Nice single room very close to Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Créteil",
+      "images": [
+        "https://a0.muscache.com/im/pictures/efbb7e2b-c360-48b3-8420-a3381c318500.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0ab14125-450d-4022-9cc0-9647feeddf4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/971bedd7-1656-4753-a9d5-42768d4bd9df.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b5547b64-4721-4633-960f-9e4615a1a03c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5e71c3c7-67d4-44e9-8f14-e4af34a64242.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/354b9abc-6b49-4088-9603-3dea636bb336.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8c7e38a2-d53a-4fe8-a9be-212055f185f7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.77977,
+      "lng": 2.45501,
+      "persons": 1,
+      "reviewsCount": 221,
+      "rating": 4.9,
+      "type": "Private room in rental unit",
+      "userId": 71529421,
+      "address": "Créteil, Île-de-France, France",
+      "amenityIds": [3, 35, 4, 101, 8, 40, 44, 46, 16, 49, 50, 21, 30],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 55,
+        "currency": "USD",
+        "total": 109,
+        "priceItems": [
+          {
+            "amount": 88
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 9842051,
+      "url": "https://www.airbnb.com/rooms/9842051",
+      "deeplink": "https://www.airbnb.com/rooms/9842051?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 27,
+      "name": "Shared room Paris centre 5",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/276d6e84-942a-4b9b-b2ea-e7f657673b2b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1834b8da-17fe-4027-91e2-a420e441b6f8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ad6dd35b-22a8-4566-8af6-dcfafd018b93.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/82081e0b-9eb6-4da0-b49c-2d6269bae6ec.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86692,
+      "lng": 2.37746,
+      "persons": 1,
+      "reviewsCount": 68,
+      "rating": 4.34,
+      "type": "Shared room in rental unit",
+      "userId": 50537853,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [33, 34, 35, 4, 8, 40, 11, 44, 46, 51, 54, 30, 94],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 46,
+        "currency": "USD",
+        "total": 92,
+        "priceItems": [
+          {
+            "amount": 57
+          },
+          {
+            "amount": 31
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 629289891106480600,
+      "url": "https://www.airbnb.com/rooms/629289891106480600",
+      "deeplink": "https://www.airbnb.com/rooms/629289891106480600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 28,
+      "name": "Private room III near Paris",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Bondy",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c29d1cd6-5893-4f47-9cfb-02acff29eb56.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/816e9c5d-65ee-48a3-837e-ae37e75c666a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b5148ead-0680-45aa-87d5-97f82074d481.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8165d3a0-3246-4187-ba98-7eddca35f351.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daeddbf3-8f2d-448d-8d04-f8361541e216.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7b01f517-2f78-491d-8511-c5508883b25d.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7d9acc78-6a5c-441e-87ac-07f2c4cec7f6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.91984,
+      "lng": 2.47681,
+      "persons": 1,
+      "reviewsCount": 21,
+      "rating": 4.67,
+      "type": "Private room in rental unit",
+      "userId": 24243658,
+      "address": "Bondy, Île-de-France, France",
+      "amenityIds": [
+        96, 1, 129, 35, 4, 100, 8, 40, 42, 44, 77, 627, 23, 89, 665, 91, 93, 30,
+        94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 31,
+        "currency": "USD",
+        "total": 62,
+        "priceItems": [
+          {
+            "amount": 53
+          },
+          {
+            "amount": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": 637603904473448300,
+      "url": "https://www.airbnb.com/rooms/637603904473448300",
+      "deeplink": "https://www.airbnb.com/rooms/637603904473448300?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 29,
+      "name": "Lovely room - Racecourse&Seine Musicale&Skema",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Saint-Cloud",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/699d2898-2ff9-4490-b59f-ad349d1ffe21.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/f15846aa-add7-4144-bd2b-dd770c0f1587.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/627182a7-74b8-40d7-8f7a-a2b40c792842.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/bf5bd3bd-1606-463d-860d-aeb9832ac435.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/4a8d6e60-39ed-40dc-9b77-4bed82ab2db7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/0f4a796b-effe-441a-be5b-5b24472744c9.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/64363e9f-2b3b-4404-82d6-4afcf7525ab2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.8543,
+      "lng": 2.22224,
+      "persons": 1,
+      "reviewsCount": 46,
+      "rating": 4.83,
+      "type": "Private room in rental unit",
+      "userId": 95079341,
+      "address": "Saint-Cloud, Île-de-France, France",
+      "amenityIds": [33, 179, 227, 4, 8, 9, 42, 47, 287],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 71,
+        "currency": "USD",
+        "total": 141,
+        "priceItems": [
+          {
+            "amount": 113
+          },
+          {
+            "amount": 8
+          },
+          {
+            "amount": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": 34505907,
+      "url": "https://www.airbnb.com/rooms/34505907",
+      "deeplink": "https://www.airbnb.com/rooms/34505907?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 30,
+      "name": "Studio Cosy near Gare TGV, 30 minutes from PARIS",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Massy",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c502b9b8-9765-43db-8c8b-e0fd2e53b257.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/25bc32b0-f9e4-4ce0-b5ef-bec8a88a28e8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/805f1276-3eb6-4224-8e9f-2e57e7a1324f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4f30fd07-9b1d-48cf-9e2a-b1399aa09f81.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7b8a31b4-8061-406d-9466-5237cb161bd9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9443bb41-efe7-4870-b200-bc63be8d1817.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/74aac1c0-f82d-4d45-aaa2-4d9f9949f852.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.73175,
+      "lng": 2.25578,
+      "persons": 2,
+      "reviewsCount": 169,
+      "rating": 4.7,
+      "type": "Entire home",
+      "userId": 260433481,
+      "address": "Massy, Île-de-France, France",
+      "amenityIds": [
+        1, 66, 4, 8, 77, 23, 89, 90, 91, 93, 30, 94, 95, 96, 33, 98, 35, 36, 37,
+        101, 39, 103, 40, 104, 41, 42, 107, 44, 45, 46, 51, 54, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 55,
+        "currency": "USD",
+        "total": 109,
+        "priceItems": [
+          {
+            "amount": 88
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 739097111109614500,
+      "url": "https://www.airbnb.com/rooms/739097111109614500",
+      "deeplink": "https://www.airbnb.com/rooms/739097111109614500?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 31,
+      "name": "Paris 16: pleasant studio, close to Trocadéro",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/996ae854-092b-41ef-a063-0386af1d1a20.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/fcb3911e-3fa5-4fa0-b6e0-262c0d765e19.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/e0bb8b8d-ae92-479a-83f6-1057d3e2dc1a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/0797db0f-4982-4b74-a41e-4aa656dd0511.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/d6170ffc-08df-4340-a6b4-91bbdc9a8e2c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/779634be-4800-4224-bfc2-77191079bf74.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86574,
+      "lng": 2.27709,
+      "persons": 1,
+      "reviewsCount": 2,
+      "type": "Entire rental unit",
+      "userId": 483842119,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 40, 104, 73, 137, 12, 44, 77, 145, 625, 146, 85, 89, 90, 93,
+        30, 94, 415, 671
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 131,
+        "currency": "USD",
+        "total": 262,
+        "priceItems": [
+          {
+            "amount": 216
+          },
+          {
+            "amount": 36
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 46849602,
+      "url": "https://www.airbnb.com/rooms/46849602",
+      "deeplink": "https://www.airbnb.com/rooms/46849602?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 32,
+      "name": "Eiffel Tower - Rue Saint-Charles",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46849602/original/87fc25f3-46a7-47fb-94c7-855ef7de9e08.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7c2ae0e5-42d3-4519-a384-da3b3ba9ef8c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46849602/original/612f6a64-d952-46cc-aff2-9a29a3775a7a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7ce6a8fd-0d89-4f83-b4a3-108a5e937d00.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/057cbb2f-9980-402e-9066-b5de5c86b150.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/32787081/profile_pic/1430953041/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84613,
+      "lng": 2.28619,
+      "persons": 2,
+      "reviewsCount": 25,
+      "rating": 4.76,
+      "type": "Private room in rental unit",
+      "userId": 32787081,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 35, 4, 5, 37, 39, 8, 11, 12, 45, 77, 46, 15, 47, 90, 91, 93, 30
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 82,
+        "currency": "USD",
+        "total": 163,
+        "priceItems": [
+          {
+            "amount": 123
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 22
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 637444591295028400,
+      "url": "https://www.airbnb.com/rooms/637444591295028400",
+      "deeplink": "https://www.airbnb.com/rooms/637444591295028400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 33,
+      "name": "Room in apartment, close to transport",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Bagneux",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/883c9369-a200-41ef-ae1e-3fb46558a91e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/471e33d9-9c04-4f52-9eec-124cf0043e53.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/85a28bd8-34c8-47f2-b64f-9914d2ae51db.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/a61a0b01-60df-467f-98c4-88058b0119ca.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/60e6348d-896d-40d2-8482-ddc3d662b2b6.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0014377c-8917-433f-96c7-718d155a840c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.797539,
+      "lng": 2.300349,
+      "persons": 1,
+      "reviewsCount": 24,
+      "rating": 4.58,
+      "type": "Private room in condo",
+      "userId": 275220005,
+      "address": "Bagneux, Île-de-France, France",
+      "amenityIds": [33, 35, 8],
+      "previewAmenities": ["Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 37,
+        "currency": "USD",
+        "total": 74,
+        "priceItems": [
+          {
+            "amount": 62
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 46195361,
+      "url": "https://www.airbnb.com/rooms/46195361",
+      "deeplink": "https://www.airbnb.com/rooms/46195361?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 34,
+      "name": "A private room in doves",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Colombes",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/090b1995-81a1-40a1-a4f7-f32a3f55ca0e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/4a2e624b-4414-4000-8c65-e58c53f61daf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/0dccee1a-f3d8-4e38-8eb9-8a9a3910d3aa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/21a31da0-2594-4739-b80e-0b7e1fd93bc0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/a625cca8-ef2e-45c2-8b1c-64dc190465da.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/b84859d7-d2e1-4626-9833-0a8eb9edc234.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9be06ce0-c527-44ec-b495-b1820f7f7b30.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.91988,
+      "lng": 2.23937,
+      "persons": 2,
+      "reviewsCount": 87,
+      "rating": 4.68,
+      "type": "Private room in home",
+      "userId": 307921738,
+      "address": "Colombes, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 77, 79, 85, 23, 89, 665, 90, 91, 92, 93, 30, 94, 95, 96, 35,
+        101, 40, 41, 42, 44, 45, 47, 51, 54
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 40,
+        "currency": "USD",
+        "total": 80,
+        "priceItems": [
+          {
+            "amount": 68
+          },
+          {
+            "amount": 11
+          },
+          {
+            "amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 42852559,
+      "url": "https://www.airbnb.com/rooms/42852559",
+      "deeplink": "https://www.airbnb.com/rooms/42852559?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 35,
+      "name": "JO&JOE - 1 Bed in a 4-6 people mixed shared room",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Gentilly",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c1c080d6-0a4f-4298-a22a-7c7ca3b0bc1f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e61ebc58-6bde-4d75-bd4a-8487dfa23231.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9cf9cf9b-2ac7-4087-9d2a-06025c358e58.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f909731f-9c51-430c-9402-4af21d177826.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/493ee4e4-a6d7-42a8-8f14-27edb4799a83.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/27968b93-fb7f-4420-97c5-b30cbf20a4b9.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f924fcb1-aa6e-4b1c-afb0-6ce7b4c250f2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.816246,
+      "lng": 2.338268,
+      "persons": 1,
+      "reviewsCount": 33,
+      "rating": 4.58,
+      "type": "Shared room in hostel",
+      "userId": 240196971,
+      "address": "Gentilly, Île-de-France, France",
+      "amenityIds": [32, 35, 4, 5, 37, 39, 103, 72, 42, 46, 51, 55, 30, 287],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 42,
+        "currency": "USD",
+        "total": 83,
+        "priceItems": [
+          {
+            "amount": 78
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 673651397004099600,
+      "url": "https://www.airbnb.com/rooms/673651397004099600",
+      "deeplink": "https://www.airbnb.com/rooms/673651397004099600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 36,
+      "name": "Paris, Cozy Room in Apartment",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/2cb7db07-b2c3-4716-82de-581ab1ef7b37.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/a4996c3a-c7ea-453c-ad9e-e5b4a2900bfa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/3be10711-b5a5-477b-9759-66cb9949e642.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/14717a8e-77e2-4b0b-9802-1b7455969f12.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/3982022a-1ae8-40d8-b4a7-829d1e5b15b9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/1f206359-2538-42d6-85eb-a79b8e20762c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/21fe31ef-a8a9-4969-bb9c-c3331edaf69d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86297700000001,
+      "lng": 2.3808904,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in rental unit",
+      "userId": 185147827,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [51, 4, 54, 8, 12, 47],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 152
+          },
+          {
+            "amount": 26
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 730125490695599600,
+      "url": "https://www.airbnb.com/rooms/730125490695599600",
+      "deeplink": "https://www.airbnb.com/rooms/730125490695599600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 37,
+      "name": "Industrial-Style Home near La Villette !",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/6ff70a6a-a0c6-4417-826d-3042503297a5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/5447648b-9afa-4d4e-b41e-253cb6d3e614.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/07abe109-d669-4da8-8689-9cd06f0e2241.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/11d3b699-86cf-48d2-a848-37101d589eed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/3399adaa-a0da-4d0f-987e-b671583a4137.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/f7c9b6f5-a822-40bd-9718-b13df659baf1.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0811727c-9344-46ae-b24f-3d33b7966e1d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.895703381433364,
+      "lng": 2.382955809854257,
+      "persons": 2,
+      "reviewsCount": 2,
+      "type": "Entire rental unit",
+      "userId": 321170460,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 73, 77, 85, 89, 91, 93, 30, 95, 96, 33, 98, 35, 36, 40, 104,
+        41, 44, 109, 46, 47, 117, 118, 57, 125, 126
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 138,
+        "currency": "USD",
+        "total": 275,
+        "priceItems": [
+          {
+            "amount": 265
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 3427122,
+      "url": "https://www.airbnb.com/rooms/3427122",
+      "deeplink": "https://www.airbnb.com/rooms/3427122?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 38,
+      "name": "Parisian Apartment / Latin area",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/9c2a0381-bacf-49a7-9bbc-17bc7bde1628.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/5482574f-d0cc-41ae-96ac-59f50ab76532.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/ca6ffcde-8904-40f3-95bb-79528f633cef.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/eb2767ab-d6fb-4151-9ce3-1c55e4a72bd1.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/36d2d2ff-f3be-494e-bd6a-b054ba363a71.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/b2f3993b-7461-4803-b4ff-f67a6d3e2a3d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6f0956d3-713f-4e4a-b36e-52cc93e6adae.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84239333403949,
+      "lng": 2.3475624760574387,
+      "persons": 2,
+      "reviewsCount": 7,
+      "rating": 4.14,
+      "type": "Entire condo",
+      "userId": 17231402,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 35, 611, 4, 36, 37, 8, 40, 104, 41, 44, 77, 51, 54, 185, 665, 90,
+        91, 61, 93, 30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 149,
+        "currency": "USD",
+        "total": 297,
+        "priceItems": [
+          {
+            "amount": 205
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 625337212321599900,
+      "url": "https://www.airbnb.com/rooms/625337212321599900",
+      "deeplink": "https://www.airbnb.com/rooms/625337212321599900?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 39,
+      "name": "Room in Montmartre",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/3a0bc92b-e243-48ae-ba1e-f3b331afb7f7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/63f402b8-872a-4c3d-adb9-626f4930933c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/86d40710-94f8-4f57-bdff-f23f6663cb58.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/d89d0fb0-ccaf-4c25-977f-571019711e8b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/d56ef7cc-ae2d-402d-8112-3f15ddb9127d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d713bf75-78d7-4bb2-a3eb-6ee2490238fd.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.886722625729966,
+      "lng": 2.3356225443858825,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in rental unit",
+      "userId": 269570035,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [33, 4, 8, 11, 47],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 89,
+        "currency": "USD",
+        "total": 177,
+        "priceItems": [
+          {
+            "amount": 144
+          },
+          {
+            "amount": 24
+          },
+          {
+            "amount": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": 747679970290714600,
+      "url": "https://www.airbnb.com/rooms/747679970290714600",
+      "deeplink": "https://www.airbnb.com/rooms/747679970290714600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 40,
+      "name": "Beautiful apartment near the train station",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Aulnay-sous-Bois",
+      "images": [
+        "https://a0.muscache.com/im/pictures/32381d10-aac6-4d4c-b7ee-c97d14df7c97.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/66e87573-489e-4f06-9479-3ec54e329d60.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d4f44310-9e97-45ec-a545-21aaf299120e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/520f28e8-1446-428c-abc3-1e3d8a8a661b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9309e62d-2d59-4094-9aec-42789f2b0b27.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/025ac7a6-02b3-4c54-b545-955dc95953c1.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.93311,
+      "lng": 2.49461,
+      "persons": 3,
+      "reviewsCount": 0,
+      "type": "Entire condo",
+      "userId": 274838304,
+      "address": "Aulnay-sous-Bois, Île-de-France, France",
+      "amenityIds": [
+        1, 35, 4, 37, 8, 40, 12, 44, 45, 79, 85, 86, 665, 90, 93, 30, 94, 671
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 92,
+        "currency": "USD",
+        "total": 183,
+        "priceItems": [
+          {
+            "amount": 142
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
+    }
+  ]
+}
