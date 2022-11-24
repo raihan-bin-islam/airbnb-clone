@@ -1,25 +1,30 @@
 import Head from "next/head";
-import Header from "@components/sections/Header";
+import Header from "@components/layout/Header";
 import Hero from "@components/sections/Hero";
 import PlaceCard from "@components/cards/PlaceCard";
 import { useEffect, useRef, useState } from "react";
+import { GetServerSideProps, GetServerSidePropsContext, NextPage } from "next";
 
-export default function Home() {
-  const [places, setPlaces] = useState([]);
+type Props = { places: [] };
+
+export default function Home({ places }: Props) {
+  // const [places, setPlaces] = useState([]);
   const ref = useRef<null | HTMLDivElement>(null);
 
-  // Data fetching
-  const getData = async () => {
-    const res = await fetch("./data/places.json");
-    const { results } = await res.json();
-    setPlaces(results);
-  };
+  // // Data fetching
+  // const getData = async () => {
+  //   const res = await fetch("./data/places.json");
+  //   const { results } = await res.json();
+  //   setPlaces(results);
+  // };
 
+  // useEffect(() => {
+  //   getData();
+  // }, []);
+  // // Data fetching ends
   useEffect(() => {
-    getData();
-  }, []);
-  // Data fetching ends
-
+    console.log(places);
+  }, [places]);
   const scrollSectionToView = () => {
     ref.current?.scrollIntoView({ behavior: "smooth" });
   };
@@ -72,4 +77,21 @@ export default function Home() {
       </section>
     </div>
   );
+}
+
+// export const getServerSideProps: GetServerSideProps<Props> = async (
+//   context
+// ) => ({ props: { host: context.req.headers.host || null } });
+
+export async function getServerSideProps(context: GetServerSidePropsContext) {
+  const { req } = context;
+  const protocol = req.headers["x-forwarded-proto"] ? "https" : "http";
+  const host = req.headers.host;
+
+  const res = await fetch(`${protocol}://${host}/api/places`);
+
+  const { results: places } = await res.json();
+  return {
+    props: { places }, // will be passed to the page component as props
+  };
 }

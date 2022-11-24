@@ -1,3 +1,7 @@
+import React, { useState } from "react";
+import Image from "next/image";
+
+// ==================== Hero Icons ===========================================
 import {
   ChevronLeftIcon,
   ChevronRightIcon,
@@ -5,9 +9,7 @@ import {
 } from "@heroicons/react/20/solid";
 import { HeartIcon } from "@heroicons/react/24/outline";
 
-import Image from "next/image";
-import React, { useEffect, useState } from "react";
-
+// ========================== Swiper =========================================
 import Swiper, { Pagination, A11y } from "swiper";
 import { Swiper as SwiperSlider, SwiperSlide } from "swiper/react";
 
@@ -15,7 +17,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-
+// ========================= Types =========================================
 type Props = {
   id: number;
   address: string;
@@ -25,6 +27,7 @@ type Props = {
   price: number;
   rating?: number;
 };
+// ================================= Component ================================
 
 const PlaceCard = ({
   id,
@@ -39,10 +42,6 @@ const PlaceCard = ({
   const [swiper, setSwiper] = useState<Swiper>();
   const [showNavigation, setShowNavigation] = useState<boolean>(false);
   const [activeIndex, setActiveIndex] = useState<number>(0);
-
-  useEffect(() => {
-    console.log(activeIndex);
-  }, [activeIndex]);
 
   return (
     <div
@@ -80,6 +79,7 @@ const PlaceCard = ({
                     alt="card-image"
                     fill
                     style={{ objectFit: "cover" }}
+                    sizes="(max-width: 1921px) 100%,"
                   />
                 </div>
                 {/* Gradient mask */}

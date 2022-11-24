@@ -2042,6 +2042,2071 @@
           }
         ]
       }
+    },
+    {
+      "id": 749319632636862100,
+      "url": "https://www.airbnb.com/rooms/749319632636862100",
+      "deeplink": "https://www.airbnb.com/rooms/749319632636862100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 1,
+      "name": "Lit mezzanine au coeur de Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/40127610-f564-41c3-aa86-e6ba6d0cc22e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/52c6b439-4892-477d-b967-3328b349a4f4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-749319632636862104/original/e4395450-a4bf-4b7e-a688-726a1e51ec0f.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/71464836-463e-43e0-900f-28149872516f.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8720624,
+      "lng": 2.3436204,
+      "persons": 1,
+      "reviewsCount": 0,
+      "type": "Private room in rental unit",
+      "userId": 13947286,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 137, 77, 79, 145, 85, 86, 87, 89, 665, 90, 91, 667, 92, 93, 30,
+        94, 95, 415, 671, 33, 227, 611, 40, 41, 44, 236, 47, 625, 308
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 101,
+        "currency": "USD",
+        "total": 202,
+        "priceItems": [
+          {
+            "amount": 164
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 32204591,
+      "url": "https://www.airbnb.com/rooms/32204591",
+      "deeplink": "https://www.airbnb.com/rooms/32204591?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 2,
+      "name": "JO&JOE - Cabin - Queen size bed - 5m²",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gentilly",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-32204591/original/5126df64-bee9-4abd-b974-3ca515bff9c8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/16551ca5-3fa1-4bca-9809-0040999f4560.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ef077cde-3d31-445a-a8db-5c291805680f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d05f8fe9-ac5b-40ea-99fb-543ac5928907.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/88e050b6-de4e-4a19-8ff7-bb0c551cbb27.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/266f2e84-2955-437e-93c9-8b98148b911b.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f924fcb1-aa6e-4b1c-afb0-6ce7b4c250f2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": true,
+      "lat": 48.81633,
+      "lng": 2.33817,
+      "persons": 1,
+      "reviewsCount": 991,
+      "rating": 4.42,
+      "type": "Room in hostel",
+      "userId": 240196971,
+      "address": "Gentilly, Île-de-France Region, France",
+      "amenityIds": [
+        128, 35, 4, 5, 37, 101, 39, 103, 72, 42, 77, 46, 51, 21, 85, 55, 87, 30,
+        127, 287
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 54,
+        "currency": "USD",
+        "total": 107,
+        "priceItems": [
+          {
+            "amount": 105
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 36063785,
+      "url": "https://www.airbnb.com/rooms/36063785",
+      "deeplink": "https://www.airbnb.com/rooms/36063785?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 3,
+      "name": "Generator - 1 Bed in 8 Bed Dormitory",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-36063785/original/e641b30f-83ca-4e44-ba00-51155de89acd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/87c0d7ff-3c89-4491-8815-28d59c31ece4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-36063785/original/fc1c4804-1544-4fd9-93c3-1d3cbb864f50.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c934431b-a088-40c0-8207-4696689c3928.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a8f84f2c-bea2-4a0c-a644-1b02779575ba.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d835b4f9-46d4-4ab6-bba8-7a76ce70cb10.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1fb8f37e-4fc7-4d8d-a13d-6b895cd2f766.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": true,
+      "lat": 48.87809,
+      "lng": 2.36816,
+      "persons": 1,
+      "reviewsCount": 557,
+      "rating": 4.35,
+      "type": "Shared room in hostel",
+      "userId": 269738613,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 34, 35, 515, 4, 5, 38, 39, 103, 104, 73, 201, 10, 43, 44, 77, 21,
+        85, 86, 88, 280, 30
+      ],
+      "previewAmenities": ["Wifi", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 44,
+        "currency": "USD",
+        "total": 88,
+        "priceItems": [
+          {
+            "amount": 86
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 35643676,
+      "url": "https://www.airbnb.com/rooms/35643676",
+      "deeplink": "https://www.airbnb.com/rooms/35643676?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 4,
+      "name": "Hotel Korner Eiffel - Single Room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/9915231c-e6a0-47e5-bc54-092389343959.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/03a81bbc-4cbc-4bae-a562-209e1ad9a5eb.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b5d3498-555f-4f43-933e-2f60c96abcab.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c3ba3280-4f38-4f86-918e-66e769fc31c4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c47afef0-b3b6-43fa-8178-373f1d9bdcc6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/726d705e-50aa-48ae-9105-184929b60d67.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c2b2b0e0-0ded-4543-a64c-5ebfeac20826.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.84656,
+      "lng": 2.28856,
+      "persons": 1,
+      "reviewsCount": 331,
+      "rating": 4.82,
+      "type": "Room in boutique hotel",
+      "userId": 264964652,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 128, 1, 4, 72, 10, 12, 77, 90, 91, 93, 30, 35, 100, 37, 39, 103, 40,
+        41, 42, 44, 45, 46, 47, 51, 55, 56
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 169,
+        "currency": "USD",
+        "total": 337,
+        "priceItems": [
+          {
+            "amount": 333
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 605441455877656700,
+      "url": "https://www.airbnb.com/rooms/605441455877656700",
+      "deeplink": "https://www.airbnb.com/rooms/605441455877656700?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 5,
+      "name": "GuestReady - Superb Studio near Quais Grands",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/338bafcc-b1fe-4f20-a4dd-82afda03ff8a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/6eb9ce72-8fd6-45f6-acc5-6e082790b82f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/c04de7fd-5889-4a61-afbb-b3bf781019b1.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/5911f047-ed64-4c21-87fa-5fc027849c8c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/c3fe0c03-2811-41db-a4cd-a941ca5b68b5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-605441455877656664/original/78fab77c-5070-4cff-89e2-cdc2347749de.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4f46261f-aecf-4ccb-8a46-552ef7bd13b1.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.85331,
+      "lng": 2.3418,
+      "persons": 4,
+      "reviewsCount": 50,
+      "rating": 4.78,
+      "type": "Entire rental unit",
+      "userId": 454125083,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 35, 4, 71, 8, 40, 41, 45, 77, 46, 85, 56, 89, 90, 91, 92, 61, 93,
+        30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 269,
+        "currency": "USD",
+        "total": 538,
+        "priceItems": [
+          {
+            "amount": 437
+          },
+          {
+            "amount": 91
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 740424130726649100,
+      "url": "https://www.airbnb.com/rooms/740424130726649100",
+      "deeplink": "https://www.airbnb.com/rooms/740424130726649100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 6,
+      "name": "Chambre douche partagée - Sans Clim / Ascenseur",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/f9d0c7be-e89d-497f-b291-f0c44b75f87b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/3164c8d2-bc1e-4637-a3a9-bc7dfa643c71.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/d33fba43-6e5b-407c-a07d-7ee48c810238.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/f947fe22-c40f-46ce-949c-845fae70cfef.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/9242b9f9-d027-46e5-95a7-6ecea0581c07.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-740424130726649107/original/d0ae6d79-5b3a-4352-a41e-dfc92ddb71fa.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/39807b6f-b5a3-4ade-a3f7-4aa24c2367a4.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8263139,
+      "lng": 2.3603044,
+      "persons": 1,
+      "reviewsCount": 0,
+      "type": "Room in hotel",
+      "userId": 484093217,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 4, 36, 37, 39, 40, 42, 45, 77, 47, 85, 671],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 61,
+        "currency": "USD",
+        "total": 121,
+        "priceItems": [
+          {
+            "amount": 114
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": 554636318561813400,
+      "url": "https://www.airbnb.com/rooms/554636318561813400",
+      "deeplink": "https://www.airbnb.com/rooms/554636318561813400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 7,
+      "name": "Amazing Apartement Martel",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-554636318561813401/original/f987ec6d-754e-49c5-aed3-ea528102f3b7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/553e7e57-636d-48ad-be5a-0eff3cb1a35d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1cf0763e-a2a2-46e5-b198-760c984de3f2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5cd91269-9b77-4065-a4b7-844da879afac.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4dfc1253-bfc8-450d-8fb8-448910a6ca73.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-554636318561813401/original/ebeaee12-bb73-4637-afec-67c67e1d4b59.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6d06b005-407f-4888-96d5-f352ed796bec.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.87453,
+      "lng": 2.35373,
+      "persons": 2,
+      "reviewsCount": 26,
+      "rating": 4.65,
+      "type": "Entire rental unit",
+      "userId": 4245845,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 1, 4, 71, 8, 72, 73, 137, 394, 522, 77, 79, 85, 86, 87, 663, 89,
+        665, 90, 27, 91, 667, 92, 93, 30, 94, 415, 671, 672, 33, 34, 35, 611,
+        36, 37, 40, 41, 44, 236, 45, 46, 308, 185, 251
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 305,
+        "currency": "USD",
+        "total": 610,
+        "priceItems": [
+          {
+            "amount": 452
+          },
+          {
+            "amount": 62
+          },
+          {
+            "amount": 86
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 20085753,
+      "url": "https://www.airbnb.com/rooms/20085753",
+      "deeplink": "https://www.airbnb.com/rooms/20085753?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 8,
+      "name": "Charming new studio for 2, Palais des Congrès !",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/d2b31fd9-3089-4778-9aa4-a94862f119d2.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5aaf71f6-41d8-4d05-9c07-0e491fc62baf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/a9ff6ab0-790d-4f75-a91c-7615860d2e19.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f8525acc-a4b3-45ba-9d09-a53d2cd5af5e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/81dd9fe1-2ccb-419f-a87a-225598ba8aea.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c14e4f5d-a717-4a0b-9e86-5e78d94bc20c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9cd9a4cb-7a53-42ca-9571-72b9329c8972.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.87978,
+      "lng": 2.28624,
+      "persons": 2,
+      "reviewsCount": 136,
+      "rating": 4.96,
+      "type": "Private room in bed and breakfast",
+      "userId": 66880377,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 35, 4, 36, 71, 8, 40, 41, 44, 45, 77, 46, 47, 51, 21, 85, 55, 89,
+        90, 91, 93, 30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 194,
+        "currency": "USD",
+        "total": 387,
+        "priceItems": [
+          {
+            "amount": 277
+          },
+          {
+            "amount": 46
+          },
+          {
+            "amount": 54
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 38900347,
+      "url": "https://www.airbnb.com/rooms/38900347",
+      "deeplink": "https://www.airbnb.com/rooms/38900347?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 9,
+      "name": "Hotel 34B*** Superior Double room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/022dccc8-df78-4f0a-a264-d749ac331e67.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/88d052c3-92d5-4880-94a2-5b222bb26cad.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-38900347/original/cfceaffe-e446-4c44-9129-02452eeed3ae.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8c718e06-c972-4ef2-93b4-1dcaed6a30d8.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/436dc486-c802-425f-adad-e510e6500bd5.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.87356,
+      "lng": 2.34298,
+      "persons": 2,
+      "reviewsCount": 115,
+      "rating": 4.7,
+      "type": "Room in boutique hotel",
+      "userId": 293720140,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 45, 15, 21, 30, 223],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 189,
+        "currency": "USD",
+        "total": 377,
+        "priceItems": [
+          {
+            "amount": 373
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 50631576,
+      "url": "https://www.airbnb.com/rooms/50631576",
+      "deeplink": "https://www.airbnb.com/rooms/50631576?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 10,
+      "name": "Paris centre : Private room: apartment 20th",
+      "bathrooms": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/fea9a902-4aa4-4530-9bf3-c97ad67d5b74.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/8404858c-5e28-447c-b669-8a2affd6d4b4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/2852f23a-e1e8-49ad-9aa9-b563fc39f601.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/3d3cbac0-5945-4989-a795-68aebc338efd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/d83d891d-f561-46a9-a6e0-f83dbd3146fa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50631576/original/6f1e92f1-f7aa-445f-a08a-c71422bd2b96.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d08bdb7c-c498-4b24-ba88-5c0b40019efd.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86676,
+      "lng": 2.39851,
+      "persons": 2,
+      "reviewsCount": 19,
+      "rating": 4.79,
+      "type": "Private room in rental unit",
+      "userId": 124525913,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        322, 4, 8, 392, 73, 137, 394, 11, 12, 77, 79, 21, 85, 89, 665, 90, 91,
+        667, 92, 93, 30, 94, 95, 415, 96, 672, 33, 34, 35, 37, 101, 103, 40, 45,
+        46, 47, 308, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 101,
+        "currency": "USD",
+        "total": 201,
+        "priceItems": [
+          {
+            "amount": 134
+          },
+          {
+            "amount": 31
+          },
+          {
+            "amount": 28
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 45479061,
+      "url": "https://www.airbnb.com/rooms/45479061",
+      "deeplink": "https://www.airbnb.com/rooms/45479061?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 11,
+      "name": "★ Beautiful, comfortable single room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/7066368f-f097-40c3-85af-fba493963f73.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c8c26915-ea3a-4064-a2d5-fba693b87a9e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f12f3386-05a1-44f3-8ee2-7648a5b65036.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e334ebd-b9dd-4c61-85ba-cfe16ea3377f.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/57474198-a003-434e-8636-cd37cef2deeb.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.83146,
+      "lng": 2.31981,
+      "persons": 1,
+      "reviewsCount": 171,
+      "rating": 4.22,
+      "type": "Room in hotel",
+      "userId": 367980677,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 35, 4, 36, 5, 37, 39, 40, 41, 42, 45, 46, 51, 55, 30],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 137,
+        "currency": "USD",
+        "total": 273,
+        "priceItems": [
+          {
+            "amount": 271
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 45343617,
+      "url": "https://www.airbnb.com/rooms/45343617",
+      "deeplink": "https://www.airbnb.com/rooms/45343617?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 12,
+      "name": "JO&JOE - 1 Bed in a 6-8 people mixed shared room",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/3fa4c77e-8e16-4d8e-b914-ff7f6003e2ed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/67b0386b-7dcc-46d6-96fc-cb73698ca4f6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/d0ff4235-cc04-475d-830c-1988b42088b4.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/d65ba1b9-da47-4de7-89a3-15209ca95028.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/4dab8ba1-97b7-4cc4-8126-7cd63cb3e372.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-45343617/original/87aa4e69-97c0-4722-b391-c39fa45f35d6.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/b7a18546-c3a2-4ad8-8146-de0a8c874e8c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.85269,
+      "lng": 2.40086,
+      "persons": 1,
+      "reviewsCount": 241,
+      "rating": 4.5,
+      "type": "Shared room in hostel",
+      "userId": 365421815,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [35, 611, 4, 5, 37, 39, 8, 42, 79, 51, 85, 55, 56, 57, 30],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 52,
+        "currency": "USD",
+        "total": 104,
+        "priceItems": [
+          {
+            "amount": 98
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 49721986,
+      "url": "https://www.airbnb.com/rooms/49721986",
+      "deeplink": "https://www.airbnb.com/rooms/49721986?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 13,
+      "name": "One bed in a 8-Bed Dorm - Shared Bathroom in Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/7a97de2e-2ecc-4890-bd83-9444572376f7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/e895dc1f-60a0-472c-8e6b-73e1ae5e17fc.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49721986/original/3a7719f0-9de9-475f-89aa-1b8d4a3da152.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/572e1b9d-8db6-4fda-a22d-06ad7fd04706.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/8fd0ed13-50a2-47e8-b8d5-5d8500e5b54a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-49721986/original/a18392d6-6f25-4b9d-bd93-64ba3470a445.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1da2775c-653f-42d6-9a30-2c71c83491ca.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84643,
+      "lng": 2.39508,
+      "persons": 1,
+      "reviewsCount": 184,
+      "rating": 4.57,
+      "type": "Shared room in hostel",
+      "userId": 400104205,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [4, 36, 21, 37, 85, 39, 77, 46],
+      "previewAmenities": ["Wifi"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 49,
+        "currency": "USD",
+        "total": 98,
+        "priceItems": [
+          {
+            "amount": 92
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 23993416,
+      "url": "https://www.airbnb.com/rooms/23993416",
+      "deeplink": "https://www.airbnb.com/rooms/23993416?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 14,
+      "name": "Bright studio, Denfert-Rochereau Paris XIVè",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/a8fdd027-6461-4e61-badd-ea117ad8196d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/081492ad-023c-4d1e-a5aa-d0f84eb5c74a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/4f03c230-4505-4fa8-81ac-03ff36e0702d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/ec7495be-d553-4c0b-8da1-6ac9dd876a23.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/bee05482-556d-4e91-9d7e-ec58c4c0e976.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-23993416/original/bfeaad21-306c-4d20-a6b1-eedd058b1af4.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a9dd2435-e3ed-40d3-ba46-841044f22811.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.82973,
+      "lng": 2.33194,
+      "persons": 2,
+      "reviewsCount": 24,
+      "rating": 4.92,
+      "type": "Entire rental unit",
+      "userId": 180522843,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 129, 2, 35, 4, 8, 40, 41, 44, 45, 77, 46, 47, 85, 86, 57, 90, 91,
+        92, 93, 30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 149,
+        "currency": "USD",
+        "total": 298,
+        "priceItems": [
+          {
+            "amount": 247
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 36742146,
+      "url": "https://www.airbnb.com/rooms/36742146",
+      "deeplink": "https://www.airbnb.com/rooms/36742146?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 15,
+      "name": "Private room 20 minutes from Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Deuil-la-Barre",
+      "images": [
+        "https://a0.muscache.com/im/pictures/57d3e409-a34c-4c36-bbfd-2c0df0220660.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/49a92a79-c891-4a49-a808-b55cb16752d3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f6e9dcfa-6da5-4030-b2ae-66dcfda73cb3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/af4eba06-b67d-44ee-b2f3-1ff4c82d56fd.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6490fcf3-5fb9-485b-815c-f0914b46d0aa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/29ddbdba-848a-4231-9db0-aa20983e4393.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/551f4f5c-4343-4872-8cee-970f6a51d330.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.97073,
+      "lng": 2.3191,
+      "persons": 1,
+      "reviewsCount": 106,
+      "rating": 4.96,
+      "type": "Private room in condo",
+      "userId": 36030265,
+      "address": "Deuil-la-Barre, Île-de-France, France",
+      "amenityIds": [
+        4, 133, 8, 9, 137, 77, 85, 86, 23, 663, 89, 90, 91, 667, 93, 30, 94, 95,
+        415, 671, 96, 33, 35, 36, 37, 101, 40, 41, 44, 236, 45, 46, 47, 625,
+        308, 56
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 66,
+        "priceItems": [
+          {
+            "amount": 49
+          },
+          {
+            "amount": 5
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 673018294431605000,
+      "url": "https://www.airbnb.com/rooms/673018294431605000",
+      "deeplink": "https://www.airbnb.com/rooms/673018294431605000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 16,
+      "name": "Simple Central Flat close to Eiffel Tower",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/32df83df-d52a-4fda-9959-219739d50629.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/3ab610ff-8ffb-4dfe-9db0-5436b269ae3f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/d0af02e7-f31e-4877-b362-5d7c8ee1bcfb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/bc9f287b-797f-4cc2-a350-f8e967de6738.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/67e99215-9022-4f48-b8cc-558974e9f6c6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673018294431605013/original/5fb6093e-e7fe-4132-8eff-4c4f2b22a98d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e9837578-010f-4838-919d-ebfa4d1da334.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8444333,
+      "lng": 2.2943365,
+      "persons": 1,
+      "reviewsCount": 3,
+      "rating": 3.67,
+      "type": "Entire rental unit",
+      "userId": 184109326,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [8],
+      "previewAmenities": ["Kitchen"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 76,
+        "currency": "USD",
+        "total": 152,
+        "priceItems": [
+          {
+            "amount": 104
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 710773939399621500,
+      "url": "https://www.airbnb.com/rooms/710773939399621500",
+      "deeplink": "https://www.airbnb.com/rooms/710773939399621500?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 17,
+      "name": "Spacious and Comfortable Men’s Shared Room 5-1",
+      "bathrooms": 3,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ivry-sur-Seine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/9d64e52e-de85-446c-8cad-b282b99dfe46.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/a7cd7682-da0d-4dfe-ac93-cdaf33206882.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/d04682d8-0c2d-40ab-92bd-5fec8ca895de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/b7c91c67-ef7e-44d5-aaca-a2bbd5dc1380.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/71fe5d01-1c4f-4326-9f64-3496fe23cb94.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/8873efea-b876-473c-aa78-d4d670c18464.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f43f7d52-0de8-455c-864f-a9da9de4971a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.81582,
+      "lng": 2.37588,
+      "persons": 1,
+      "reviewsCount": 7,
+      "rating": 4.86,
+      "type": "Shared room in home",
+      "userId": 477193898,
+      "address": "Ivry-sur-Seine, Île-de-France, France",
+      "amenityIds": [
+        129, 4, 8, 73, 137, 649, 10, 650, 651, 77, 80, 656, 86, 89, 665, 90, 91,
+        93, 669, 30, 287, 611, 676, 37, 101, 39, 103, 40, 104, 41, 42, 682, 107,
+        299, 683, 44, 236, 45, 46, 47, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 65,
+        "priceItems": [
+          {
+            "amount": 47
+          },
+          {
+            "amount": 6
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 690684496602879100,
+      "url": "https://www.airbnb.com/rooms/690684496602879100",
+      "deeplink": "https://www.airbnb.com/rooms/690684496602879100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 18,
+      "name": "☆ Cosy studio @ Montparnasse ☆",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c71c120d-947d-4f72-9a87-3156c5100747.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d3d09617-1599-4e98-93dd-931c69c68598.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/fb4b7696-5663-40ab-afc4-c19c79d9ec1b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b80d86c-e109-41a6-807b-c72d07b5d048.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6f374c67-8685-4c5c-ab16-112f48e60b91.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/dcb48cae-c7cb-47a4-8447-043a2f3b1fa0.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/27027565-ca3b-42ca-acbd-ce4b52e13242.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.83509,
+      "lng": 2.32169,
+      "persons": 3,
+      "reviewsCount": 8,
+      "rating": 4.13,
+      "type": "Entire rental unit",
+      "userId": 2503671,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        96, 1, 33, 2, 4, 8, 40, 44, 77, 46, 85, 90, 91, 93, 30, 94
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 160,
+        "currency": "USD",
+        "total": 320,
+        "priceItems": [
+          {
+            "amount": 203
+          },
+          {
+            "amount": 62
+          },
+          {
+            "amount": 45
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 45498563,
+      "url": "https://www.airbnb.com/rooms/45498563",
+      "deeplink": "https://www.airbnb.com/rooms/45498563?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 19,
+      "name": "Paris La Défense private room - Parking - Metro 1",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Courbevoie",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/d877f546-1332-4ac3-8fcc-c6948f0a0140.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/6e39c25f-345b-497d-9cd6-78db101c7a04.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/7e452762-bd68-4add-94fc-6918adf33808.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/0a27af1e-16f5-4a62-8828-da3c294e2d2c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/322a2ba2-e8d8-4559-8d2a-640da707ba22.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-45498563/original/1e809363-df41-44cb-aff8-8c570eb4e491.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c62b6766-b58a-459f-a790-37551c55e0bc.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.88923,
+      "lng": 2.24891,
+      "persons": 2,
+      "reviewsCount": 64,
+      "rating": 4.95,
+      "type": "Private room in condo",
+      "userId": 40825844,
+      "address": "Courbevoie, Île-de-France, France",
+      "amenityIds": [
+        1, 2, 4, 8, 9, 75, 77, 21, 85, 86, 87, 88, 89, 90, 91, 92, 93, 30, 95,
+        96, 33, 34, 98, 35, 36, 100, 37, 103, 104, 41, 44, 45, 46, 47, 51, 52,
+        56, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 107,
+        "currency": "USD",
+        "total": 214,
+        "priceItems": [
+          {
+            "amount": 185
+          },
+          {
+            "amount": 21
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 52099352,
+      "url": "https://www.airbnb.com/rooms/52099352",
+      "deeplink": "https://www.airbnb.com/rooms/52099352?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 20,
+      "name": "823 -  Buttes Chaumont - Spacious apartment",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/eb8e2cc4-afae-4bff-948d-c76d4f8a8c13.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/78bbcd0e-a913-4d2d-bf59-54642ab09e1d.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/d4bb2d4b-d715-479d-8db9-e9615f096db0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/d1c8b6dc-8983-4dc6-849e-53090126fa91.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/858d0b5d-0c43-4576-bae8-57d630a6f930.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-52099352/original/927162d9-06e4-4a64-9c44-a4d71bdc686a.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/cb900785-2545-4dcd-9bde-0320e585ab50.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.8765,
+      "lng": 2.38696,
+      "persons": 4,
+      "reviewsCount": 34,
+      "rating": 4,
+      "type": "Entire rental unit",
+      "userId": 415596168,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        64, 1, 129, 2, 4, 71, 8, 72, 10, 77, 85, 89, 90, 91, 93, 30, 94, 96, 33,
+        35, 103, 40, 104, 41, 44, 45, 46, 47
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 175,
+        "currency": "USD",
+        "total": 349,
+        "priceItems": [
+          {
+            "amount": 249
+          },
+          {
+            "amount": 98
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 744798374890110800,
+      "url": "https://www.airbnb.com/rooms/744798374890110800",
+      "deeplink": "https://www.airbnb.com/rooms/744798374890110800?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 21,
+      "name": "Beautiful and large 36m2 studio with bedroom area",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/ea86090c-c997-4aca-b365-d6aee14d2e97.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/27c8df2f-185a-43a5-b755-d8670df6fd3b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/2993bb52-7e1c-461b-ac83-5808312e636b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/3be313b0-33b4-43c4-b489-65185507d852.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/21c1e210-c4f6-4829-b865-477e2dfa3486.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-744798374890110868/original/12f74b75-d29f-4a7b-a592-1ec904234f6c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e4afd67b-c998-4525-8f0e-afdbe8def2ab.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.88396,
+      "lng": 2.36452,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Entire rental unit",
+      "userId": 30833305,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 73, 77, 79, 85, 86, 663, 89, 90, 91, 92, 93, 30, 94, 95, 287,
+        415, 671, 672, 33, 34, 35, 611, 39, 40, 104, 41, 44, 236, 45, 46, 47,
+        625, 51, 308, 54, 185, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 173,
+        "currency": "USD",
+        "total": 345,
+        "priceItems": [
+          {
+            "amount": 226
+          },
+          {
+            "amount": 61
+          },
+          {
+            "amount": 48
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 710789640591523000,
+      "url": "https://www.airbnb.com/rooms/710789640591523000",
+      "deeplink": "https://www.airbnb.com/rooms/710789640591523000?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 22,
+      "name": "Spacious and Comfortable Men’s Shared Room 5-3",
+      "bathrooms": 3,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Ivry-sur-Seine",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/9d64e52e-de85-446c-8cad-b282b99dfe46.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/a7cd7682-da0d-4dfe-ac93-cdaf33206882.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/d04682d8-0c2d-40ab-92bd-5fec8ca895de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/b7c91c67-ef7e-44d5-aaca-a2bbd5dc1380.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/71fe5d01-1c4f-4326-9f64-3496fe23cb94.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/8873efea-b876-473c-aa78-d4d670c18464.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f43f7d52-0de8-455c-864f-a9da9de4971a.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.81555,
+      "lng": 2.37434,
+      "persons": 1,
+      "reviewsCount": 8,
+      "rating": 4.63,
+      "type": "Shared room in home",
+      "userId": 477193898,
+      "address": "Ivry-sur-Seine, Île-de-France, France",
+      "amenityIds": [
+        129, 4, 8, 73, 137, 649, 10, 650, 651, 77, 80, 656, 86, 89, 665, 90, 91,
+        93, 669, 30, 287, 611, 676, 37, 101, 39, 103, 40, 104, 41, 42, 682, 107,
+        299, 683, 44, 236, 45, 46, 47, 251, 61
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 33,
+        "currency": "USD",
+        "total": 65,
+        "priceItems": [
+          {
+            "amount": 47
+          },
+          {
+            "amount": 6
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 592381747954363100,
+      "url": "https://www.airbnb.com/rooms/592381747954363100",
+      "deeplink": "https://www.airbnb.com/rooms/592381747954363100?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 23,
+      "name": "Sofa Bed in a Cozy Apartment in Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/eeace965-4c47-4c61-930a-d89c8d2a545b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/b521b6e8-ec6c-4e8e-a6ce-4d8b2776f097.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/28fbcbe7-0913-4388-a187-b68ee12eded3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/74e8add8-8048-43f1-ab7d-3df8f77ce422.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-592381747954363121/original/0263eca5-799a-4fcf-849d-615e8ce17380.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/53330114-c1e2-4767-a1e4-e0cc8b83c0a7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.863602,
+      "lng": 2.408511,
+      "persons": 1,
+      "reviewsCount": 12,
+      "rating": 4.92,
+      "type": "Shared room in rental unit",
+      "userId": 41606862,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [1, 4, 8, 40, 91, 12, 45, 77, 93, 46],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 81,
+        "currency": "USD",
+        "total": 161,
+        "priceItems": [
+          {
+            "amount": 122
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 22
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 52468537,
+      "url": "https://www.airbnb.com/rooms/52468537",
+      "deeplink": "https://www.airbnb.com/rooms/52468537?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 24,
+      "name": "Bedroom 1\nSacré ❤️",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/a05210c3-b672-4cf8-a056-3a6a40c8f2c3.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/86432cf2-1758-45e1-a841-e889cbf778ed.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/4c8113c7-4925-4351-8c1a-44f3d3e2b798.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/26a29d8e-a66c-4901-8c59-56b2df391db7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52468537/original/441d86d7-764f-4e89-9724-76da09e643bb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cad045ba-cc6f-4dad-a462-f19a2874b18e.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ffd53991-7b4e-43b5-a4d8-a9189f987da2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.89699,
+      "lng": 2.35934,
+      "persons": 2,
+      "reviewsCount": 39,
+      "rating": 4.51,
+      "type": "Private room in condo",
+      "userId": 241521744,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        4, 137, 10, 77, 79, 21, 85, 86, 665, 30, 287, 415, 671, 98, 35, 611, 36,
+        103, 40, 42, 44, 45, 46, 47, 61
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 59,
+        "currency": "USD",
+        "total": 118,
+        "priceItems": [
+          {
+            "amount": 84
+          },
+          {
+            "amount": 13
+          },
+          {
+            "amount": 16
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 25285443,
+      "url": "https://www.airbnb.com/rooms/25285443",
+      "deeplink": "https://www.airbnb.com/rooms/25285443?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 25,
+      "name": "Room for Rent 15 minutes from Saint Cloud Gateway",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Suresnes",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e2bea27b-c589-472c-afa1-0d9903302e4c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d48bbd2c-2b33-4dc8-81ce-b7d224f2c562.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9ad3d95c-6e1a-48d5-b103-dddc2a05f075.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/98b79eab-1b67-4721-a63e-e8c2c57f5e8d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/2555f70e-7d56-4426-b62b-27186de73fa3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8b26d0b0-01b9-474f-a110-837cdf90e52c.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/39e9b048-846f-4dad-bf50-61f40bfd8e20.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86383,
+      "lng": 2.20593,
+      "persons": 1,
+      "reviewsCount": 137,
+      "rating": 4.47,
+      "type": "Private room in rental unit",
+      "userId": 79238365,
+      "address": "Suresnes, Île-de-France, France",
+      "amenityIds": [
+        96, 35, 131, 4, 8, 40, 10, 42, 44, 45, 77, 46, 47, 89, 90, 91, 92, 93,
+        30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 34,
+        "currency": "USD",
+        "total": 68,
+        "priceItems": [
+          {
+            "amount": 51
+          },
+          {
+            "amount": 5
+          },
+          {
+            "amount": 9
+          },
+          {
+            "amount": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 14905942,
+      "url": "https://www.airbnb.com/rooms/14905942",
+      "deeplink": "https://www.airbnb.com/rooms/14905942?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 26,
+      "name": "Nice single room very close to Paris",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Créteil",
+      "images": [
+        "https://a0.muscache.com/im/pictures/efbb7e2b-c360-48b3-8420-a3381c318500.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0ab14125-450d-4022-9cc0-9647feeddf4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/971bedd7-1656-4753-a9d5-42768d4bd9df.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b5547b64-4721-4633-960f-9e4615a1a03c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5e71c3c7-67d4-44e9-8f14-e4af34a64242.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/354b9abc-6b49-4088-9603-3dea636bb336.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8c7e38a2-d53a-4fe8-a9be-212055f185f7.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.77977,
+      "lng": 2.45501,
+      "persons": 1,
+      "reviewsCount": 221,
+      "rating": 4.9,
+      "type": "Private room in rental unit",
+      "userId": 71529421,
+      "address": "Créteil, Île-de-France, France",
+      "amenityIds": [3, 35, 4, 101, 8, 40, 44, 46, 16, 49, 50, 21, 30],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 55,
+        "currency": "USD",
+        "total": 109,
+        "priceItems": [
+          {
+            "amount": 88
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 9842051,
+      "url": "https://www.airbnb.com/rooms/9842051",
+      "deeplink": "https://www.airbnb.com/rooms/9842051?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 27,
+      "name": "Shared room Paris centre 5",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/276d6e84-942a-4b9b-b2ea-e7f657673b2b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1834b8da-17fe-4027-91e2-a420e441b6f8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ad6dd35b-22a8-4566-8af6-dcfafd018b93.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/82081e0b-9eb6-4da0-b49c-2d6269bae6ec.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86692,
+      "lng": 2.37746,
+      "persons": 1,
+      "reviewsCount": 68,
+      "rating": 4.34,
+      "type": "Shared room in rental unit",
+      "userId": 50537853,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [33, 34, 35, 4, 8, 40, 11, 44, 46, 51, 54, 30, 94],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 46,
+        "currency": "USD",
+        "total": 92,
+        "priceItems": [
+          {
+            "amount": 57
+          },
+          {
+            "amount": 31
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 629289891106480600,
+      "url": "https://www.airbnb.com/rooms/629289891106480600",
+      "deeplink": "https://www.airbnb.com/rooms/629289891106480600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 28,
+      "name": "Private room III near Paris",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Bondy",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c29d1cd6-5893-4f47-9cfb-02acff29eb56.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/816e9c5d-65ee-48a3-837e-ae37e75c666a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/b5148ead-0680-45aa-87d5-97f82074d481.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8165d3a0-3246-4187-ba98-7eddca35f351.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daeddbf3-8f2d-448d-8d04-f8361541e216.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7b01f517-2f78-491d-8511-c5508883b25d.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7d9acc78-6a5c-441e-87ac-07f2c4cec7f6.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.91984,
+      "lng": 2.47681,
+      "persons": 1,
+      "reviewsCount": 21,
+      "rating": 4.67,
+      "type": "Private room in rental unit",
+      "userId": 24243658,
+      "address": "Bondy, Île-de-France, France",
+      "amenityIds": [
+        96, 1, 129, 35, 4, 100, 8, 40, 42, 44, 77, 627, 23, 89, 665, 91, 93, 30,
+        94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 31,
+        "currency": "USD",
+        "total": 62,
+        "priceItems": [
+          {
+            "amount": 53
+          },
+          {
+            "amount": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": 637603904473448300,
+      "url": "https://www.airbnb.com/rooms/637603904473448300",
+      "deeplink": "https://www.airbnb.com/rooms/637603904473448300?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 29,
+      "name": "Lovely room - Racecourse&Seine Musicale&Skema",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Saint-Cloud",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/699d2898-2ff9-4490-b59f-ad349d1ffe21.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/f15846aa-add7-4144-bd2b-dd770c0f1587.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/627182a7-74b8-40d7-8f7a-a2b40c792842.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/bf5bd3bd-1606-463d-860d-aeb9832ac435.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/4a8d6e60-39ed-40dc-9b77-4bed82ab2db7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637603904473448258/original/0f4a796b-effe-441a-be5b-5b24472744c9.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/64363e9f-2b3b-4404-82d6-4afcf7525ab2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": true,
+      "rareFind": false,
+      "lat": 48.8543,
+      "lng": 2.22224,
+      "persons": 1,
+      "reviewsCount": 46,
+      "rating": 4.83,
+      "type": "Private room in rental unit",
+      "userId": 95079341,
+      "address": "Saint-Cloud, Île-de-France, France",
+      "amenityIds": [33, 179, 227, 4, 8, 9, 42, 47, 287],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 71,
+        "currency": "USD",
+        "total": 141,
+        "priceItems": [
+          {
+            "amount": 113
+          },
+          {
+            "amount": 8
+          },
+          {
+            "amount": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": 34505907,
+      "url": "https://www.airbnb.com/rooms/34505907",
+      "deeplink": "https://www.airbnb.com/rooms/34505907?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 30,
+      "name": "Studio Cosy near Gare TGV, 30 minutes from PARIS",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "city": "Massy",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c502b9b8-9765-43db-8c8b-e0fd2e53b257.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/25bc32b0-f9e4-4ce0-b5ef-bec8a88a28e8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/805f1276-3eb6-4224-8e9f-2e57e7a1324f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4f30fd07-9b1d-48cf-9e2a-b1399aa09f81.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7b8a31b4-8061-406d-9466-5237cb161bd9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9443bb41-efe7-4870-b200-bc63be8d1817.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/74aac1c0-f82d-4d45-aaa2-4d9f9949f852.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.73175,
+      "lng": 2.25578,
+      "persons": 2,
+      "reviewsCount": 169,
+      "rating": 4.7,
+      "type": "Entire home",
+      "userId": 260433481,
+      "address": "Massy, Île-de-France, France",
+      "amenityIds": [
+        1, 66, 4, 8, 77, 23, 89, 90, 91, 93, 30, 94, 95, 96, 33, 98, 35, 36, 37,
+        101, 39, 103, 40, 104, 41, 42, 107, 44, 45, 46, 51, 54, 57
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 55,
+        "currency": "USD",
+        "total": 109,
+        "priceItems": [
+          {
+            "amount": 88
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": 739097111109614500,
+      "url": "https://www.airbnb.com/rooms/739097111109614500",
+      "deeplink": "https://www.airbnb.com/rooms/739097111109614500?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 31,
+      "name": "Paris 16: pleasant studio, close to Trocadéro",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/996ae854-092b-41ef-a063-0386af1d1a20.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/fcb3911e-3fa5-4fa0-b6e0-262c0d765e19.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/e0bb8b8d-ae92-479a-83f6-1057d3e2dc1a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/0797db0f-4982-4b74-a41e-4aa656dd0511.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/d6170ffc-08df-4340-a6b4-91bbdc9a8e2c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-739097111109614462/original/779634be-4800-4224-bfc2-77191079bf74.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86574,
+      "lng": 2.27709,
+      "persons": 1,
+      "reviewsCount": 2,
+      "type": "Entire rental unit",
+      "userId": 483842119,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 40, 104, 73, 137, 12, 44, 77, 145, 625, 146, 85, 89, 90, 93,
+        30, 94, 415, 671
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 131,
+        "currency": "USD",
+        "total": 262,
+        "priceItems": [
+          {
+            "amount": 216
+          },
+          {
+            "amount": 36
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 46849602,
+      "url": "https://www.airbnb.com/rooms/46849602",
+      "deeplink": "https://www.airbnb.com/rooms/46849602?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 32,
+      "name": "Eiffel Tower - Rue Saint-Charles",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": 4,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46849602/original/87fc25f3-46a7-47fb-94c7-855ef7de9e08.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7c2ae0e5-42d3-4519-a384-da3b3ba9ef8c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46849602/original/612f6a64-d952-46cc-aff2-9a29a3775a7a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7ce6a8fd-0d89-4f83-b4a3-108a5e937d00.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/057cbb2f-9980-402e-9066-b5de5c86b150.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/users/32787081/profile_pic/1430953041/original.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84613,
+      "lng": 2.28619,
+      "persons": 2,
+      "reviewsCount": 25,
+      "rating": 4.76,
+      "type": "Private room in rental unit",
+      "userId": 32787081,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 33, 35, 4, 5, 37, 39, 8, 11, 12, 45, 77, 46, 15, 47, 90, 91, 93, 30
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+      "price": {
+        "rate": 82,
+        "currency": "USD",
+        "total": 163,
+        "priceItems": [
+          {
+            "amount": 123
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 22
+          },
+          {
+            "amount": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": 637444591295028400,
+      "url": "https://www.airbnb.com/rooms/637444591295028400",
+      "deeplink": "https://www.airbnb.com/rooms/637444591295028400?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 33,
+      "name": "Room in apartment, close to transport",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Bagneux",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/883c9369-a200-41ef-ae1e-3fb46558a91e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/471e33d9-9c04-4f52-9eec-124cf0043e53.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/85a28bd8-34c8-47f2-b64f-9914d2ae51db.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/a61a0b01-60df-467f-98c4-88058b0119ca.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-637444591295028344/original/60e6348d-896d-40d2-8482-ddc3d662b2b6.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0014377c-8917-433f-96c7-718d155a840c.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.797539,
+      "lng": 2.300349,
+      "persons": 1,
+      "reviewsCount": 24,
+      "rating": 4.58,
+      "type": "Private room in condo",
+      "userId": 275220005,
+      "address": "Bagneux, Île-de-France, France",
+      "amenityIds": [33, 35, 8],
+      "previewAmenities": ["Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 37,
+        "currency": "USD",
+        "total": 74,
+        "priceItems": [
+          {
+            "amount": 62
+          },
+          {
+            "amount": 10
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 46195361,
+      "url": "https://www.airbnb.com/rooms/46195361",
+      "deeplink": "https://www.airbnb.com/rooms/46195361?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 34,
+      "name": "A private room in doves",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Colombes",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/090b1995-81a1-40a1-a4f7-f32a3f55ca0e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/4a2e624b-4414-4000-8c65-e58c53f61daf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/0dccee1a-f3d8-4e38-8eb9-8a9a3910d3aa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/21a31da0-2594-4739-b80e-0b7e1fd93bc0.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/a625cca8-ef2e-45c2-8b1c-64dc190465da.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-46195361/original/b84859d7-d2e1-4626-9833-0a8eb9edc234.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9be06ce0-c527-44ec-b495-b1820f7f7b30.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.91988,
+      "lng": 2.23937,
+      "persons": 2,
+      "reviewsCount": 87,
+      "rating": 4.68,
+      "type": "Private room in home",
+      "userId": 307921738,
+      "address": "Colombes, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 77, 79, 85, 23, 89, 665, 90, 91, 92, 93, 30, 94, 95, 96, 35,
+        101, 40, 41, 42, 44, 45, 47, 51, 54
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 40,
+        "currency": "USD",
+        "total": 80,
+        "priceItems": [
+          {
+            "amount": 68
+          },
+          {
+            "amount": 11
+          },
+          {
+            "amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 42852559,
+      "url": "https://www.airbnb.com/rooms/42852559",
+      "deeplink": "https://www.airbnb.com/rooms/42852559?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 35,
+      "name": "JO&JOE - 1 Bed in a 4-6 people mixed shared room",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 2,
+      "city": "Gentilly",
+      "images": [
+        "https://a0.muscache.com/im/pictures/c1c080d6-0a4f-4298-a22a-7c7ca3b0bc1f.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e61ebc58-6bde-4d75-bd4a-8487dfa23231.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9cf9cf9b-2ac7-4087-9d2a-06025c358e58.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f909731f-9c51-430c-9402-4af21d177826.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/493ee4e4-a6d7-42a8-8f14-27edb4799a83.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/27968b93-fb7f-4420-97c5-b30cbf20a4b9.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f924fcb1-aa6e-4b1c-afb0-6ce7b4c250f2.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.816246,
+      "lng": 2.338268,
+      "persons": 1,
+      "reviewsCount": 33,
+      "rating": 4.58,
+      "type": "Shared room in hostel",
+      "userId": 240196971,
+      "address": "Gentilly, Île-de-France, France",
+      "amenityIds": [32, 35, 4, 5, 37, 39, 103, 72, 42, 46, 51, 55, 30, 287],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 42,
+        "currency": "USD",
+        "total": 83,
+        "priceItems": [
+          {
+            "amount": 78
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": 673651397004099600,
+      "url": "https://www.airbnb.com/rooms/673651397004099600",
+      "deeplink": "https://www.airbnb.com/rooms/673651397004099600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 36,
+      "name": "Paris, Cozy Room in Apartment",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/2cb7db07-b2c3-4716-82de-581ab1ef7b37.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/a4996c3a-c7ea-453c-ad9e-e5b4a2900bfa.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/3be10711-b5a5-477b-9759-66cb9949e642.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/14717a8e-77e2-4b0b-9802-1b7455969f12.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/3982022a-1ae8-40d8-b4a7-829d1e5b15b9.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-673651397004099611/original/1f206359-2538-42d6-85eb-a79b8e20762c.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/21fe31ef-a8a9-4969-bb9c-c3331edaf69d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.86297700000001,
+      "lng": 2.3808904,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in rental unit",
+      "userId": 185147827,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [51, 4, 54, 8, 12, 47],
+      "previewAmenities": ["Wifi", "Kitchen"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 90,
+        "currency": "USD",
+        "total": 180,
+        "priceItems": [
+          {
+            "amount": 152
+          },
+          {
+            "amount": 26
+          },
+          {
+            "amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 730125490695599600,
+      "url": "https://www.airbnb.com/rooms/730125490695599600",
+      "deeplink": "https://www.airbnb.com/rooms/730125490695599600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 37,
+      "name": "Industrial-Style Home near La Villette !",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/6ff70a6a-a0c6-4417-826d-3042503297a5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/5447648b-9afa-4d4e-b41e-253cb6d3e614.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/07abe109-d669-4da8-8689-9cd06f0e2241.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/11d3b699-86cf-48d2-a848-37101d589eed.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/3399adaa-a0da-4d0f-987e-b671583a4137.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/prohost-api/Hosting-730125490695599621/original/f7c9b6f5-a822-40bd-9718-b13df659baf1.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0811727c-9344-46ae-b24f-3d33b7966e1d.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.895703381433364,
+      "lng": 2.382955809854257,
+      "persons": 2,
+      "reviewsCount": 2,
+      "type": "Entire rental unit",
+      "userId": 321170460,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        1, 4, 8, 73, 77, 85, 89, 91, 93, 30, 95, 96, 33, 98, 35, 36, 40, 104,
+        41, 44, 109, 46, 47, 117, 118, 57, 125, 126
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 138,
+        "currency": "USD",
+        "total": 275,
+        "priceItems": [
+          {
+            "amount": 265
+          },
+          {
+            "amount": 0
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 3427122,
+      "url": "https://www.airbnb.com/rooms/3427122",
+      "deeplink": "https://www.airbnb.com/rooms/3427122?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 38,
+      "name": "Parisian Apartment / Latin area",
+      "bathrooms": 1.5,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/9c2a0381-bacf-49a7-9bbc-17bc7bde1628.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/5482574f-d0cc-41ae-96ac-59f50ab76532.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/ca6ffcde-8904-40f3-95bb-79528f633cef.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/eb2767ab-d6fb-4151-9ce3-1c55e4a72bd1.png?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/36d2d2ff-f3be-494e-bd6a-b054ba363a71.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-3427122/original/b2f3993b-7461-4803-b4ff-f67a6d3e2a3d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6f0956d3-713f-4e4a-b36e-52cc93e6adae.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.84239333403949,
+      "lng": 2.3475624760574387,
+      "persons": 2,
+      "reviewsCount": 7,
+      "rating": 4.14,
+      "type": "Entire condo",
+      "userId": 17231402,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [
+        33, 35, 611, 4, 36, 37, 8, 40, 104, 41, 44, 77, 51, 54, 185, 665, 90,
+        91, 61, 93, 30, 94, 95
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 149,
+        "currency": "USD",
+        "total": 297,
+        "priceItems": [
+          {
+            "amount": 205
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 41
+          },
+          {
+            "amount": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": 625337212321599900,
+      "url": "https://www.airbnb.com/rooms/625337212321599900",
+      "deeplink": "https://www.airbnb.com/rooms/625337212321599900?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 39,
+      "name": "Room in Montmartre",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Paris",
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/3a0bc92b-e243-48ae-ba1e-f3b331afb7f7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/63f402b8-872a-4c3d-adb9-626f4930933c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/86d40710-94f8-4f57-bdff-f23f6663cb58.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/d89d0fb0-ccaf-4c25-977f-571019711e8b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-625337212321599835/original/d56ef7cc-ae2d-402d-8112-3f15ddb9127d.jpeg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d713bf75-78d7-4bb2-a3eb-6ee2490238fd.jpg?aki_policy=profile_x_medium",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.886722625729966,
+      "lng": 2.3356225443858825,
+      "persons": 2,
+      "reviewsCount": 1,
+      "type": "Private room in rental unit",
+      "userId": 269570035,
+      "address": "Paris, Île-de-France, France",
+      "amenityIds": [33, 4, 8, 11, 47],
+      "previewAmenities": ["Wifi", "Kitchen", "Washer"],
+      "cancelPolicy": "CANCEL_FLEXIBLE",
+      "price": {
+        "rate": 89,
+        "currency": "USD",
+        "total": 177,
+        "priceItems": [
+          {
+            "amount": 144
+          },
+          {
+            "amount": 24
+          },
+          {
+            "amount": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": 747679970290714600,
+      "url": "https://www.airbnb.com/rooms/747679970290714600",
+      "deeplink": "https://www.airbnb.com/rooms/747679970290714600?check_in=2022-11-24&check_out=2022-11-26&adults=1&children=0&infants=0",
+      "position": 40,
+      "name": "Beautiful apartment near the train station",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Aulnay-sous-Bois",
+      "images": [
+        "https://a0.muscache.com/im/pictures/32381d10-aac6-4d4c-b7ee-c97d14df7c97.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/66e87573-489e-4f06-9479-3ec54e329d60.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d4f44310-9e97-45ec-a545-21aaf299120e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/520f28e8-1446-428c-abc3-1e3d8a8a661b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9309e62d-2d59-4094-9aec-42789f2b0b27.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/025ac7a6-02b3-4c54-b545-955dc95953c1.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+      "isSuperhost": false,
+      "rareFind": false,
+      "lat": 48.93311,
+      "lng": 2.49461,
+      "persons": 3,
+      "reviewsCount": 0,
+      "type": "Entire condo",
+      "userId": 274838304,
+      "address": "Aulnay-sous-Bois, Île-de-France, France",
+      "amenityIds": [
+        1, 35, 4, 37, 8, 40, 12, 44, 45, 79, 85, 86, 665, 90, 93, 30, 94, 671
+      ],
+      "previewAmenities": ["Wifi", "Kitchen", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "rate": 92,
+        "currency": "USD",
+        "total": 183,
+        "priceItems": [
+          {
+            "amount": 142
+          },
+          {
+            "amount": 15
+          },
+          {
+            "amount": 26
+          }
+        ]
+      }
     }
   ]
 }

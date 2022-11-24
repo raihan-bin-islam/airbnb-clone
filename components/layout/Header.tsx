@@ -16,6 +16,8 @@ const Header = ({}: Props) => {
           alt="airbnb-logo"
           fill
           style={{ objectFit: "contain", objectPosition: "left" }}
+          sizes="(max-width: 1921px) 100%"
+          priority
         />
       </div>
       <div className="relative flex items-center justify-between px-2 py-2 transition-shadow duration-300 border-2 rounded-full shadow-sm hover:shadow-md ">

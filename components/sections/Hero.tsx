@@ -18,6 +18,7 @@ const Hero = ({ onClickExplore }: Props) => {
           alt="hero-banner"
           fill
           style={{ objectFit: "cover", objectPosition: "50% 65%" }}
+          priority
         />
       </div>
       <div className="absolute flex flex-col items-center space-y-8 -translate-x-1/2 top-2/3 left-1/2">
