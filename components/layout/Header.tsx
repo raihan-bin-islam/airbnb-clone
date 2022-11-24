@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import { GlobeAltIcon } from "@heroicons/react/24/outline";
+import { GlobeAltIcon } from "@heroicons/react/24/solid";
 
 import { UserCircleIcon, MagnifyingGlassIcon } from "@heroicons/react/20/solid";
 import { Bars3Icon } from "@heroicons/react/20/solid";
