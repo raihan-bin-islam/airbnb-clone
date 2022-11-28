@@ -11,14 +11,14 @@ const Header = ({}: Props) => {
   return (
     <header className="sticky top-0 z-[100] grid items-center justify-between grid-cols-3 py-4 px-8 bg-white border-b-2 shadow-md">
       <div className="relative w-full h-10">
-        <Image
+        {/* <Image
           src="https://images2.imgbox.com/42/7a/EDq2kZBV_o.png"
           alt="airbnb-logo"
           fill
           style={{ objectFit: "contain", objectPosition: "left" }}
           sizes="(max-width: 1921px) 100%"
           priority
-        />
+        /> */}
       </div>
       <div className="relative flex items-center justify-between px-2 py-2 transition-shadow duration-300 border-2 rounded-full shadow-sm hover:shadow-md ">
         <input
