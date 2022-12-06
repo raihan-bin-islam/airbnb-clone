@@ -11,7 +11,7 @@ const useInViewPort = (ref: MutableRefObject<HTMLDivElement | null>) => {
     return () => {
       observer.disconnect();
     };
-  }, []);
+  }, [ref]);
 
   return isIntersecting;
 };

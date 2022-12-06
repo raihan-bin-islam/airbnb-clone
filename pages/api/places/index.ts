@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import data from "../../data/places.json";
+import data from "../../../data/places.json";
 
 type Places = {};
 

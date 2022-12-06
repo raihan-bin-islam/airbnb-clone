@@ -11,7 +11,7 @@ import Header from "@components/layout/Header";
 import Hero from "@components/sections/Hero";
 import PlaceCard from "@components/cards/PlaceCard";
 import PlaceCardSkeleton from "@components/skeletons/PlaceCardSkeleton";
-// 3rd party library
+// 3rd Party Library
 import { useDebouncedCallback } from "use-debounce";
 
 type Props = {
@@ -23,6 +23,7 @@ type Props = {
 export default function Home({ initialData, protocol, host }: Props) {
   const ref = useRef<null | HTMLDivElement>(null);
   const infiniteQueryRef = useRef<null | HTMLDivElement>(null);
+  const skeletonRef = useRef<null | HTMLDivElement>(null);
 
   const isInViewPort = useInViewPort(infiniteQueryRef);
 
@@ -58,11 +59,9 @@ export default function Home({ initialData, protocol, host }: Props) {
       </Head>
       <Header />
       <Hero onClickExplore={scrollSectionToView} />
-      <section className="px-8 py-32 m-auto grid items-center justify-center grid-cols-6 max-sm:grid-cols-1 max-md:grid-cols-2 max-xl:grid-cols-3 max-2xl:grid-cols-4 max-[1919px]:grid-cols-5">
-        <PlaceCardSkeleton />
-      </section>
-      <section ref={ref} id="explore" className="px-8 py-32 m-auto">
-        <h2 className="pt-6 pb-2 text-4xl font-bold text-center capitalize text-textLight ">
+
+      <section ref={ref} id="explore" className="px-8 py-20 m-auto">
+        <h2 className="pt-6 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
           Explore your favorite places
         </h2>
         <div className="grid items-center justify-center grid-cols-6 max-sm:grid-cols-1 max-md:grid-cols-2 max-xl:grid-cols-3 max-2xl:grid-cols-4 max-[1919px]:grid-cols-5">
@@ -97,10 +96,8 @@ export default function Home({ initialData, protocol, host }: Props) {
                 />
               )
             )}
-          {isFetchingNextPage ? (
+          {hasNextPage ? (
             <>
-              <PlaceCardSkeleton />
-              <PlaceCardSkeleton />
               <PlaceCardSkeleton />
               <PlaceCardSkeleton />
               <PlaceCardSkeleton />

@@ -28,9 +28,12 @@ const Header = ({}: Props) => {
         />
         <MagnifyingGlassIcon className="hidden p-2 text-white rounded-full cursor-pointer md:inline-flex h-9 aspect-square bg-primary" />
       </div>
-      <div className="relative flex justify-end h-10 space-x-4">
-        <GlobeAltIcon className="p-2 cursor-pointer text-textDark" />
-        <div className="flex justify-between p-1 space-x-2 border-2 rounded-full">
+      <div className="relative flex items-center justify-end h-10 space-x-4">
+        <div className="flex items-center h-full">
+          <span className=" text-textLight">Become a host</span>
+          <GlobeAltIcon className="h-full p-2 cursor-pointer text-textDark" />
+        </div>
+        <div className="flex justify-between h-full p-1 space-x-2 border-2 rounded-full">
           <Bars3Icon className="p-1 cursor-pointer text-textDark" />
           <UserCircleIcon className="cursor-pointer text-textLight" />
         </div>
