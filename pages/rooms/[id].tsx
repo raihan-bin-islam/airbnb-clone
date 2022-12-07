@@ -2,6 +2,7 @@ import Header from "@components/layout/Header";
 import { StarIcon } from "@heroicons/react/20/solid";
 import { GetServerSidePropsContext } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/router";
 import React from "react";
 
@@ -24,6 +25,7 @@ const Rooms = ({ result }: Props) => {
   return (
     <div>
       <Header />
+      <Link href="/">back</Link>
       {/* Name */}
       <h2>{name}</h2>
       {/* Address */}
