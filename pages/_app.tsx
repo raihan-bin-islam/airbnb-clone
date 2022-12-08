@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
       console.log("end");
       setTimeout(() => {
         setLoading(false);
-      }, 1000);
+      }, 2500);
     };
     Router.events.on("routeChangeStart", start);
     Router.events.on("routeChangeComplete", end);

@@ -15,7 +15,7 @@ const DefaultLoader = () => {
           transition={{
             ease: "linear",
             repeat: Infinity,
-            duration: 3,
+            duration: 2.5,
             repeatDelay: 0.5,
             repeatType: "mirror",
           }}

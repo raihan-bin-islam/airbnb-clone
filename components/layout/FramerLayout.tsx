@@ -1,11 +1,19 @@
-import React, { ReactNode } from "react";
+import React, { ReactNode, useEffect, useState } from "react";
 import { motion } from "framer-motion";
+import DefaultLoader from "@components/loaders/DefaultLoader";
 
 type Props = {
   children: ReactNode;
 };
 
 const FramerLayout = ({ children }: Props) => {
+  const [loading, setLoading] = useState(true);
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false);
+    }, 5000);
+  }, []);
+
   return (
     <motion.div
       initial={{ opacity: 0 }}

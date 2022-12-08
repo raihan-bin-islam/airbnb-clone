@@ -10,12 +10,9 @@ import useInViewPort from "hooks/useInViewPort";
 import Header from "@components/layout/Header";
 import Hero from "@components/sections/Hero";
 import PlaceCard from "@components/cards/PlaceCard";
-import PlaceCardSkeleton from "@components/skeletons/PlaceCardSkeleton";
 // 3rd Party Library
 import { useDebouncedCallback } from "use-debounce";
 import FramerLayout from "@components/layout/FramerLayout";
-
-import { AnimatePresence, motion } from "framer-motion";
 
 type Props = {
   initialData: { data: []; after?: {} };
@@ -60,8 +57,8 @@ export default function Home({ initialData, protocol, host }: Props) {
         <meta name="description" content="Airbnb Clone App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
       <FramerLayout>
+        <Header />
         <Hero onClickExplore={scrollSectionToView} />
         <div className="grid items-center justify-center grid-cols-6">
           <PlaceCard

@@ -17,3 +17,9 @@
 .swiper-pagination {
   bottom: 4.5rem !important;
 }
+
+@layer components {
+  .gradient-mask {
+    @apply absolute w-full h-full opacity-20 bg-gradient-to-t from-trueGray-800 to-transparent;
+  }
+}
