@@ -60,18 +60,6 @@ export default function Home({ initialData, protocol, host }: Props) {
       <FramerLayout>
         <Header />
         <Hero onClickExplore={scrollSectionToView} />
-        <div className="grid items-center justify-center grid-cols-6">
-          <PlaceCard
-            id={places[0]?.id}
-            address={places[0]?.address}
-            type={places[0]?.type}
-            images={places[0]?.images}
-            rating={places[0]?.rating}
-            price={places[0]?.total}
-            bedrooms={places[0]?.bedrooms}
-          />
-        </div>
-
         <section ref={ref} id="explore" className="px-8 py-20 m-auto">
           <h2 className="pt-6 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
             Explore your favorite places

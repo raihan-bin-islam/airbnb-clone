@@ -20,6 +20,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 import PlaceCardSkeleton from "@components/skeletons/PlaceCardSkeleton";
+import Link from "next/link";
 // ========================= Types =========================================
 type Props = {
   id: number;
@@ -162,16 +163,18 @@ const PlaceCard = ({
                 </div>
                 {/* Custom Navigation Buttons End*/}
               </div>
-              {/* Title & Rating */}
-              <div className="absolute z-50 text-[15px] flex justify-between w-full p-5 bg-white shadow-md -bottom-1 text-textDark rounded-xl">
-                <h2 className="overflow-hidden font-medium text-ellipsis whitespace-nowrap">
-                  {address}
-                </h2>
-                <h2 className="flex h-5 space-x-2 font-medium">
-                  <StarIcon className="text-primary " />{" "}
-                  <span>{rating || "New"}</span>
-                </h2>
-              </div>
+              <Link href={`/rooms/${id}`}>
+                {/* Title & Rating */}
+                <div className="absolute z-50 text-[15px] flex justify-between w-full p-5 bg-white shadow-md -bottom-1 text-textDark rounded-xl">
+                  <h2 className="overflow-hidden font-medium text-ellipsis whitespace-nowrap">
+                    {address}
+                  </h2>
+                  <h2 className="flex h-5 space-x-2 font-medium">
+                    <StarIcon className="text-primary " />{" "}
+                    <span>{rating || "New"}</span>
+                  </h2>
+                </div>
+              </Link>
             </div>
             {/* Other Description */}
             <div className="pt-3 pl-4 text-[15px] text-textLight">
