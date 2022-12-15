@@ -13,6 +13,7 @@ module.exports = {
         manrope: ["Manrope", "sans-serif"],
         poppins: ["Poppins", "sans-serif"],
         roboto: ["Roboto", "sans-serif"],
+        circular:["Circular,sans-sarif"],
         sans: ["Inter", "sans-serif"],
       },
       dropShadow:{
