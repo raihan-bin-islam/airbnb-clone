@@ -18,8 +18,120 @@
   bottom: 4.5rem !important;
 }
 
+.leaflet-container {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  background-color: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255, 0);
+}
+.leaflet-layer-image {
+  image-rendering: crisp-edges;
+}
+
+/* Leaflet crispness override */
+.leaflet-container .leaflet-overlay-pane svg,
+.leaflet-container .leaflet-marker-pane img,
+.leaflet-container .leaflet-shadow-pane img,
+.leaflet-container .leaflet-tile-pane img,
+.leaflet-container img.leaflet-image-layer {
+  max-width: none !important;
+  /* Preserve crisp pixels with scaled up images */
+  image-rendering: optimizeSpeed; /* Legal fallback */
+  image-rendering: -moz-crisp-edges; /* Firefox        */
+  image-rendering: -o-crisp-edges; /* Opera          */
+  image-rendering: -webkit-optimize-contrast; /* Safari         */
+  image-rendering: optimize-contrast; /* CSS3 Proposed  */
+  image-rendering: crisp-edges; /* CSS4 Proposed  */
+  image-rendering: pixelated; /* CSS4 Proposed  */
+  -ms-interpolation-mode: nearest-neighbor; /* IE8+           */
+}
+
+.leaflet-tooltip,
+.leaflet-popup-content-wrapper {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+.leaflet-popup {
+  margin-bottom: -15px !important;
+  margin-left: 15px;
+}
+.leaflet-popup-tip-container {
+  display: none;
+}
+.leaflet-tooltip::before {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  display: none;
+}
+.leaflet-popup-close-button {
+  z-index: 1000;
+  right: initial !important;
+  left: 45px;
+  top: 40px !important;
+  color: white !important;
+  background: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 50%;
+  border: 2px solid white !important;
+}
+a.leaflet-popup-close-button span {
+  display: block;
+  margin-top: -2px;
+}
+.leaflet-marker-icon:hover {
+  z-index: 1000 !important;
+}
 @layer components {
   .gradient-mask {
     @apply absolute w-full h-full opacity-20 bg-gradient-to-t from-trueGray-800 to-transparent;
   }
+  .map-height {
+    height: calc(100vh - 90px);
+  }
+}
+
+@font-face {
+  font-family: "Circular";
+  font-weight: 700;
+  src: url("../public/fonts/circular/CircularStd-Bold.otf");
+}
+
+@font-face {
+  font-family: "Circular";
+  font-weight: 400;
+  src: url("../public/fonts/circular/CircularStd-Light.otf");
+}
+@font-face {
+  font-family: "Circular";
+  font-weight: 500;
+  src: url("../public/fonts/circular/CircularStd-Medium.otf");
+}
+
+body {
+  overflow-y: overlay;
+}
+/* width */
+html::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+html::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 1000px;
+}
+
+/* Handle on hover */
+html::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }

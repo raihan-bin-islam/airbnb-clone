@@ -2,7 +2,7 @@ import Head from "next/head";
 // Types
 import { GetServerSidePropsContext } from "next";
 // Hooks
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 // Custom Hooks
 import useInfiniteQuery from "hooks/useInfiniteQuery";
 import useInViewPort from "hooks/useInViewPort";
@@ -13,6 +13,15 @@ import PlaceCard from "@components/cards/PlaceCard";
 // 3rd Party Library
 import { useDebouncedCallback } from "use-debounce";
 import FramerLayout from "@components/layout/FramerLayout";
+import { MapIcon, ListBulletIcon } from "@heroicons/react/20/solid";
+
+import { motion } from "framer-motion";
+
+import dynamic from "next/dynamic";
+
+const CustomMap = dynamic(() => import("@components/map/CustomMap.jsx"), {
+  ssr: false,
+});
 
 type Props = {
   initialData: { data: []; after?: {} };
@@ -24,6 +33,7 @@ export default function Home({ initialData, protocol, host }: Props) {
   const ref = useRef<null | HTMLDivElement>(null);
   const infiniteQueryRef = useRef<null | HTMLDivElement>(null);
   const skeletonRef = useRef<null | HTMLDivElement>(null);
+  const [mapIntoView, setMapIntoView] = useState<boolean>(false);
 
   const isInViewPort = useInViewPort(infiniteQueryRef);
 
@@ -67,24 +77,28 @@ export default function Home({ initialData, protocol, host }: Props) {
           <div className="grid items-center justify-center grid-cols-6 max-sm:grid-cols-1 max-md:grid-cols-2 max-xl:grid-cols-3 max-2xl:grid-cols-4 max-[1919px]:grid-cols-5">
             {!isFetchingInitialData &&
               places?.map(
-                ({
-                  id,
-                  address,
-                  type,
-                  images,
-                  rating,
-                  price: { total },
-                  bedrooms,
-                }: {
-                  id: number;
-                  address: string;
-                  type: string;
-                  images: [];
-                  rating?: number;
-                  price: { total: number };
-                  bedrooms: number;
-                }) => (
+                (
+                  {
+                    id,
+                    address,
+                    type,
+                    images,
+                    rating,
+                    price: { total },
+                    bedrooms,
+                  }: {
+                    id: number;
+                    address: string;
+                    type: string;
+                    images: [];
+                    rating?: number;
+                    price: { total: number };
+                    bedrooms: number;
+                  },
+                  index: number
+                ) => (
                   <PlaceCard
+                    cardIndex={index + 1}
                     key={id}
                     id={id}
                     address={address}
@@ -99,6 +113,34 @@ export default function Home({ initialData, protocol, host }: Props) {
           </div>
           <div ref={infiniteQueryRef}></div>
         </section>
+        <section
+          className="sticky z-50 flex items-center px-5 py-4 m-auto my-5 space-x-2 text-white transition-transform rounded-full cursor-pointer bottom-20 w-fit bg-trueGray-700 hover:scale-105 active:scale-100"
+          onClick={() => setMapIntoView(!mapIntoView)}
+        >
+          <button className="text-sm font-medium">
+            {mapIntoView ? "Show List" : "Show Map"}
+          </button>
+          {mapIntoView ? (
+            <ListBulletIcon className="h-5" />
+          ) : (
+            <MapIcon className="h-5" />
+          )}
+        </section>
+        <motion.section
+          id="map"
+          className="fixed bottom-0 z-40 w-screen map-height"
+          initial={{ opacity: 0, left: 0, visibility: "hidden" }}
+          animate={{
+            opacity: mapIntoView ? 1 : 0,
+            visibility: mapIntoView ? "visible" : "hidden",
+          }}
+          exit={{
+            opacity: 0,
+          }}
+          transition={{ duration: 0.25 }}
+        >
+          <CustomMap />
+        </motion.section>
       </FramerLayout>
     </div>
   );
