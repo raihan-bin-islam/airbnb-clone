@@ -23,17 +23,19 @@ import PlaceCardSkeleton from "@components/skeletons/PlaceCardSkeleton";
 import Link from "next/link";
 // ========================= Types =========================================
 type Props = {
+  cardIndex?: number;
   id: number;
   address: string;
   type: string;
   bedrooms: number;
-  images: [];
+  images: string[];
   price: number;
   rating?: number;
 };
 // ================================= Component ================================
 
 const PlaceCard = ({
+  cardIndex,
   id,
   address,
   type,
@@ -121,9 +123,10 @@ const PlaceCard = ({
                           style={{ objectFit: "cover" }}
                           sizes="(max-width: 1921px) 100%,"
                           onLoad={() =>
+                            cardIndex &&
                             setTimeout(() => {
                               setImageLoaded(true);
-                            }, 900)
+                            }, 25 * cardIndex)
                           }
                         />
                       </div>
@@ -163,7 +166,7 @@ const PlaceCard = ({
                 </div>
                 {/* Custom Navigation Buttons End*/}
               </div>
-              <Link href={`/rooms/${id}`}>
+              <Link href={`/rooms/${id}`} target="_blank">
                 {/* Title & Rating */}
                 <div className="absolute z-50 text-[15px] flex justify-between w-full p-5 bg-white shadow-md -bottom-1 text-textDark rounded-xl">
                   <h2 className="overflow-hidden font-medium text-ellipsis whitespace-nowrap">
