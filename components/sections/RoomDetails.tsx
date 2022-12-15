@@ -13,12 +13,9 @@ type Props = {
 
 const RoomDetails = ({ name, rating, isSuperhost, address, images }: Props) => {
   const [open, setOpen] = useState(false);
-  const [src, setSrc] = useState("");
-  const [srcIndex, setSrcIndex] = useState(-1);
+  const [indexOfImage, setIndexOfImage] = useState(0);
 
-  useEffect(() => {
-    console.log(srcIndex);
-  }, [srcIndex]);
+  const numberOfImagesToShow = 5;
 
   return (
     <div className="pt-5 mx-auto space-y-3 max-w-7xl">
@@ -37,32 +34,28 @@ const RoomDetails = ({ name, rating, isSuperhost, address, images }: Props) => {
       <div className="relative">
         <div className="grid grid-cols-4 h-[35rem] m-auto rounded-xl space-x-3  overflow-hidden ">
           {images
-            .filter((data: {}, index: number) => index < 5)
-            .map((src: string, index: number) => {
-              console.log(srcIndex === index);
-
-              return (
-                <div
-                  key={index}
-                  className={` group relative cursor-pointer ${
-                    index === 0 && "col-span-2 row-span-2"
-                  } ${(index === 1 || index === 2) && "mb-3"}`}
-                  onClick={() => {
-                    setOpen(true);
-                    setSrc(src);
-                  }}
-                >
-                  <Image
-                    className="h-full"
-                    src={src}
-                    alt="banner-img"
-                    fill
-                    style={{ objectFit: "cover", aspectRatio: 1 }}
-                  />
-                  <span className="transition-opacity duration-300 opacity-0 group-hover:gradient-mask"></span>
-                </div>
-              );
-            })}
+            .filter((data: {}, index: number) => index < numberOfImagesToShow)
+            .map((src: string, index: number) => (
+              <div
+                key={index}
+                className={` group relative cursor-pointer ${
+                  index === 0 && "col-span-2 row-span-2"
+                } ${(index === 1 || index === 2) && "mb-3"}`}
+                onClick={() => {
+                  setIndexOfImage(index);
+                  setOpen(true);
+                }}
+              >
+                <Image
+                  className="h-full"
+                  src={src}
+                  alt="banner-img"
+                  fill
+                  style={{ objectFit: "cover", aspectRatio: 1 }}
+                />
+                <span className="transition-opacity duration-300 opacity-0 group-hover:gradient-mask"></span>
+              </div>
+            ))}
         </div>
         <button className="absolute py-2 font-medium text-gray-800 transition-all bg-white border border-gray-800 rounded-lg px-9 bottom-5 right-5 hover:shadow-lg hover:shadow-gray[300] active:scale-95">
           See all photos
@@ -80,13 +73,10 @@ const RoomDetails = ({ name, rating, isSuperhost, address, images }: Props) => {
         </button>
       </div>
       <ImagePreviewModal
-        src={src}
+        imageIndex={indexOfImage}
+        images={images}
         open={open}
         closeModal={() => setOpen(false)}
-        nextImage={() =>
-          setSrcIndex((prev) => (prev === -1 ? prev + 2 : prev + 1))
-        }
-        prevImage={() => setSrcIndex((prev) => (prev <= 0 ? -1 : prev - 1))}
       />
     </div>
   );

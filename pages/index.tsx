@@ -114,10 +114,10 @@ export default function Home({ initialData, protocol, host }: Props) {
           <div ref={infiniteQueryRef}></div>
         </section>
         <section
-          className="sticky z-50 flex items-center px-5 py-4 m-auto my-5 space-x-2 text-white transition-transform rounded-full cursor-pointer bottom-20 w-fit bg-trueGray-700 hover:scale-105 active:scale-100"
+          className="sticky z-50 flex items-center px-5 py-4 m-auto my-5 space-x-2 text-white transition-transform rounded-full cursor-pointer bottom-10 w-fit bg-trueGray-700 hover:scale-105 active:scale-100"
           onClick={() => setMapIntoView(!mapIntoView)}
         >
-          <button className="text-sm font-medium">
+          <button className="text-sm font-medium select-none">
             {mapIntoView ? "Show List" : "Show Map"}
           </button>
           {mapIntoView ? (
