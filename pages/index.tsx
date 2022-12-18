@@ -18,6 +18,8 @@ import { MapIcon, ListBulletIcon } from "@heroicons/react/20/solid";
 import { motion } from "framer-motion";
 
 import dynamic from "next/dynamic";
+import StarIcon from "@components/svg/StarIcon";
+import AirbnbDateRangePicker from "@components/calendar/AirbnbDateRangePicker";
 
 const CustomMap = dynamic(() => import("@components/map/CustomMap.jsx"), {
   ssr: false,
@@ -70,6 +72,9 @@ export default function Home({ initialData, protocol, host }: Props) {
       <FramerLayout>
         <Header />
         <Hero onClickExplore={scrollSectionToView} />
+
+        <AirbnbDateRangePicker />
+
         <section ref={ref} id="explore" className="px-8 py-20 m-auto">
           <h2 className="pt-6 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
             Explore your favorite places

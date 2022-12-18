@@ -9,6 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        airbnb: ["Airbnb", "sans-serif"],
         inter: ["Inter", "sans-serif"],
         manrope: ["Manrope", "sans-serif"],
         poppins: ["Poppins", "sans-serif"],

@@ -21,6 +21,12 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/map/CustomMap.jsx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "components/map/CustomMap.jsx",
+    "components/map/marker/MarkerIcon.jsx"
+  ],
   "exclude": ["node_modules"]
 }

@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  overflow-y: overlay;
+}
+/* width */
+html::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+html::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 1000px;
+}
+
+/* Handle on hover */
+html::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+/** ================== Swiper Styles =================== */
 .swiper-pagination-bullet {
   background-color: rgba(255, 255, 255, 1) !important;
   opacity: 0.5 !important;
@@ -18,6 +42,7 @@
   bottom: 4.5rem !important;
 }
 
+/** ================== Leaflet Map Styles =================== */
 .leaflet-container {
   margin: 0 auto;
   width: 100%;
@@ -86,6 +111,187 @@ a.leaflet-popup-close-button span {
 .leaflet-marker-icon:hover {
   z-index: 1000 !important;
 }
+
+/** React Dates Custom Date Picker  START*/
+.airbnb-calendar {
+  height: 5000px;
+  position: relative;
+  top: 0px;
+  z-index: 0;
+}
+.airbnb-calendar .date-text {
+  position: relative;
+  z-index: 9999;
+}
+.airbnb-calendar .CalendarDay__blocked_out_of_range .Custom__Day_Contents {
+  pointer-events: none;
+}
+
+.airbnb-calendar .CalendarDay__default {
+  border: none;
+  border-radius: 1500px;
+  position: relative;
+}
+
+.airbnb-calendar .CalendarDay__default:hover {
+  /* background: none; */
+  /* border: 1px solid black !important; */
+  border: none;
+}
+
+.airbnb-calendar .CalendarDay__hovered_span:first-of-type {
+  border-radius: 999px 0 0 999px !important;
+}
+
+.airbnb-calendar .CalendarDay__hovered_span:last-of-type {
+  border-radius: 0 999px 999px 0 !important;
+}
+
+.airbnb-calendar .CalendarDay__hovered_span:hover,
+.CalendarDay__hovered_span {
+  background: #ff5a5f;
+  border-radius: 0px !important;
+  color: black;
+  position: relative;
+}
+
+.airbnb-calendar .CalendarDay__selected {
+  background: none;
+  color: white;
+  position: relative;
+}
+
+.airbnb-calendar .CalendarDay__selected:before {
+  background-color: #ff5a5f;
+  border-radius: 0 !important;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1px;
+}
+
+.airbnb-calendar .CalendarDay__selected .Custom__Day_Contents {
+  background: none;
+}
+
+.airbnb-calendar .CalendarDay__selected:hover {
+  background: none;
+  color: white;
+}
+
+.airbnb-calendar .CalendarDay__selected_end:before {
+  border-radius: 0 999px 999px 0 !important;
+}
+
+.airbnb-calendar .CalendarDay__selected_end.CalendarDay__firstDayOfWeek:before {
+  border-radius: 999px !important;
+}
+
+.airbnb-calendar .CalendarDay__selected_span {
+  background: #ff5a5f;
+  border-radius: 0px !important;
+  color: black;
+}
+
+.airbnb-calendar .CalendarDay__selected_span.CalendarDay__firstDayOfWeek {
+  border-radius: 999px 0 0 999px !important;
+}
+
+.airbnb-calendar .CalendarDay__selected_span.CalendarDay__lastDayOfWeek {
+  border-radius: 0 999px 999px 0 !important;
+}
+
+.airbnb-calendar .CalendarDay__selected_start:before {
+  border-radius: 999px 0 0 999px !important;
+}
+
+.airbnb-calendar
+  .CalendarDay__selected_start.CalendarDay__lastDayOfWeek:before {
+  border-radius: 999px !important;
+}
+
+.airbnb-calendar .CalendarMonth {
+  /* padding: 0px 20px; */
+}
+.airbnb-calendar .CalendarMonth_caption {
+  color: black;
+  font-size: 14px;
+  padding-bottom: 40px;
+}
+
+.airbnb-calendar .CalendarMonth_table {
+  border-collapse: initial;
+  border-spacing: 0px 3px;
+  position: relative;
+  z-index: 1px;
+}
+
+.airbnb-calendar .DateInput {
+  /* display: none; */
+  /* height: 0; */
+}
+
+.airbnb-calendar .DateInput_fang {
+  display: none;
+}
+
+.airbnb-calendar .DateRangePicker_picker {
+  font-family: "Airbnb";
+}
+
+.airbnb-calendar .DateRangePicker_picker {
+  border: none;
+  border-radius: 8px;
+}
+
+.airbnb-calendar .DayPicker {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  padding-top: 10px !important;
+  position: relative;
+  width: fit-content !important;
+}
+
+.airbnb-calendar .DayPickerNavigation_button {
+  border-radius: 3px;
+  line-height: 0.78;
+  padding: 6px 9px;
+  position: absolute;
+  top: 22px;
+}
+
+.airbnb-calendar .DayPickerNavigation_button:has(.left-arrow) {
+  left: 22px;
+}
+
+.airbnb-calendar .DayPickerNavigation_button:has(.right-arrow) {
+  right: 22px;
+}
+
+.airbnb-calendar .DayPickerNavigation_button__disabled {
+  border: none;
+}
+
+.airbnb-calendar .DayPickerNavigation_button__disabled svg path {
+  fill: gray;
+}
+
+.airbnb-calendar .DayPicker_transitionContainer {
+  min-height: 370px;
+  position: relative;
+}
+
+.airbnb-calendar .DayPicker_weekHeader ul li {
+  font-size: 14px;
+}
+/** React Dates Custom Date Picker  END*/
+
+/** ================== Custom components =================== */
 @layer components {
   .gradient-mask {
     @apply absolute w-full h-full opacity-20 bg-gradient-to-t from-trueGray-800 to-transparent;
@@ -95,43 +301,42 @@ a.leaflet-popup-close-button span {
   }
 }
 
+/** Circular Font */
+/* Regular */
+@font-face {
+  font-family: "Circular";
+  font-weight: 400;
+  src: url("../public/fonts/circular/CircularStd-Light.otf");
+}
+/* Medium */
+@font-face {
+  font-family: "Circular";
+  font-weight: 500;
+  src: url("../public/fonts/circular/CircularStd-Medium.otf");
+}
+/* Bold */
 @font-face {
   font-family: "Circular";
   font-weight: 700;
   src: url("../public/fonts/circular/CircularStd-Bold.otf");
 }
 
+/** Airbnb Font */
+/* Regular */
 @font-face {
-  font-family: "Circular";
+  font-family: "Airbnb";
   font-weight: 400;
-  src: url("../public/fonts/circular/CircularStd-Light.otf");
+  src: url("../public/fonts/airbnb/Airbnb_Cereal-Book.woff2");
 }
+/* Medium */
 @font-face {
-  font-family: "Circular";
+  font-family: "Airbnb";
   font-weight: 500;
-  src: url("../public/fonts/circular/CircularStd-Medium.otf");
+  src: url("../public/fonts/airbnb/Airbnb_Cereal-Medium.woff2");
 }
-
-body {
-  overflow-y: overlay;
-}
-/* width */
-html::-webkit-scrollbar {
-  width: 8px;
-}
-
-/* Track */
-html::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-/* Handle */
-html::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 1000px;
-}
-
-/* Handle on hover */
-html::-webkit-scrollbar-thumb:hover {
-  background: #555;
+/* Bold */
+@font-face {
+  font-family: "Airbnb";
+  font-weight: 700;
+  src: url("../public/fonts/airbnb/Airbnb_Cereal-Bold.woff2");
 }

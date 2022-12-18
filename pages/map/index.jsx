@@ -8,7 +8,7 @@ const CustomMap = dynamic(() => import("@components/map/CustomMap.jsx"), {
 
 const Map = () => {
   return (
-    <div>
+    <div className="w-screen h-screen">
       <CustomMap />
       {/* <MarkerIcon /> */}
     </div>

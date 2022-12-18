@@ -1,7 +1,8 @@
-import PlaceCard from "@components/cards/PlaceCard";
 import React, { forwardRef } from "react";
 import data from "../../../data/places.json";
+
 import MapCard from "../card/MapCard";
+import PlaceCard from "@components/cards/PlaceCard";
 
 const MarkerIcon = forwardRef(({ id, price, active }, ref) => {
   const { results } = data;

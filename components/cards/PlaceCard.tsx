@@ -21,6 +21,7 @@ import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 import PlaceCardSkeleton from "@components/skeletons/PlaceCardSkeleton";
 import Link from "next/link";
+import { jsToCss } from "lib/utils";
 // ========================= Types =========================================
 type Props = {
   cardIndex?: number;
@@ -68,7 +69,19 @@ const PlaceCard = ({
     default: { ease: "anticipate", duration: 1 },
   };
 
+  const style = {
+    display: "flex",
+    outline: "none !important",
+    border: "none !important",
+    color: "red",
+    ".MuiAutocomplete-inputRoot": {
+      border: "none !important",
+      borderRadius: "8px !important",
+    },
+  };
+
   useEffect(() => {
+    jsToCss(style);
     setTimeout(() => {
       setOnLoaded(true);
     }, 1500);
