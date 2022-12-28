@@ -25,8 +25,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/map/CustomMap.jsx",
-    "components/map/marker/MarkerIcon.jsx"
+    "components/map/CustomMap.tsx",
+    "components/map/marker/MarkerIcon.tsx"
   ],
   "exclude": ["node_modules"]
 }

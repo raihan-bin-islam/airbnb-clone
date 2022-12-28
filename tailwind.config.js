@@ -20,10 +20,19 @@ module.exports = {
       dropShadow:{
         dark:`0px 0px 4px ${colors.black}` 
       },
+      keyframes:{
+        liquid:{
+          '0%':{left:'-8px',scale:'1.5 0.6',transformOrigin:'left'},
+          '25%':{left:'-8px',scale:'2.7 0.6',transformOrigin:'left'},
+          '100%':{left:'12px',scale:'1 1',transformOrigin:'right',}
+        }
+      },
       animation:{
         'ping-slow': 'ping 1.5s ease-out infinite',
         'ping-slow-delayed-1': 'ping 1.5s ease-out 250ms infinite',
+        'liquid': 'liquid 1s ease forwards'
       },
+
     },
     colors: {
       primary: '#FF5A5F',

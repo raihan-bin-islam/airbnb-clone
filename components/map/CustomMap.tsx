@@ -11,7 +11,7 @@ import MarkerIcon from "./marker/MarkerIcon";
 import data from "../../data/places.json";
 import MapCard from "./card/MapCard";
 
-let DefaultMarkerIcon = (id, price, active) => {
+let DefaultMarkerIcon = (id: number, price: number, active: boolean) => {
   return L.divIcon({
     className: "custom-icon",
     html: ReactDOMServer.renderToString(
@@ -19,7 +19,6 @@ let DefaultMarkerIcon = (id, price, active) => {
     ),
   });
 };
-
 const CustomMap = () => {
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -27,12 +26,15 @@ const CustomMap = () => {
   const [activeId, setActiveId] = useState(0);
 
   const { results } = data;
-  const location = [61.002413, 69.909451];
+  const location = L.latLng(61.002413, 69.909451);
+  const swBounds = L.latLng([85, -900]);
+  const neBounds = L.latLng(-85.05115, 900);
+  const locationBounds = L.latLngBounds(swBounds, neBounds);
 
-  const locationBounds = [
-    [85, -900],
-    [-85.05115, 900],
-  ];
+  // const locationBounds = [
+  //   [85, -900],
+  //   [-85.05115, 900],
+  // ];
 
   // const fillBlueOptions = { fillColor: "#FF5A5F", color: "none" };
 

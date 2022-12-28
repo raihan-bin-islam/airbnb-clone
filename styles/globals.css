@@ -114,10 +114,10 @@ a.leaflet-popup-close-button span {
 
 /** React Dates Custom Date Picker  START*/
 .airbnb-calendar {
-  height: 5000px;
+  height: 0px;
   position: relative;
   top: 0px;
-  z-index: 0;
+  z-index: 999999;
 }
 .airbnb-calendar .date-text {
   position: relative;
@@ -230,8 +230,8 @@ a.leaflet-popup-close-button span {
 }
 
 .airbnb-calendar .DateInput {
-  /* display: none; */
-  /* height: 0; */
+  display: none;
+  height: 0;
 }
 
 .airbnb-calendar .DateInput_fang {

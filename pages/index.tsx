@@ -21,7 +21,7 @@ import dynamic from "next/dynamic";
 import StarIcon from "@components/svg/StarIcon";
 import AirbnbDateRangePicker from "@components/calendar/AirbnbDateRangePicker";
 
-const CustomMap = dynamic(() => import("@components/map/CustomMap.jsx"), {
+const CustomMap = dynamic(() => import("@components/map/CustomMap"), {
   ssr: false,
 });
 
