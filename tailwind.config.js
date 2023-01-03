@@ -25,12 +25,17 @@ module.exports = {
           '0%':{left:'-8px',scale:'1.5 0.6',transformOrigin:'left'},
           '25%':{left:'-8px',scale:'2.7 0.6',transformOrigin:'left'},
           '100%':{left:'12px',scale:'1 1',transformOrigin:'right',}
+        },
+        heroAnimation:{
+          '0%':{webkitMaskPosition:'0% 50%',maskPosition:'0% 50%'},
+          '100%':{webkitMaskPosition:'100% 50%',maskPosition:'100% 50%'},
         }
       },
       animation:{
         'ping-slow': 'ping 1.5s ease-out infinite',
         'ping-slow-delayed-1': 'ping 1.5s ease-out 250ms infinite',
-        'liquid': 'liquid 1s ease forwards'
+        'liquid': 'liquid 1s ease forwards',
+        'hero-animation':'heroAnimation 720ms steps(24) 2s forwards '
       },
 
     },

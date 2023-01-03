@@ -299,6 +299,13 @@ a.leaflet-popup-close-button span {
   .map-height {
     height: calc(100vh - 90px);
   }
+  .hero-animation-mask {
+    -webkit-mask-image: url("/mask-3.png");
+    -webkit-mask-size: cover;
+    -webkit-mask-position: 0% 50%;
+    /* -webkit-mask-origin: border-box;
+    -webkit-mask-repeat: no-repeat; */
+  }
 }
 
 /** Circular Font */

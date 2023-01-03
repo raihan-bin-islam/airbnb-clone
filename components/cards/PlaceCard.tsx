@@ -134,7 +134,6 @@ const PlaceCard = ({
                           alt="card-image"
                           fill
                           style={{ objectFit: "cover" }}
-                          sizes="(max-width: 1921px) 100%,"
                           onLoad={() =>
                             cardIndex &&
                             setTimeout(() => {
