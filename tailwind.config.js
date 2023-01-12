@@ -29,13 +29,18 @@ module.exports = {
         heroAnimation:{
           '0%':{webkitMaskPosition:'0% 50%',maskPosition:'0% 50%'},
           '100%':{webkitMaskPosition:'100% 50%',maskPosition:'100% 50%'},
+        },
+        fadeIn:{
+          '0%':{opacity: 0},
+          '100%':{opacity: 1},
         }
       },
       animation:{
         'ping-slow': 'ping 1.5s ease-out infinite',
         'ping-slow-delayed-1': 'ping 1.5s ease-out 250ms infinite',
         'liquid': 'liquid 1s ease forwards',
-        'hero-animation':'heroAnimation 480ms steps(24) forwards 1s'
+        'hero-animation':'heroAnimation 480ms steps(24) forwards 1s',
+        'fade-in':'fadeIn 600ms ease-in-out forwards 1.48s'
       },
 
     },

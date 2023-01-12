@@ -13,7 +13,7 @@ const Hero = ({ onClickExplore }: Props) => {
   return (
     <div className="relative h-[650px]">
       <div className="relative h-full">
-        <div className="absolute bg-[url('https://images2.imgbox.com/cb/c5/ekIu7nNc_o.jpg')] inset-0 z-50 bg-cover bg-center hero-animation-mask animate-hero-animation"></div>
+        <div className="absolute bg-[url('/sketch.jpg')] inset-0 z-40 bg-cover bg-center hero-animation-mask animate-hero-animation"></div>
         <Image
           src="https://images2.imgbox.com/66/d1/LSz8ZkQb_o.png"
           alt="hero-banner"
@@ -22,7 +22,7 @@ const Hero = ({ onClickExplore }: Props) => {
           priority
         />
       </div>
-      <div className="absolute flex flex-col items-center space-y-8 -translate-x-1/2 top-2/3 left-1/2">
+      <div className="absolute z-50 flex flex-col items-center space-y-8 -translate-x-1/2 opacity-0 top-2/3 left-1/2 animate-fade-in">
         <h2 className="text-4xl font-bold text-center text-white max-sm:text-2xl drop-shadow-dark">
           Book a trip <br /> Host travelers
         </h2>
