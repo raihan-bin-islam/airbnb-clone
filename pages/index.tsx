@@ -67,8 +67,6 @@ export default function Home({ initialData, protocol, host }: Props) {
         <Header />
         <Hero onClickExplore={scrollSectionToView} />
 
-        <AirbnbDateRangePicker />
-
         <section ref={ref} id="explore" className="px-8 py-20 m-auto">
           <h2 className="pt-6 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
             Explore your favorite places
