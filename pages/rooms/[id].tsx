@@ -1,12 +1,9 @@
-import Header from "@components/layout/Header";
-import ImagePreviewModal from "@components/modals/ImagePreviewModal";
-import RoomDetails from "@components/sections/RoomDetails";
-import { StarIcon } from "@heroicons/react/20/solid";
+import React from "react";
 import { GetServerSidePropsContext } from "next";
-import Image from "next/image";
-import Link from "next/link";
 import { useRouter } from "next/router";
-import React, { useState } from "react";
+
+import Header from "@components/layout/Header";
+import RoomDetails from "@components/sections/RoomDetails";
 
 type Props = {
   result: {

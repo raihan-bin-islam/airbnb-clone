@@ -134,6 +134,7 @@ const PlaceCard = ({
                           alt="card-image"
                           fill
                           style={{ objectFit: "cover" }}
+                          loading="lazy"
                           onLoad={() =>
                             cardIndex &&
                             setTimeout(() => {

@@ -42,6 +42,26 @@ html::-webkit-scrollbar-thumb:hover {
   bottom: 4.5rem !important;
 }
 
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+/* .swiper-slide img {
+  display: block;
+  width: 100%;
+} */
+
 /** ================== Leaflet Map Styles =================== */
 .leaflet-container {
   margin: 0 auto;
@@ -300,11 +320,17 @@ a.leaflet-popup-close-button span {
     height: calc(100vh - 90px);
   }
   .hero-animation-mask {
+    mask-image: url("/mask-3.png");
+    mask-size: cover;
+    mask-position: 0% 50%;
+    mask-origin: border-box;
+    mask-repeat: no-repeat;
+
     -webkit-mask-image: url("/mask-3.png");
     -webkit-mask-size: cover;
     -webkit-mask-position: 0% 50%;
-    /* -webkit-mask-origin: border-box;
-    -webkit-mask-repeat: no-repeat; */
+    -webkit-mask-origin: border-box;
+    -webkit-mask-repeat: no-repeat;
   }
 }
 

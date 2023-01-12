@@ -1,4 +1,5 @@
 import Head from "next/head";
+import dynamic from "next/dynamic";
 // Types
 import { GetServerSidePropsContext } from "next";
 // Hooks
@@ -10,16 +11,12 @@ import useInViewPort from "hooks/useInViewPort";
 import Header from "@components/layout/Header";
 import Hero from "@components/sections/Hero";
 import PlaceCard from "@components/cards/PlaceCard";
-// 3rd Party Library
-import { useDebouncedCallback } from "use-debounce";
-import FramerLayout from "@components/layout/FramerLayout";
-import { MapIcon, ListBulletIcon } from "@heroicons/react/20/solid";
-
-import { motion } from "framer-motion";
-
-import dynamic from "next/dynamic";
-import StarIcon from "@components/svg/StarIcon";
 import AirbnbDateRangePicker from "@components/calendar/AirbnbDateRangePicker";
+// 3rd Party Library
+import FramerLayout from "@components/layout/FramerLayout";
+import { useDebouncedCallback } from "use-debounce";
+import { MapIcon, ListBulletIcon } from "@heroicons/react/20/solid";
+import { AnimatePresence, motion } from "framer-motion";
 
 const CustomMap = dynamic(() => import("@components/map/CustomMap"), {
   ssr: false,
@@ -34,17 +31,14 @@ type Props = {
 export default function Home({ initialData, protocol, host }: Props) {
   const ref = useRef<null | HTMLDivElement>(null);
   const infiniteQueryRef = useRef<null | HTMLDivElement>(null);
-  const skeletonRef = useRef<null | HTMLDivElement>(null);
   const [mapIntoView, setMapIntoView] = useState<boolean>(false);
 
   const isInViewPort = useInViewPort(infiniteQueryRef);
 
   const {
     data: places,
-    hasNextPage,
     fetchNextPage,
     isFetchingInitialData,
-    isFetchingNextPage,
   } = useInfiniteQuery(`${protocol}://${host}/api/places`, initialData);
 
   const scrollSectionToView = () => {
@@ -65,7 +59,7 @@ export default function Home({ initialData, protocol, host }: Props) {
   return (
     <div>
       <Head>
-        {/* <title>Airbnb 2.0</title> */}
+        <title>Airbnb 2.0</title>
         <meta name="description" content="Airbnb Clone App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -118,7 +112,7 @@ export default function Home({ initialData, protocol, host }: Props) {
           </div>
           <div ref={infiniteQueryRef}></div>
         </section>
-        {/* <section
+        <section
           className="sticky z-50 flex items-center px-5 py-4 m-auto my-5 space-x-2 text-white transition-transform rounded-full cursor-pointer bottom-10 w-fit bg-trueGray-700 hover:scale-105 active:scale-100"
           onClick={() => setMapIntoView(!mapIntoView)}
         >
@@ -131,21 +125,25 @@ export default function Home({ initialData, protocol, host }: Props) {
             <MapIcon className="h-5" />
           )}
         </section>
-        <motion.section
-          id="map"
-          className="fixed bottom-0 z-40 w-screen map-height"
-          initial={{ opacity: 0, left: 0, visibility: "hidden" }}
-          animate={{
-            opacity: mapIntoView ? 1 : 0,
-            visibility: mapIntoView ? "visible" : "hidden",
-          }}
-          exit={{
-            opacity: 0,
-          }}
-          transition={{ duration: 0.25 }}
-        >
-          <CustomMap />
-        </motion.section> */}
+        <AnimatePresence>
+          {mapIntoView && (
+            <motion.section
+              id="map"
+              className="fixed bottom-0 z-40 w-screen map-height"
+              initial={{ opacity: 0, left: 0, visibility: "hidden" }}
+              animate={{
+                opacity: 1,
+                visibility: "visible",
+              }}
+              exit={{
+                opacity: 0,
+              }}
+              transition={{ duration: 0.25 }}
+            >
+              <CustomMap />
+            </motion.section>
+          )}
+        </AnimatePresence>
       </FramerLayout>
     </div>
   );

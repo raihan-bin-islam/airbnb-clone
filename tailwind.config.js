@@ -35,7 +35,7 @@ module.exports = {
         'ping-slow': 'ping 1.5s ease-out infinite',
         'ping-slow-delayed-1': 'ping 1.5s ease-out 250ms infinite',
         'liquid': 'liquid 1s ease forwards',
-        'hero-animation':'heroAnimation 720ms steps(24) 2s forwards '
+        'hero-animation':'heroAnimation 480ms steps(24) forwards 1s'
       },
 
     },
