@@ -67,8 +67,8 @@ export default function Home({ initialData, protocol, host }: Props) {
         <Header />
         <Hero onClickExplore={scrollSectionToView} />
 
-        <section ref={ref} id="explore" className="px-8 py-20 m-auto">
-          <h2 className="pt-6 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
+        <section ref={ref} id="explore" className="px-8 pt-10 pb-20 m-auto">
+          <h2 className="pt-4 pb-8 text-4xl font-bold text-center capitalize text-textLight ">
             Explore your favorite places
           </h2>
           <div className="grid items-center justify-center grid-cols-6 max-sm:grid-cols-1 max-md:grid-cols-2 max-xl:grid-cols-3 max-2xl:grid-cols-4 max-[1919px]:grid-cols-5">
